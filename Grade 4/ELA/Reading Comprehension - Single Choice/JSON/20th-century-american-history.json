@@ -1,0 +1,247 @@
+{
+  "topics": [
+    {
+      "title": "The Wright Brothers Take Flight",
+      "passage": [
+        "For thousands of years, people dreamed of flying like birds. In the early 1900s, two brothers from Ohio named Orville and Wilbur Wright decided to make that dream come true. The Wright brothers ran a bicycle shop, but in their free time they studied how birds glided through the air. They believed that if they understood balance and control, they could build a machine that could fly.",
+        "The brothers spent years testing gliders on the windy beaches of Kitty Hawk, North Carolina. Kitty Hawk was a perfect spot because of its steady winds and soft, sandy hills for landing. Each time a glider crashed, the Wright brothers did not give up. Instead, they studied what went wrong and made changes. They kept careful notes and built a wind tunnel to test small wing models before building full-sized aircraft.",
+        "On December 17, 1903, their hard work finally paid off. Orville lay down on the wing of their flying machine, called the <i>Flyer</i>, and the engine roared to life. The machine lifted off the ground and flew for twelve seconds, traveling 120 feet. It was not a long flight, but it was the first time a machine carrying a person had flown under its own power and landed safely.",
+        "News of the flight spread slowly at first because many people did not believe it was possible. However, the Wright brothers kept improving their designs, and within a few years their airplanes could fly for miles. Their invention changed the world forever. Today, airplanes carry millions of people across oceans and continents every single day, all because two bicycle makers refused to stop dreaming."
+      ],
+      "questions": [
+        {
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "Bicycles were very popular in Ohio in the early 1900s.",
+            "The Wright brothers invented and successfully flew the first powered airplane.",
+            "Birds can glide long distances without flapping their wings.",
+            "Kitty Hawk, North Carolina, is a popular beach town."
+          ],
+          "correct_index": 1
+        },
+        {
+          "question": "Why did the Wright brothers choose Kitty Hawk for their tests?",
+          "options": [
+            "It was close to their bicycle shop.",
+            "It had steady winds and soft sand for landing.",
+            "It was the only place with an airport.",
+            "Their family lived there."
+          ],
+          "correct_index": 1
+        },
+        {
+          "question": "What can you infer about the Wright brothers from how they reacted to crashes?",
+          "options": [
+            "They were easily discouraged and often gave up.",
+            "They ignored their mistakes and kept building the same design.",
+            "They were determined and learned from each failure.",
+            "They asked other inventors to finish their work."
+          ],
+          "correct_index": 2
+        },
+        {
+          "question": "In the passage, what does the phrase &ldquo;their hard work finally paid off&rdquo; most likely mean?",
+          "options": [
+            "They earned enough money to retire.",
+            "Their years of effort led to success.",
+            "They were paid to build the airplane.",
+            "They finished paying for the wind tunnel."
+          ],
+          "correct_index": 1
+        },
+        {
+          "question": "Why did news of the first flight spread slowly?",
+          "options": [
+            "There were no newspapers in 1903.",
+            "The Wright brothers kept the flight a secret.",
+            "Many people did not believe it was possible.",
+            "The flight happened at night."
+          ],
+          "correct_index": 2
+        },
+        {
+          "question": "Which sentence from the passage best supports the idea that the Wright brothers used a scientific approach to their invention?",
+          "options": [
+            "The brothers ran a bicycle shop.",
+            "They kept careful notes and built a wind tunnel to test small wing models.",
+            "News of the flight spread slowly at first.",
+            "Today, airplanes carry millions of people every day."
+          ],
+          "correct_index": 1
+        },
+        {
+          "question": "What is most likely to have happened if the Wright brothers had given up after their first glider crashes?",
+          "options": [
+            "Airplanes would have been invented by someone else immediately the next day.",
+            "The invention of powered flight may have been delayed.",
+            "Birds would have stopped flying.",
+            "Bicycles would have become airplanes instead."
+          ],
+          "correct_index": 1
+        }
+      ]
+    },
+    {
+      "title": "Hard Times: The Great Depression",
+      "passage": [
+        "In October 1929, something terrible happened to the American economy. The stock market, where people buy and sell small shares of companies, suddenly crashed. Prices dropped so fast that many people lost most of the money they had invested. This event was the beginning of a long, difficult period in American history called the Great Depression, which lasted through most of the 1930s.",
+        "During the Great Depression, banks closed, and many people lost their life savings. Factories and businesses could not sell their products, so they had to lay off workers. At the worst point, about one out of every four American workers did not have a job. Families struggled to pay for food, clothing, and housing. Some families lost their homes and had to live in makeshift camps.",
+        "Farmers faced their own disaster. A severe drought turned parts of the Great Plains into what people called the &ldquo;Dust Bowl.&rdquo; Strong winds picked up the dry soil and created huge dust storms that buried crops and homes. Many farming families had no choice but to pack up their belongings and travel west, hoping to find work in states like California.",
+        "In 1933, a new president named Franklin D. Roosevelt took office. He created a set of programs known as the New Deal to help the country recover. These programs built roads, bridges, and parks, giving many unemployed people new jobs. The New Deal also created new rules to make banks safer. Slowly, the economy began to improve, although it would take World War II, which began in 1939, to fully end the Depression."
+      ],
+      "questions": [
+        {
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "The stock market crash of 1929 led to a long period of hardship called the Great Depression.",
+            "Farmers in the 1930s enjoyed record harvests.",
+            "Franklin D. Roosevelt was the first president of the United States.",
+            "Banks never closed during the 1930s."
+          ],
+          "correct_index": 0
+        },
+        {
+          "question": "What caused the Dust Bowl?",
+          "options": [
+            "Too much rain flooded the farms.",
+            "A severe drought and strong winds dried out and blew away the soil.",
+            "Farmers stopped planting crops on purpose.",
+            "An earthquake destroyed the farmland."
+          ],
+          "correct_index": 1
+        },
+        {
+          "question": "What can you infer about life for many American families during the Great Depression?",
+          "options": [
+            "Most families had more money than they needed.",
+            "Life became very difficult as jobs and savings disappeared.",
+            "Families were unaffected by the stock market crash.",
+            "Everyone moved to big cities to find easy jobs."
+          ],
+          "correct_index": 1
+        },
+        {
+          "question": "In the passage, what does the word &ldquo;makeshift&rdquo; most likely mean?",
+          "options": [
+            "Expensive and permanent",
+            "Put together quickly with whatever was available",
+            "Built by the government",
+            "Located near a city"
+          ],
+          "correct_index": 1
+        },
+        {
+          "question": "Why did Franklin D. Roosevelt create the New Deal?",
+          "options": [
+            "To help the country recover from the Great Depression.",
+            "To start a war with another country.",
+            "To build more stock markets.",
+            "To stop farmers from growing crops."
+          ],
+          "correct_index": 0
+        },
+        {
+          "question": "Which sentence best supports the idea that unemployment was extremely high during the Great Depression?",
+          "options": [
+            "The stock market crashed in October 1929.",
+            "At the worst point, about one out of every four American workers did not have a job.",
+            "Roosevelt took office in 1933.",
+            "World War II began in 1939."
+          ],
+          "correct_index": 1
+        },
+        {
+          "question": "Based on the passage, what would most likely have happened if the New Deal programs had not been created?",
+          "options": [
+            "The Dust Bowl would have ended immediately.",
+            "Recovery from the Depression may have taken even longer.",
+            "The stock market would never have crashed.",
+            "World War II would have started sooner."
+          ],
+          "correct_index": 1
+        }
+      ]
+    },
+    {
+      "title": "One Giant Leap: The Moon Landing",
+      "passage": [
+        "In the 1960s, the United States and the Soviet Union were racing to see who could achieve more in space. This competition became known as the Space Race. In 1961, President John F. Kennedy set an ambitious goal: to land an American astronaut on the Moon before the end of the decade. Many people thought this goal seemed impossible, since humans had only just begun traveling into space.",
+        "NASA, the government agency in charge of space exploration, worked for years to make Kennedy's goal a reality. Scientists and engineers designed powerful rockets called Saturn V, which stood taller than a 36-story building. Astronauts trained for thousands of hours, practicing every step of the dangerous journey. Along the way, the Apollo program faced setbacks, including a tragic fire during a test in 1967 that killed three astronauts.",
+        "Despite these challenges, NASA kept working toward its goal. On July 16, 1969, three astronauts named Neil Armstrong, Buzz Aldrin, and Michael Collins launched into space aboard Apollo 11. Four days later, on July 20, 1969, Armstrong and Aldrin climbed into a small landing craft and touched down on the Moon's surface while Collins orbited above in the command ship.",
+        "When Neil Armstrong stepped onto the Moon, he spoke words that people still remember today: &ldquo;That's one small step for man, one giant leap for mankind.&rdquo; Millions of people around the world watched the event on television, amazed that humans had traveled so far. The Moon landing showed that with teamwork, careful planning, and determination, people could achieve things once thought impossible."
+      ],
+      "questions": [
+        {
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "The United States successfully landed astronauts on the Moon after years of effort.",
+            "The Soviet Union was the first country to reach the Moon.",
+            "Astronauts do not need to train before flying to space.",
+            "President Kennedy traveled to the Moon himself."
+          ],
+          "correct_index": 0
+        },
+        {
+          "question": "What was the Space Race?",
+          "options": [
+            "A running competition held at NASA.",
+            "A competition between the United States and the Soviet Union in space exploration.",
+            "A race to build the tallest building on Earth.",
+            "A contest to design the fastest car."
+          ],
+          "correct_index": 1
+        },
+        {
+          "question": "What can you infer about NASA's journey to the Moon based on the passage?",
+          "options": [
+            "Everything went perfectly with no problems at all.",
+            "The mission succeeded easily on the very first try.",
+            "The path to the Moon landing involved hard work and overcoming setbacks.",
+            "No one believed the Moon landing would ever happen."
+          ],
+          "correct_index": 2
+        },
+        {
+          "question": "In the passage, what does the word &ldquo;ambitious&rdquo; most likely mean?",
+          "options": [
+            "Easy and simple to accomplish",
+            "Requiring great effort and daring to achieve",
+            "Related to outer space only",
+            "Unimportant and unnecessary"
+          ],
+          "correct_index": 1
+        },
+        {
+          "question": "Why does the passage mention the 1967 fire during a test?",
+          "options": [
+            "To show that the Apollo program faced real dangers and setbacks.",
+            "To explain why NASA gave up on the Moon landing.",
+            "To describe what Neil Armstrong wore on the Moon.",
+            "To compare NASA to the Soviet Union's rockets."
+          ],
+          "correct_index": 0
+        },
+        {
+          "question": "Which sentence best supports the idea that the Moon landing was watched and celebrated worldwide?",
+          "options": [
+            "The Saturn V rocket stood taller than a 36-story building.",
+            "Millions of people around the world watched the event on television.",
+            "Michael Collins orbited above in the command ship.",
+            "Kennedy set his goal in 1961."
+          ],
+          "correct_index": 1
+        },
+        {
+          "question": "Based on the passage, what lesson does the Moon landing teach about achieving difficult goals?",
+          "options": [
+            "Difficult goals are impossible without a competition to motivate people.",
+            "Teamwork, planning, and determination can help people achieve what once seemed impossible.",
+            "Only presidents can set goals for a country.",
+            "Space travel is not worth the risk or effort."
+          ],
+          "correct_index": 1
+        }
+      ]
+    }
+  ]
+}

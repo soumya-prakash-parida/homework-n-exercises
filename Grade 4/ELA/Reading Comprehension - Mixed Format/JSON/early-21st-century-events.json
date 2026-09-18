@@ -1,0 +1,473 @@
+{
+  "subject": "Topic 2: Events from the Early 21st Century",
+  "topics": [
+    {
+      "title": "Mapping the Human Genome",
+      "passage": [
+        "In 2003, scientists announced the completion of the Human Genome Project, a massive international effort to map every gene in human DNA. DNA acts like an instruction manual for the body, and the genome is the complete set of those instructions. Thousands of scientists from six countries worked together for thirteen years to read and record this incredibly detailed genetic code, which contains roughly three billion chemical letters.",
+        "Before this project, scientists could only study small pieces of DNA at a time, making it hard to understand how genes worked together. Once the full genome was mapped, researchers finally had a complete reference to compare against, which let them identify which genes were linked to certain diseases far more quickly than before. This shared map became a foundation that scientists all over the world could build on.",
+        "One major benefit of the Human Genome Project has been in medicine. Doctors can now test for genetic conditions more accurately, and researchers have developed treatments that target the specific genes involved in certain illnesses, an approach sometimes called personalized medicine. This means treatments can sometimes be tailored to a person's unique genetic makeup rather than using a one-size-fits-all approach.",
+        "The project also changed how quickly scientists could do this kind of research. When the Human Genome Project began, sequencing a small piece of DNA took a long time and a great deal of money. The technology developed during the project made the process faster and cheaper, and today a person's entire genome can be sequenced in about a day, something that would have seemed impossible before the project started.",
+        "The completion of the Human Genome Project is often compared to other major scientific milestones, like landing on the Moon, because of how it opened the door to new fields of research. Scientists continue to use the genome map today to study everything from ancient human history to the causes of rare diseases. Many researchers consider it one of the most important scientific achievements of the early 21st century."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "The Human Genome Project failed to map any human DNA.",
+            "The Human Genome Project mapped all human DNA, opening the door to major advances in medicine and science.",
+            "Only one scientist worked on the Human Genome Project.",
+            "DNA has nothing to do with genetic diseases."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 3, what does the phrase \"personalized medicine\" most likely mean, based on how it is described in the passage?",
+          "lines": 2,
+          "sample_answer": "Personalized medicine means treatment designed around a specific person's genetic makeup, rather than the same treatment being used for everyone."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, the Human Genome Project took only one country working alone to complete.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT stated in the passage as a result of the Human Genome Project?",
+          "options": [
+            "Doctors can test for genetic conditions more accurately.",
+            "DNA sequencing became faster and cheaper.",
+            "All human diseases were completely cured.",
+            "Scientists can study ancient human history using the genome map."
+          ],
+          "correct_index": 2
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about the Human Genome Project, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "It took thirteen years to complete.",
+            "It involved scientists from six countries.",
+            "It was completed by a single scientist working alone.",
+            "It mapped roughly three billion chemical letters of DNA."
+          ],
+          "correct_indices": [0, 1, 3]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why was having a complete genome map so useful to researchers?",
+          "options": [
+            "It let them study only one gene at a time forever.",
+            "It gave them a shared reference they could use to identify genes linked to diseases much faster.",
+            "It made DNA sequencing more expensive and slower.",
+            "It replaced the need for any future scientific research."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 4?",
+          "options": [
+            "The History of DNA Research",
+            "Faster and Cheaper DNA Sequencing",
+            "Personalized Medicine Explained",
+            "Comparing the Genome Project to the Moon Landing"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain why the passage compares the Human Genome Project to landing on the Moon.",
+          "lines": 2,
+          "sample_answer": "Both are seen as major scientific milestones that opened the door to new discoveries and changed what scientists thought was possible."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, a person's entire genome can now be sequenced in about a day.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned as something DNA acts like, according to the passage?",
+          "options": [
+            "An instruction manual for the body",
+            "A recipe book with no useful information",
+            "A code containing genetic information",
+            "A reference scientists can study and compare"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "What is one way you think mapping the human genome could help doctors in the future? Use an idea from the passage to support your answer.",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer connects to an idea from the passage, such as targeting treatments to a person's specific genes."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following changed because of the technology developed during the Human Genome Project? (Select ALL that apply.)",
+          "options": [
+            "The speed of DNA sequencing",
+            "The cost of DNA sequencing",
+            "The number of planets in the solar system",
+            "How quickly scientists can study genetic diseases"
+          ],
+          "correct_indices": [0, 1, 3]
+        }
+      ]
+    },
+    {
+      "title": "The Smartphone Revolution",
+      "passage": [
+        "In January 2007, a new kind of phone was introduced that would change how people communicate, work, and entertain themselves. This device combined a phone, a music player, and an internet browser into a single pocket-sized gadget controlled almost entirely by touching the screen instead of pressing physical buttons. Within a few years, similar devices from other companies followed, and the smartphone quickly became one of the most widely used pieces of technology in the world.",
+        "Before smartphones, most cell phones could only make calls and send short text messages, and getting online usually meant sitting down at a desktop computer. Smartphones changed this by putting a powerful, connected computer in people's pockets. Suddenly, people could check email, look up directions, take photos, and browse the internet from almost anywhere, as long as they had a wireless signal.",
+        "One key part of the smartphone revolution was the app store, a place where people could download small programs, called apps, designed for specific tasks like games, weather forecasts, or banking. App stores allowed independent developers, not just large companies, to create new programs and reach millions of users. This opened the door to entirely new industries, including mobile gaming and ride-sharing services that did not exist before smartphones became common.",
+        "Smartphones also changed how people take and share photos and videos. Built-in cameras improved rapidly year after year, eventually becoming good enough that many people stopped using separate cameras altogether. Combined with new social media apps, people could instantly share pictures and videos with friends and family around the world, something that would have required much more time and equipment in the past.",
+        "Along with these benefits, smartphones brought new challenges, including concerns about screen time, privacy, and the difficulty of staying focused with constant notifications. Researchers and technology companies continue to study these effects and develop tools like screen-time trackers to help people manage their smartphone use. Even with these challenges, smartphones remain one of the most influential inventions of the early 21st century."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "Smartphones can only be used to make phone calls.",
+            "The introduction of the smartphone transformed communication, technology, and daily life, though it also brought new challenges.",
+            "No one uses smartphones anymore today.",
+            "App stores were invented before smartphones existed."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 3, what does the word \"apps\" most likely mean, based on how they are described in the passage?",
+          "lines": 2,
+          "sample_answer": "Apps are small programs designed for specific tasks, like games, weather, or banking, that people can download onto their smartphones."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, before smartphones, getting online usually meant sitting at a desktop computer.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT described in the passage as something smartphones combined into one device?",
+          "options": [
+            "A phone",
+            "A music player",
+            "An internet browser",
+            "A television"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are challenges mentioned in the passage related to smartphones? (Select ALL that apply.)",
+          "options": [
+            "Concerns about screen time",
+            "Privacy concerns",
+            "Difficulty staying focused with notifications",
+            "A complete lack of camera features"
+          ],
+          "correct_indices": [0, 1, 2]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why were app stores an important part of the smartphone revolution?",
+          "options": [
+            "They only allowed large companies to create programs.",
+            "They let independent developers create new programs and reach millions of users, creating entirely new industries.",
+            "They made it impossible to download any new software.",
+            "They were only used for making phone calls."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 4?",
+          "options": [
+            "The Challenges of Smartphone Use",
+            "How Smartphones Changed Photography and Sharing",
+            "The History of the App Store",
+            "Why People Stopped Using Phones"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain how smartphones changed the way people take and share photos.",
+          "lines": 2,
+          "sample_answer": "Built-in cameras improved so much that people stopped needing separate cameras, and social media apps let people instantly share photos with others."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, ride-sharing services existed long before smartphones became common.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as something smartphones let people do?",
+          "options": [
+            "Check email",
+            "Look up directions",
+            "Take photos",
+            "Repair car engines"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "What is one way smartphones have changed daily life, in your opinion? Support your answer with a detail from the passage.",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer connects a personal observation to a detail from the passage, such as instant photo sharing or app stores."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following does the passage say researchers and companies are developing to address smartphone challenges? (Select ALL that apply.)",
+          "options": [
+            "Screen-time trackers",
+            "Tools to help manage smartphone use",
+            "A ban on all future smartphones",
+            "Ongoing research into these effects"
+          ],
+          "correct_indices": [0, 1, 3]
+        }
+      ]
+    },
+    {
+      "title": "The Rise of Social Media",
+      "passage": [
+        "In the mid-2000s, a new kind of website began connecting people online in ways that had never been possible before. These social media platforms let users create personal profiles, share updates, post photos and videos, and connect with friends, family, and even strangers who shared their interests. Within just a few years, hundreds of millions of people around the world had joined these platforms, changing how people communicated on a massive scale.",
+        "Early social media sites focused mainly on connecting with people you already knew, such as classmates or coworkers, and sharing simple text updates or photos. As the technology improved, video-sharing sites emerged that let anyone upload and share videos with a worldwide audience, giving ordinary people a platform once available only to television networks and movie studios. This meant that everyday people could suddenly become widely known creators.",
+        "Social media also changed how news and information spread. Instead of waiting for a newspaper or television broadcast, people could share updates about events almost instantly with their entire network of followers. This speed had real benefits, such as quickly organizing charity efforts or spreading safety information during emergencies, but it also made it easier for incorrect information to spread quickly before it could be checked.",
+        "Businesses quickly recognized the value of social media as well, using these platforms to advertise products, communicate directly with customers, and build brand loyalty in ways that were not possible before. Small businesses, in particular, benefited from being able to reach potential customers without needing an expensive marketing budget. Social media became an essential part of how many companies operate today.",
+        "As social media grew, so did concerns about its effects, including the spread of misinformation, pressure related to comparing one's life to others online, and questions about how personal data is collected and used. Companies and researchers continue to study these issues and adjust platform features, such as flagging false information or offering tools to manage time spent online. Social media remains one of the most significant and debated developments of the early 21st century."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "Social media has had no real effect on how people communicate.",
+            "Social media rapidly transformed communication, business, and the spread of information, while also raising new concerns.",
+            "Only businesses are allowed to use social media platforms.",
+            "Social media was invented before the internet existed."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 3, what does the word \"misinformation\" most likely mean, based on how it is used in the passage?",
+          "lines": 2,
+          "sample_answer": "Misinformation means incorrect or false information that spreads, especially before it can be checked or corrected."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, early social media sites focused mainly on connecting with complete strangers rather than people you already knew.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT described in the passage as a benefit of social media's speed?",
+          "options": [
+            "Quickly organizing charity efforts",
+            "Spreading safety information during emergencies",
+            "Guaranteeing that all shared information is true",
+            "Sharing updates instantly with a network of followers"
+          ],
+          "correct_index": 2
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following concerns about social media are mentioned in the passage? (Select ALL that apply.)",
+          "options": [
+            "The spread of misinformation",
+            "Pressure from comparing one's life to others online",
+            "Questions about personal data use",
+            "A total lack of any benefits"
+          ],
+          "correct_indices": [0, 1, 2]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why did small businesses especially benefit from social media?",
+          "options": [
+            "Social media banned all business advertising.",
+            "They could reach potential customers without needing an expensive marketing budget.",
+            "Small businesses were not allowed to use social media at all.",
+            "Social media only worked for very large companies."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 2?",
+          "options": [
+            "Concerns About Social Media",
+            "From Text Updates to Video Sharing",
+            "How Businesses Use Social Media",
+            "The Spread of Misinformation"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain how social media changed the way news and information spread, according to the passage.",
+          "lines": 2,
+          "sample_answer": "People could share updates instantly with their whole network instead of waiting for newspapers or TV, which had both benefits and downsides."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, video-sharing sites let ordinary people reach a worldwide audience.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of these is NOT mentioned in the passage as something companies use social media for?",
+          "options": [
+            "Advertising products",
+            "Communicating with customers",
+            "Building brand loyalty",
+            "Manufacturing physical products"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "What is one positive and one negative effect of social media described in the passage?",
+          "lines": 2,
+          "sample_answer": "Positive: it helps spread safety information quickly. Negative: it can also spread incorrect information before it is checked."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following does the passage say companies are doing to address concerns about social media? (Select ALL that apply.)",
+          "options": [
+            "Flagging false information",
+            "Offering tools to manage time spent online",
+            "Studying the issues with researchers",
+            "Completely shutting down all platforms"
+          ],
+          "correct_indices": [0, 1, 2]
+        }
+      ]
+    },
+    {
+      "title": "New Horizons: A Journey to Pluto",
+      "passage": [
+        "In January 2006, NASA launched a spacecraft called New Horizons on a journey to explore Pluto, a small, icy world at the edge of our solar system. At the time, Pluto had never been visited by any spacecraft, and much of what scientists knew about it came only from blurry telescope images taken from Earth. The trip to Pluto was so far away that New Horizons had to travel for more than nine years before it finally arrived.",
+        "New Horizons traveled roughly three billion miles to reach Pluto, moving faster than any spacecraft launched before it. To help it along the way, the spacecraft used a technique called a gravity assist, briefly swinging past the planet Jupiter in 2007 to gain extra speed, similar to how a slingshot works. This clever shortcut saved years of travel time compared to flying to Pluto directly.",
+        "On July 14, 2015, New Horizons finally flew past Pluto, capturing the first close-up images ever taken of its surface. Scientists were surprised to discover that Pluto had towering ice mountains, a huge heart-shaped plain of frozen nitrogen, and signs of geological activity, features that suggested Pluto was far more complex and active than many scientists had expected for such a small, distant world.",
+        "The mission also studied Pluto's largest moon, Charon, revealing canyons and cliffs that stretched for hundreds of miles across its icy surface. Because New Horizons could only fly past Pluto rather than orbit it, the spacecraft had just one close approach to gather as much data as possible, carefully capturing images and scientific readings during a flyby that lasted only a matter of hours.",
+        "After its flyby of Pluto, New Horizons continued deeper into a distant region of the solar system called the Kuiper Belt, where it flew past another small icy object in 2019. The mission changed how scientists think about small, distant worlds, showing that even objects far from the sun can have surprisingly active and complex geology. Data from New Horizons continues to be studied by scientists today."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "The New Horizons mission proved that Pluto has no interesting features at all.",
+            "The New Horizons mission traveled billions of miles to reveal that Pluto is a surprisingly complex and active world.",
+            "New Horizons never actually reached Pluto.",
+            "Pluto was visited by many spacecraft before New Horizons."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 2, what does the phrase \"gravity assist\" most likely mean, based on how it is described in the passage?",
+          "lines": 2,
+          "sample_answer": "A gravity assist is a technique where a spacecraft swings past a planet to gain extra speed using that planet's gravity, saving travel time."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, New Horizons was able to orbit Pluto for several years after arriving.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT a feature the passage says scientists discovered on Pluto?",
+          "options": [
+            "Towering ice mountains",
+            "A heart-shaped plain of frozen nitrogen",
+            "Signs of geological activity",
+            "Active volcanoes erupting lava"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about the New Horizons mission, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "It launched in January 2006.",
+            "It used a gravity assist from Jupiter.",
+            "It reached Pluto within one year of launching.",
+            "It later flew past another object in the Kuiper Belt."
+          ],
+          "correct_indices": [0, 1, 3]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why did New Horizons only get one close approach to gather data on Pluto?",
+          "options": [
+            "The spacecraft could only fly past Pluto rather than orbit it.",
+            "Scientists decided not to study Pluto closely.",
+            "Pluto moved out of range before the spacecraft arrived.",
+            "The spacecraft ran out of fuel before reaching Pluto."
+          ],
+          "correct_index": 0
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 4?",
+          "options": [
+            "The Journey Through the Kuiper Belt",
+            "Studying Pluto's Moon, Charon",
+            "How Gravity Assists Work",
+            "Pluto's Ice Mountains and Plains"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain why the discoveries about Pluto surprised many scientists.",
+          "lines": 2,
+          "sample_answer": "Scientists expected Pluto to be a simple, inactive world, but instead found ice mountains, a heart-shaped plain, and signs of geological activity."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, New Horizons flew past Pluto on July 14, 2015.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as a feature of Charon?",
+          "options": [
+            "Canyons",
+            "Cliffs stretching hundreds of miles",
+            "A thick, breathable atmosphere",
+            "An icy surface"
+          ],
+          "correct_index": 2
+        },
+        {
+          "type": "write_in",
+          "question": "What is one thing about the New Horizons mission that you find most impressive, and why?",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer names a detail from the passage, such as the nine-year journey or the discoveries on Pluto, and explains why it stands out."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following did New Horizons study, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "Pluto's surface",
+            "Pluto's moon Charon",
+            "An object in the Kuiper Belt",
+            "The surface of Mars"
+          ],
+          "correct_indices": [0, 1, 2]
+        }
+      ]
+    }
+  ]
+}

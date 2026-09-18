@@ -1,0 +1,473 @@
+{
+  "subject": "Topic 7: Modern World History \u2014 the 1900s",
+  "topics": [
+    {
+      "title": "The Roaring Twenties",
+      "passage": [
+        "The 1920s, often called the Roaring Twenties, was a decade of major cultural and economic change in many parts of the world, especially in the United States. After years of hardship, many people experienced growing prosperity, new technology, and a spirit of excitement that reshaped daily life, entertainment, and how people expressed themselves in ways that felt strikingly modern for the time.",
+        "New technology changed everyday life dramatically during this decade. Automobiles became more affordable and common thanks to improved manufacturing methods, allowing more families to travel farther and faster than ever before. Radio broadcasting also became widely popular, bringing music, news, and entertainment directly into people's homes for the first time and helping create shared cultural experiences across entire countries.",
+        "The 1920s also saw major changes in music and entertainment, especially with the rise of jazz, a lively musical style that originated among African American musicians and quickly spread in popularity, giving the era its nickname, the Jazz Age. Dance halls, movies with recorded sound just beginning to appear, and lively nightlife became central to how many people, especially younger generations, spent their free time.",
+        "This decade also brought significant social change, including expanded rights and opportunities for women in several countries. In the United States, women gained the right to vote in 1920, and many women began working outside the home in greater numbers, adopting new fashions and behaviors that challenged traditional expectations from earlier generations.",
+        "Despite the excitement and prosperity many people experienced, the Roaring Twenties eventually came to an abrupt end with a major stock market crash in 1929, which led directly into a long period of economic hardship in the following decade. Even so, the cultural changes of the 1920s, especially in music, fashion, and social attitudes, continued to influence society long after the decade itself had ended."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "The 1920s brought no meaningful cultural or technological change.",
+            "The 1920s was a decade of major cultural, technological, and social change, though it ended with economic hardship.",
+            "Radio broadcasting was not invented until after the 1920s.",
+            "Women lost rights and opportunities during the 1920s."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 1, what does the word \"prosperity\" most likely mean, based on how it is used to describe the 1920s?",
+          "lines": 2,
+          "sample_answer": "Prosperity likely means a period of economic success and growth, when many people had more money and opportunity than before."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, women in the United States gained the right to vote in 1920.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT described in the passage as new technology that changed everyday life during the 1920s?",
+          "options": [
+            "More affordable automobiles",
+            "Widely popular radio broadcasting",
+            "Movies beginning to include recorded sound",
+            "Personal home computers"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are described in the passage as part of the social changes of the 1920s? (Select ALL that apply.)",
+          "options": [
+            "Expanded rights and opportunities for women",
+            "More women working outside the home",
+            "New fashions and behaviors among younger generations",
+            "A complete return to traditions from decades earlier"
+          ],
+          "correct_indices": [0, 1, 2]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why is the 1920s sometimes called the \"Jazz Age\"?",
+          "options": [
+            "Jazz music, which originated among African American musicians, became extremely popular during this decade.",
+            "Jazz music was invented specifically to celebrate the stock market.",
+            "There was no popular music at all during the 1920s.",
+            "The term has nothing to do with music."
+          ],
+          "correct_index": 0
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 5?",
+          "options": [
+            "The Rise of Radio and Automobiles",
+            "The Stock Market Crash Ends the Decade",
+            "Women's Rights in the 1920s",
+            "The Origins of Jazz Music"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain how the stock market crash of 1929 affected the era described in the passage.",
+          "lines": 2,
+          "sample_answer": "The crash ended the prosperity of the Roaring Twenties and led directly into a long period of economic hardship in the following decade."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, the cultural changes of the 1920s ended completely once the decade was over.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as a way people spent their free time during the 1920s?",
+          "options": [
+            "Dance halls",
+            "Movies",
+            "Nightlife",
+            "Space travel"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "Which change described in the passage \u2014 new technology, music, or social change \u2014 do you think had the biggest impact on people's daily lives? Explain your choice.",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer names one change from the passage and explains its impact using a specific detail."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about radio during the 1920s, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "It became widely popular during this decade.",
+            "It brought music, news, and entertainment into homes.",
+            "It helped create shared cultural experiences across countries.",
+            "It replaced automobiles as a form of transportation."
+          ],
+          "correct_indices": [0, 1, 2]
+        }
+      ]
+    },
+    {
+      "title": "The Civil Rights Movement",
+      "passage": [
+        "During the middle of the 20th century, a widespread movement grew in the United States to challenge unfair laws and practices that denied equal rights to Black Americans, particularly in southern states where segregation, the forced separation of people by race in public places, was enforced by law. This movement, known as the Civil Rights Movement, aimed to secure equal treatment under the law for all citizens, regardless of race.",
+        "Civil rights leaders and everyday citizens used a variety of peaceful methods to bring attention to unfair treatment and push for change, including organized boycotts, marches, and sit-ins, where people would peacefully occupy segregated spaces to protest unjust rules. One especially well-known boycott involved thousands of people refusing to ride city buses for over a year after a woman was arrested for refusing to give up her bus seat to a white passenger.",
+        "One of the movement's most recognized leaders became known for his powerful speeches promoting nonviolent protest as the most effective path toward lasting social change, believing that peaceful resistance could bring about justice without escalating violence. His leadership helped organize massive peaceful demonstrations, including a historic march on the nation's capital that drew hundreds of thousands of participants demanding equal rights and economic opportunity.",
+        "The Civil Rights Movement achieved several major legal victories during the 1960s, including new federal laws that outlawed segregation in public places and discrimination in employment based on race, as well as laws protecting the voting rights of Black citizens who had previously faced unfair barriers to voting in many states. These legal changes marked significant progress, even though achieving true equal treatment in practice took much longer and remained an ongoing struggle.",
+        "The Civil Rights Movement's methods and goals influenced other movements for equal rights both within the United States and around the world, inspiring later efforts focused on the rights of other groups facing discrimination. Its history continues to be studied today as an example of how organized, peaceful activism can create meaningful and lasting legal and social change."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "The Civil Rights Movement had no lasting impact on American laws.",
+            "The Civil Rights Movement used peaceful methods to challenge unfair laws and achieved major legal victories for equal rights.",
+            "Segregation was never actually enforced by law in the United States.",
+            "The movement's leaders relied only on violent methods to create change."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 1, what does the word \"segregation\" most likely mean, based on how it is described in the passage?",
+          "lines": 2,
+          "sample_answer": "Segregation means the forced separation of people by race in public places, which was enforced by law in some states."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, the Civil Rights Movement's key leader promoted violent methods as the most effective path to change.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT described in the passage as a peaceful method used during the Civil Rights Movement?",
+          "options": [
+            "Organized boycotts",
+            "Marches",
+            "Sit-ins",
+            "Armed uprisings"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are described in the passage as legal victories of the Civil Rights Movement in the 1960s? (Select ALL that apply.)",
+          "options": [
+            "Laws outlawing segregation in public places",
+            "Laws outlawing employment discrimination based on race",
+            "Laws protecting voting rights of Black citizens",
+            "A law making protest illegal"
+          ],
+          "correct_indices": [0, 1, 2]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why was the bus boycott mentioned in Paragraph 2 significant?",
+          "options": [
+            "It was a peaceful protest that lasted over a year in response to unjust treatment.",
+            "It had nothing to do with the Civil Rights Movement.",
+            "It only lasted a single day and had no real effect.",
+            "It was organized entirely by bus companies themselves."
+          ],
+          "correct_index": 0
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 4?",
+          "options": [
+            "The March on the Nation's Capital",
+            "Major Legal Victories of the 1960s",
+            "The Bus Boycott's Origins",
+            "How the Movement Inspired Others"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain why the passage says achieving true equal treatment took much longer than the legal victories of the 1960s.",
+          "lines": 2,
+          "sample_answer": "Even though new laws were passed, putting equal treatment into practice in everyday life remained an ongoing struggle beyond just changing the laws."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, the Civil Rights Movement influenced other movements for equal rights around the world.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as a goal of the Civil Rights Movement?",
+          "options": [
+            "Equal treatment under the law",
+            "Ending segregation",
+            "Protecting voting rights",
+            "Eliminating all forms of government"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "Why do you think peaceful protest was an effective strategy for the Civil Rights Movement, based on the passage?",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer connects to the passage's point that nonviolent protest drew attention to injustice without escalating violence."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about the march on the nation's capital, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "It drew hundreds of thousands of participants.",
+            "It demanded equal rights and economic opportunity.",
+            "It was organized as a peaceful demonstration.",
+            "It happened before the movement began."
+          ],
+          "correct_indices": [0, 1, 2]
+        }
+      ]
+    },
+    {
+      "title": "The Space Race",
+      "passage": [
+        "During the middle of the 20th century, two world superpowers, the United States and the Soviet Union, competed intensely to achieve major milestones in space exploration, a rivalry that became known as the Space Race. Both countries viewed success in space as a way to demonstrate their scientific and technological strength during a tense period of competition between the two nations.",
+        "The Soviet Union achieved several early milestones in this competition, including launching the first artificial satellite to orbit Earth in 1957 and sending the first human into space in 1961. These early successes surprised and motivated the United States, which responded by significantly increasing funding and effort toward its own space program in hopes of catching up and eventually surpassing Soviet achievements.",
+        "In 1961, the President of the United States set an ambitious public goal: landing an astronaut on the Moon and returning them safely to Earth before the end of the decade. This goal required enormous investment in new technology, extensive astronaut training, and the design of powerful new rockets capable of carrying people safely beyond Earth's atmosphere and back.",
+        "On July 20, 1969, this goal was achieved when American astronauts became the first humans to walk on the Moon's surface, an achievement watched live on television by hundreds of millions of people around the world. This mission is often considered the definitive high point of the Space Race, demonstrating that the ambitious goal set years earlier had been successfully accomplished.",
+        "Although the intense competition between the two nations eventually cooled down, the Space Race left a lasting legacy, including major advances in computer technology, materials science, and engineering that found uses far beyond space exploration. It also inspired decades of continued space exploration and, eventually, cooperation between countries on projects like international space stations, in contrast to the competitive spirit that first drove the race."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "The Space Race was a peaceful, cooperative effort between the United States and the Soviet Union from the very beginning.",
+            "The Space Race was an intense competition between two superpowers that led to major achievements, including landing on the Moon.",
+            "No country ever successfully reached the Moon.",
+            "The Space Race had no long-term effects on technology."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 1, what does the word \"rivalry\" most likely mean, based on how it describes the relationship between the two countries?",
+          "lines": 2,
+          "sample_answer": "Rivalry means an intense competition between two sides, in this case the United States and the Soviet Union competing over space achievements."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, the Soviet Union launched the first artificial satellite to orbit Earth.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT described in the passage as an early Soviet milestone in the Space Race?",
+          "options": [
+            "Launching the first artificial satellite in 1957",
+            "Sending the first human into space in 1961",
+            "Landing the first astronaut on the Moon",
+            "Achieving early successes that motivated the United States"
+          ],
+          "correct_index": 2
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following were needed to achieve the Moon landing goal, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "Enormous investment in new technology",
+            "Extensive astronaut training",
+            "Powerful new rockets",
+            "Cooperation with the Soviet Union on the mission"
+          ],
+          "correct_indices": [0, 1, 2]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why did the United States significantly increase funding for its space program?",
+          "options": [
+            "Early Soviet successes surprised and motivated the United States to catch up.",
+            "The United States had already surpassed the Soviet Union in every way.",
+            "Funding for space exploration was cut after the Soviet satellite launch.",
+            "The United States had no interest in space exploration at all."
+          ],
+          "correct_index": 0
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 5?",
+          "options": [
+            "Early Soviet Achievements in Space",
+            "The Lasting Legacy of the Space Race",
+            "Setting the Goal to Reach the Moon",
+            "The First Human Spaceflight"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain how the Space Race's competitive spirit eventually changed, according to the passage.",
+          "lines": 2,
+          "sample_answer": "The intense competition eventually cooled down and led to cooperation between countries on projects like international space stations."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, the Moon landing was watched live on television by hundreds of millions of people.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as a lasting effect of the Space Race?",
+          "options": [
+            "Advances in computer technology",
+            "Advances in materials science and engineering",
+            "Inspiring continued space exploration",
+            "The complete end of all future space missions"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "What part of the Space Race described in the passage do you find most impressive, and why?",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer names a specific milestone, such as the Moon landing or the first satellite, and explains why it stands out."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about the Moon landing, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "It happened on July 20, 1969.",
+            "It is considered the high point of the Space Race.",
+            "It was achieved by American astronauts.",
+            "It happened before the President set the goal in 1961."
+          ],
+          "correct_indices": [0, 1, 2]
+        }
+      ]
+    },
+    {
+      "title": "The Fall of the Berlin Wall",
+      "passage": [
+        "For nearly three decades, a heavily guarded concrete wall divided the German city of Berlin into two separate sections, one aligned with Western democratic countries and the other under a communist government closely tied to the Soviet Union. Built in 1961, the Berlin Wall became one of the most powerful symbols of a long period of political and ideological tension between Western nations and Soviet-aligned countries, often called the Cold War.",
+        "The wall was built to stop people from leaving the eastern section of the city for the more prosperous western section, and it was heavily guarded, with soldiers authorized to stop anyone attempting to cross without permission. Families and friends were often separated for decades by the wall's construction, unable to visit each other freely even though they lived in the same city.",
+        "By the late 1980s, significant political changes were occurring across Eastern Europe, as several countries under Soviet-aligned governments began allowing more freedom of speech, travel, and political expression than had been permitted for decades. These changes created growing pressure within East Germany as well, as citizens increasingly demanded the same freedoms being granted elsewhere in the region.",
+        "On November 9, 1989, following a confusing series of events and an announcement about relaxed travel restrictions, large crowds gathered at the wall demanding to cross, and border guards, uncertain of official instructions, eventually allowed people through. Within hours, thousands of jubilant citizens surged from both sides of the wall, celebrating together in a moment that quickly became a defining symbol of the era's dramatic political change.",
+        "The fall of the Berlin Wall led directly to the reunification of East and West Germany into a single country less than a year later, and it is widely seen as one of the clearest symbols of the end of the Cold War. The event remains one of the most studied moments of the late 20th century, illustrating how quickly long-standing political divisions can change when public pressure and political shifts align."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "The Berlin Wall was built to connect two friendly cities.",
+            "The Berlin Wall symbolized Cold War division for decades until its fall in 1989 led to German reunification.",
+            "The Berlin Wall still stands today, dividing Berlin.",
+            "No political changes occurred in Eastern Europe during the 1980s."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 1, what does the word \"reunification\" most likely mean, based on how it relates to Germany later in the passage?",
+          "lines": 2,
+          "sample_answer": "Reunification means bringing two separated parts back together into one, in this case East and West Germany becoming a single country again."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, the Berlin Wall was built to stop people from leaving the eastern section of the city.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT described in the passage as a result of the Berlin Wall's construction?",
+          "options": [
+            "Families and friends were separated for decades.",
+            "Soldiers guarded the wall and stopped unauthorized crossing.",
+            "The city of Berlin was divided into two sections.",
+            "Trade between all countries in Europe completely stopped."
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about the events of November 9, 1989, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "Large crowds gathered at the wall demanding to cross.",
+            "Border guards eventually allowed people through.",
+            "Thousands of citizens celebrated together at the wall.",
+            "The wall had already been torn down years earlier."
+          ],
+          "correct_indices": [0, 1, 2]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why did pressure grow within East Germany during the late 1980s?",
+          "options": [
+            "Other Eastern European countries were allowing more freedoms, and East German citizens wanted the same.",
+            "East Germany had always had complete freedom of speech and travel.",
+            "The Berlin Wall had already fallen years before this pressure began.",
+            "There was no political change happening anywhere in Europe at this time."
+          ],
+          "correct_index": 0
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 2?",
+          "options": [
+            "How the Wall Separated Families",
+            "The Fall of the Wall in 1989",
+            "German Reunification",
+            "Political Change in Eastern Europe"
+          ],
+          "correct_index": 0
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain why the fall of the Berlin Wall is considered a symbol of the end of the Cold War.",
+          "lines": 2,
+          "sample_answer": "The wall had long represented the division between Western and Soviet-aligned countries, so its fall showed that this long-standing division was ending."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, East and West Germany reunified into a single country less than a year after the wall fell.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as a cause of the political changes in Eastern Europe in the late 1980s?",
+          "options": [
+            "More freedom of speech being allowed",
+            "More freedom of travel being allowed",
+            "More political expression being permitted",
+            "A sudden change in the region's climate"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "What part of this event described in the passage do you think was most significant \u2014 the wall's construction, the political changes, or its fall? Explain your choice.",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer names one part of the passage and explains its significance using a specific detail."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following does the passage describe as consequences of the Berlin Wall falling? (Select ALL that apply.)",
+          "options": [
+            "German reunification",
+            "A symbol of the end of the Cold War",
+            "Continued division of Berlin for decades afterward",
+            "Celebrations by citizens on both sides"
+          ],
+          "correct_indices": [0, 1, 3]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "subject": "Topic 3: Earth's Natural Phenomena",
+  "topics": [
+    {
+      "title": "Volcanoes: Windows into Earth's Interior",
+      "passage": [
+        "Deep beneath Earth's surface, temperatures are hot enough to melt solid rock into a liquid called magma. Volcanoes form where this magma finds a path to the surface, sometimes erupting quietly as flowing lava and sometimes exploding violently with ash and rock. Scientists study volcanoes not just because they can be dangerous, but because they offer a rare glimpse into materials from deep inside our planet.",
+        "Not all volcanic eruptions look the same. Some volcanoes, called shield volcanoes, produce thin, runny lava that flows for long distances and builds a wide, gently sloped mountain over time. Other volcanoes, called composite volcanoes, have thicker magma that traps gas, building pressure until it releases in sudden, explosive eruptions that can send ash miles into the sky and affect weather patterns far from the volcano itself.",
+        "Volcanoes typically form along the edges of tectonic plates, the massive slabs of rock that make up Earth's outer shell and slowly move over time. Where plates pull apart or push together, magma can find weak points to escape through. A smaller number of volcanoes, called hotspot volcanoes, form in the middle of a plate instead, over a fixed source of heat rising from deep within the Earth.",
+        "Despite the dangers, volcanic soil is often extremely fertile because it is rich in minerals released by eruptions, which is why many farming communities have historically settled near volcanoes despite the risk. Volcanic activity has also shaped much of Earth's landscape over millions of years, creating entire island chains, such as Hawaii, which formed one island at a time as a tectonic plate slowly moved over a fixed hotspot beneath it.",
+        "Today, scientists monitor active volcanoes using instruments that detect small earthquakes, changes in ground shape, and gas releases, all of which can signal that an eruption may be approaching. While predicting the exact moment of an eruption remains extremely difficult, these warning signs have helped save lives by giving communities time to evacuate before a major eruption occurs."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "Volcanoes are always dangerous and provide no useful information to scientists.",
+            "Volcanoes form in different ways and offer scientists insight into Earth's interior, while also shaping landscapes and posing risks.",
+            "All volcanoes erupt in exactly the same way.",
+            "Volcanoes only exist in the middle of tectonic plates."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 1, what does the word \"magma\" most likely mean, based on how it is described in the passage?",
+          "lines": 2,
+          "sample_answer": "Magma is melted rock found deep beneath Earth's surface that can rise and erupt from a volcano."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, all volcanoes produce the exact same kind of eruption.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT described in the passage as a reason volcanoes form?",
+          "options": [
+            "Tectonic plates pulling apart",
+            "Tectonic plates pushing together",
+            "A fixed hotspot of heat beneath a plate",
+            "Strong winds eroding mountain rock"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about shield volcanoes, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "They produce thin, runny lava.",
+            "Their lava can flow for long distances.",
+            "They build a wide, gently sloped mountain over time.",
+            "They always erupt violently with ash and rock."
+          ],
+          "correct_indices": [0, 1, 2]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why do many farming communities settle near volcanoes despite the risk?",
+          "options": [
+            "Volcanic soil is often extremely fertile due to minerals from eruptions.",
+            "Volcanoes make farmland cooler in temperature.",
+            "There is no risk at all involved in living near a volcano.",
+            "Volcanoes prevent earthquakes from happening nearby."
+          ],
+          "correct_index": 0
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 5?",
+          "options": [
+            "How Hawaii's Islands Formed",
+            "Monitoring Volcanoes for Warning Signs",
+            "The Difference Between Lava and Magma",
+            "Why Volcanic Soil Is Fertile"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain how scientists monitor volcanoes to predict possible eruptions.",
+          "lines": 2,
+          "sample_answer": "Scientists use instruments to detect small earthquakes, changes in ground shape, and gas releases, which can signal an eruption may be coming."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, composite volcanoes have thicker magma that can trap gas and build pressure.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as a type of volcano?",
+          "options": [
+            "Shield volcano",
+            "Composite volcano",
+            "Hotspot volcano",
+            "Frozen volcano"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "What is one reason volcanoes matter to scientists, based on the passage, beyond just being dangerous?",
+          "lines": 2,
+          "sample_answer": "Volcanoes offer a glimpse into materials from deep inside the Earth, helping scientists understand the planet's interior."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following does the passage say volcanic activity has helped create or affect? (Select ALL that apply.)",
+          "options": [
+            "Island chains such as Hawaii",
+            "Earth's landscape over millions of years",
+            "Fertile farming soil",
+            "The number of oceans on Earth"
+          ],
+          "correct_indices": [0, 1, 2]
+        }
+      ]
+    },
+    {
+      "title": "Earthquakes: When the Ground Shakes",
+      "passage": [
+        "Earthquakes happen when built-up stress along cracks in Earth's crust, called faults, is suddenly released, causing the ground to shake. This stress builds slowly over years or even centuries as tectonic plates grind against each other, and when the rock finally breaks or slips, the energy travels outward in waves. Most earthquakes are too small to notice, but occasionally the shaking is powerful enough to damage buildings and change landscapes.",
+        "Scientists measure the size of an earthquake using a system that assigns it a magnitude number, with each whole number representing roughly thirty-two times more energy released than the number before it. This means a magnitude 7 earthquake releases dramatically more energy than a magnitude 5, even though the numbers seem close together. The point underground where an earthquake starts is called the focus, while the point on the surface directly above it is called the epicenter.",
+        "The Pacific Ring of Fire, a horseshoe-shaped zone circling the Pacific Ocean, experiences the majority of the world's earthquakes and volcanic eruptions because of the many tectonic plate boundaries found there. Countries along this zone, including Japan, Chile, and parts of the United States, have developed strict building codes designed to help structures survive shaking without collapsing.",
+        "One of the biggest dangers connected to earthquakes is a tsunami, a series of powerful ocean waves that can form when an earthquake occurs underwater and suddenly shifts the seafloor. Tsunami waves can travel across entire oceans at high speed, and although they may be barely noticeable far out at sea, they can grow into massive, destructive waves as they approach shallow coastlines.",
+        "Because earthquakes cannot yet be predicted with precision, scientists focus heavily on early warning systems and public preparedness instead. Some earthquake early warning systems can detect the first, faster-moving seismic waves and send alerts a few seconds to a minute before the more damaging waves arrive, giving people just enough time to take cover or step away from dangerous areas."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "Earthquakes never cause any damage to buildings or people.",
+            "Earthquakes occur when stress along faults is released, and scientists use measurement systems and warning technology to understand and prepare for them.",
+            "Only Japan experiences earthquakes.",
+            "Tsunamis have nothing to do with earthquakes."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 2, what does the word \"epicenter\" most likely mean, based on how it is described in the passage?",
+          "lines": 2,
+          "sample_answer": "The epicenter is the point on Earth's surface directly above where an earthquake starts underground."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, a magnitude 7 earthquake releases only slightly more energy than a magnitude 5 earthquake.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT described in the passage as part of how earthquakes happen?",
+          "options": [
+            "Stress builds up along faults over time.",
+            "Tectonic plates grind against each other.",
+            "Rock suddenly breaks or slips, releasing energy.",
+            "Volcanoes erupt first and cause the ground to shake."
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following countries are mentioned in the passage as being along the Pacific Ring of Fire? (Select ALL that apply.)",
+          "options": [
+            "Japan",
+            "Chile",
+            "The United States",
+            "France"
+          ],
+          "correct_indices": [0, 1, 2]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why do earthquake early warning systems only give a short amount of notice before damaging waves arrive?",
+          "options": [
+            "They detect the first, faster-moving seismic waves before the more damaging waves arrive.",
+            "They can predict earthquakes days in advance with certainty.",
+            "They rely on people reporting shaking after it happens.",
+            "They only work in areas with no history of earthquakes."
+          ],
+          "correct_index": 0
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 4?",
+          "options": [
+            "Measuring Earthquake Magnitude",
+            "How Tsunamis Form and Grow",
+            "Building Codes Around the World",
+            "Early Warning Systems Explained"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain why the Pacific Ring of Fire experiences so many earthquakes and volcanic eruptions.",
+          "lines": 2,
+          "sample_answer": "It has many tectonic plate boundaries, and movement along those boundaries causes both earthquakes and volcanic activity."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, tsunami waves can be barely noticeable far out at sea but grow much larger near coastlines.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as a way scientists or countries respond to earthquake risk?",
+          "options": [
+            "Strict building codes",
+            "Early warning systems",
+            "Public preparedness efforts",
+            "Building walls to stop tectonic plates from moving"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "What is one thing you learned from this passage about how scientists study or prepare for earthquakes?",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer references a detail from the passage, such as magnitude measurement or early warning systems."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about tsunamis, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "They can form when an underwater earthquake shifts the seafloor.",
+            "They can travel across entire oceans at high speed.",
+            "They are always small and harmless near coastlines.",
+            "They can grow into massive waves near shallow coastlines."
+          ],
+          "correct_indices": [0, 1, 3]
+        }
+      ]
+    },
+    {
+      "title": "The Northern and Southern Lights",
+      "passage": [
+        "On clear, dark nights near Earth's polar regions, the sky sometimes fills with shimmering curtains of green, pink, and purple light, a phenomenon called an aurora. In the Northern Hemisphere, this display is called the aurora borealis, or Northern Lights, while the Southern Hemisphere version is called the aurora australis, or Southern Lights. Despite their beauty, auroras actually begin far away from Earth, on the surface of the sun.",
+        "The sun constantly releases a stream of charged particles called the solar wind, which travels through space and eventually reaches Earth. Most of these particles are deflected by Earth's magnetic field, an invisible shield surrounding the planet, but some particles get funneled down toward the North and South Poles, where the magnetic field is weaker. When these particles collide with gases in Earth's atmosphere, they release energy in the form of light.",
+        "The colors of an aurora depend on which gas the particles collide with and how high up the collision happens. Oxygen produces green light, the most common aurora color, when collisions occur at lower altitudes, and a rarer red light at very high altitudes. Nitrogen, another gas in the atmosphere, tends to produce blue or purple colors, which is why some auroras display a mix of different shades at once.",
+        "Auroras are most visible near the polar regions because that is where Earth's magnetic field funnels the charged particles down into the atmosphere. However, during periods of unusually strong solar activity, sometimes called solar storms, auroras can occasionally be seen much farther from the poles than usual, surprising people in places that rarely get to see them.",
+        "Beyond their beauty, auroras help scientists study space weather, since stronger auroras often signal more intense solar activity that can also interfere with satellites, power grids, and radio communications on Earth. By tracking solar activity and predicting when strong auroras might occur, scientists can also give advance warning to protect technology that could be affected by these bursts of energy from the sun."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "Auroras are caused by weather patterns entirely within Earth's atmosphere.",
+            "Auroras form when solar particles interact with Earth's magnetic field and atmosphere, creating colorful light shows near the poles.",
+            "Auroras can only be seen from the sun itself.",
+            "Auroras have no connection to solar activity at all."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 2, what does the phrase \"solar wind\" most likely mean, based on how it is described in the passage?",
+          "lines": 2,
+          "sample_answer": "Solar wind is a stream of charged particles released by the sun that travels through space toward Earth."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, all of the sun's charged particles reach Earth's surface directly.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT described in the passage as affecting the color of an aurora?",
+          "options": [
+            "Which gas the particles collide with",
+            "How high up the collision happens",
+            "The time of year the aurora occurs",
+            "Whether the gas is oxygen or nitrogen"
+          ],
+          "correct_index": 2
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following colors are mentioned in the passage as possible aurora colors? (Select ALL that apply.)",
+          "options": [
+            "Green",
+            "Red",
+            "Blue or purple",
+            "Black"
+          ],
+          "correct_indices": [0, 1, 2]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why are auroras usually most visible near the polar regions?",
+          "options": [
+            "The sun is closer to the poles than to the equator.",
+            "Earth's magnetic field funnels charged particles down into the atmosphere near the poles.",
+            "There is no atmosphere at the poles for particles to collide with.",
+            "Solar wind only exists near the North and South Poles."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 5?",
+          "options": [
+            "The Colors of the Aurora",
+            "How Auroras Help Scientists Study Space Weather",
+            "The Difference Between Borealis and Australis",
+            "Why the Poles Are Cold"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain why scientists pay attention to strong auroras beyond just their beauty.",
+          "lines": 2,
+          "sample_answer": "Strong auroras can signal intense solar activity that may interfere with satellites, power grids, and radio communications on Earth."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, auroras can sometimes be seen farther from the poles than usual during strong solar activity.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as something auroras could be called?",
+          "options": [
+            "Aurora borealis",
+            "Aurora australis",
+            "Northern Lights",
+            "Solar eclipse"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "If you could see the Northern or Southern Lights in person, what part of the phenomenon described in the passage would you find most amazing? Explain why.",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer names a specific detail, such as the colors or the sun's connection to the aurora, and explains why it stands out."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following can strong solar activity affect, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "Satellites",
+            "Power grids",
+            "Radio communications",
+            "The number of oceans on Earth"
+          ],
+          "correct_indices": [0, 1, 2]
+        }
+      ]
+    },
+    {
+      "title": "Tornadoes: Nature's Most Violent Storms",
+      "passage": [
+        "A tornado is a rapidly spinning column of air that stretches from a thunderstorm down to the ground, capable of producing some of the strongest winds found anywhere on Earth. Tornadoes can form quickly, sometimes within minutes, and can travel unpredictable paths that make them especially dangerous. While tornadoes can happen almost anywhere in the world, a region of the central United States nicknamed \"Tornado Alley\" experiences more tornadoes than almost anywhere else.",
+        "Tornadoes typically form from a specific kind of powerful thunderstorm called a supercell, which contains a rotating updraft of air known as a mesocyclone. When warm, moist air near the ground rises quickly and meets cooler, drier air above, combined with winds blowing at different speeds and directions at different heights, the resulting spin can sometimes tighten and stretch downward, forming a visible funnel cloud that becomes a tornado if it reaches the ground.",
+        "Scientists use a rating system called the Enhanced Fujita Scale to classify tornado strength based on the damage left behind, since wind speed inside a tornado is extremely difficult to measure directly. Ratings range from EF0, with winds around sixty-five to eighty-five miles per hour, up to EF5, with winds exceeding two hundred miles per hour and enough force to completely level well-built houses.",
+        "Because tornadoes can develop and strike so quickly, meteorologists rely on radar technology to detect the rotating winds inside storms before a tornado actually touches the ground. When conditions suggest a tornado is likely, weather services issue a tornado watch, and once one has actually been spotted or detected by radar, they issue a tornado warning, giving people crucial time to seek shelter immediately.",
+        "Communities in tornado-prone areas often build reinforced safe rooms or basements designed to withstand extreme winds, and schools regularly practice tornado drills so students know exactly what to do if a warning is issued. Even with modern radar and warning systems, tornadoes remain one of the most sudden and unpredictable natural phenomena, which is why preparation and quick action remain so important."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "Tornadoes never cause any damage and are easy to predict far in advance.",
+            "Tornadoes are powerful, fast-forming storms that scientists study and rate, and communities prepare for using warning systems and drills.",
+            "Tornadoes only occur in one single location on Earth.",
+            "Tornadoes are the same thing as hurricanes."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 2, what does the word \"mesocyclone\" most likely mean, based on how it is described in the passage?",
+          "lines": 2,
+          "sample_answer": "A mesocyclone is a rotating updraft of air inside a supercell thunderstorm that can lead to tornado formation."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, tornadoes can only form from calm, non-rotating storms.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT described in the passage as part of how a tornado forms?",
+          "options": [
+            "Warm, moist air rising quickly near the ground",
+            "Winds blowing at different speeds and directions at different heights",
+            "A rotating updraft called a mesocyclone",
+            "Cold ocean currents shifting near the coast"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about the Enhanced Fujita Scale, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "It classifies tornado strength based on damage.",
+            "Ratings range from EF0 to EF5.",
+            "It directly measures wind speed inside every tornado.",
+            "EF5 tornadoes can level well-built houses."
+          ],
+          "correct_indices": [0, 1, 3]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why do meteorologists rely on radar to detect tornadoes?",
+          "options": [
+            "Tornadoes develop and strike too quickly for other methods to give enough warning.",
+            "Radar can stop a tornado from forming.",
+            "Tornadoes are always visible from very far away.",
+            "Radar is only used after a tornado has already caused damage."
+          ],
+          "correct_index": 0
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 5?",
+          "options": [
+            "How the Fujita Scale Works",
+            "Preparing for Tornadoes in Vulnerable Communities",
+            "The Difference Between a Watch and a Warning",
+            "Where Tornado Alley Is Located"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain the difference between a tornado watch and a tornado warning, based on the passage.",
+          "lines": 2,
+          "sample_answer": "A watch means conditions suggest a tornado is possible, while a warning means one has actually been spotted or detected, requiring immediate shelter."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, Tornado Alley is located in the central United States.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as a way communities prepare for tornadoes?",
+          "options": [
+            "Building reinforced safe rooms or basements",
+            "Practicing tornado drills in schools",
+            "Using radar technology to detect storms",
+            "Building tall walls around entire cities to block wind"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "Why do you think it's important for schools to practice tornado drills, based on what you read in the passage?",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer connects to the passage's point that tornadoes form quickly and unpredictably, so knowing what to do saves time."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following does the passage mention as tools or actions used to respond to tornado risk? (Select ALL that apply.)",
+          "options": [
+            "Radar technology",
+            "Tornado watches and warnings",
+            "Reinforced safe rooms",
+            "Ignoring all storm forecasts"
+          ],
+          "correct_indices": [0, 1, 2]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "subject": "Topic 6: Societal Structure",
+  "topics": [
+    {
+      "title": "How Societies Organize Their People",
+      "passage": [
+        "Throughout history, human societies have organized people into different groups and levels, often called a social structure, which determines things like a person's job, rights, and responsibilities within their community. In many ancient civilizations, this structure looked like a pyramid, with a small number of powerful rulers at the top and a much larger number of workers, farmers, or laborers at the bottom.",
+        "In some historical societies, a person's position was determined mostly by birth, meaning children generally stayed in the same social level as their parents no matter their individual skills or effort. This kind of rigid structure made it very difficult for someone born into a lower level to move upward, a limitation that shaped nearly every aspect of a person's life, including their education, marriage, and career.",
+        "Other societies allowed for slightly more movement between levels, especially for people who gained wealth through trade, skilled craftsmanship, or military service. Merchants and skilled workers in some medieval towns, for example, could sometimes improve their social standing over time, even though the highest positions of power usually remained reserved for a small group of nobles or religious leaders.",
+        "Modern societies generally allow far more movement between social and economic levels than in the past, largely because education, career choice, and voting rights are no longer determined solely by a person's family background in most countries. However, sociologists point out that factors like family wealth, access to good schools, and where a person lives can still make it easier or harder for someone to improve their circumstances.",
+        "Understanding how societies are structured helps historians and sociologists explain why certain groups had more opportunities than others throughout history, and why some inequalities persist even today. Studying these patterns also helps people evaluate how fair or flexible a particular society's structure truly is, beyond just how it is officially described on paper."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "All societies throughout history have organized people in exactly the same way.",
+            "Human societies have organized people into different levels in various ways throughout history, with modern societies generally allowing more movement between levels.",
+            "Social structure has no effect on a person's opportunities.",
+            "Only ancient civilizations had any kind of social structure."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 1, what does the phrase \"social structure\" most likely mean, based on how it is described in the passage?",
+          "lines": 2,
+          "sample_answer": "Social structure means how a society organizes people into different groups or levels, which affects their jobs, rights, and responsibilities."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, in some historical societies, a person's social position was determined mostly by birth.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT described in the passage as a way some people improved their social standing in medieval towns?",
+          "options": [
+            "Gaining wealth through trade",
+            "Skilled craftsmanship",
+            "Military service",
+            "Winning a public lottery drawing"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following does the passage say can still affect a person's opportunities in modern societies? (Select ALL that apply.)",
+          "options": [
+            "Family wealth",
+            "Access to good schools",
+            "Where a person lives",
+            "The season a person was born in"
+          ],
+          "correct_indices": [0, 1, 2]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why do modern societies generally allow more movement between social levels than in the past?",
+          "options": [
+            "Education, career choice, and voting rights are no longer determined solely by family background in most countries.",
+            "Modern societies have no social structure at all.",
+            "Wealth no longer has any effect on a person's opportunities.",
+            "Everyone in modern societies is assigned the same job."
+          ],
+          "correct_index": 0
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 3?",
+          "options": [
+            "Rigid Social Structures in Ancient Times",
+            "Some Movement Between Levels in Medieval Towns",
+            "Modern Education and Career Choices",
+            "Why Historians Study Society"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain why understanding social structure helps historians and sociologists study inequality.",
+          "lines": 2,
+          "sample_answer": "It helps them explain why some groups had more opportunities than others and why certain inequalities have continued into the present."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, the highest positions of power in medieval towns were usually reserved for a small group of nobles or religious leaders.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as something historical social level was based on?",
+          "options": [
+            "Birth into a family",
+            "Wealth gained through trade",
+            "Military service",
+            "A person's favorite color"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "Do you think it is fair for a person's social position to be determined mostly by birth? Explain your reasoning using an idea from the passage.",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer references the passage's point that rigid structures limited education, marriage, and career based only on family."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about ancient social structures described in the passage? (Select ALL that apply.)",
+          "options": [
+            "They often looked like a pyramid shape.",
+            "A small number of rulers were at the top.",
+            "A large number of workers or farmers were at the bottom.",
+            "Everyone had exactly equal power and status."
+          ],
+          "correct_indices": [0, 1, 2]
+        }
+      ]
+    },
+    {
+      "title": "Types of Government Around the World",
+      "passage": [
+        "A government is the system that makes and enforces the rules and laws within a country or region, and different governments organize this power in very different ways. Understanding how a government works helps explain who makes important decisions for a country, how leaders are chosen, and how much say ordinary citizens have in shaping the laws that affect their daily lives.",
+        "In a democracy, citizens typically vote to choose their leaders and, in some cases, vote directly on important laws or issues. Most modern democracies are representative, meaning citizens elect representatives who then make decisions and laws on their behalf, rather than every citizen voting on every single law directly, which would be difficult to manage in a large country.",
+        "A monarchy, by contrast, places power in the hands of a king, queen, or other royal ruler, often passed down within a single family from one generation to the next. Some monarchies today are absolute, meaning the monarch holds nearly complete power, while others are constitutional, meaning the monarch's power is limited by a constitution and elected officials handle most day-to-day governing decisions.",
+        "Other forms of government concentrate power even more tightly, sometimes in a single ruler or a small group with very few limits placed on their authority, and citizens in these systems typically have little or no ability to vote for their leaders or influence major decisions. Historians and political scientists study these different systems to understand how power is gained, used, and sometimes abused throughout history.",
+        "Many countries have changed their form of government over time, sometimes gradually and sometimes suddenly, often in response to major events, public demands for change, or shifts in who holds military or economic power. Studying these different government types helps people understand not just how a country is run today, but why its political system developed the way it did."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "Every country in the world uses the exact same type of government.",
+            "Countries organize governing power in different ways, ranging from democracies to monarchies to more tightly controlled systems.",
+            "Monarchies no longer exist anywhere in the modern world.",
+            "Citizens have no role in any type of government."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 2, what does the word \"representative\" most likely mean, based on how it describes most modern democracies?",
+          "lines": 2,
+          "sample_answer": "Representative means citizens elect people to make decisions and laws on their behalf, rather than every citizen voting on every law directly."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, in an absolute monarchy, the monarch's power is strictly limited by a constitution.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT described in the passage as a feature of a constitutional monarchy?",
+          "options": [
+            "The monarch's power is limited by a constitution.",
+            "Elected officials handle most day-to-day governing decisions.",
+            "Power is passed down within a royal family.",
+            "The monarch holds nearly complete, unlimited power."
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about democracies, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "Citizens typically vote to choose their leaders.",
+            "Most modern democracies are representative.",
+            "Citizens elect representatives to make decisions on their behalf.",
+            "Every citizen personally votes on every single law."
+          ],
+          "correct_indices": [0, 1, 2]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why do historians and political scientists study different systems of government?",
+          "options": [
+            "To understand how power is gained, used, and sometimes abused throughout history.",
+            "Because all governments work in exactly the same way.",
+            "To prove that democracies have never changed over time.",
+            "Because studying government has no practical value."
+          ],
+          "correct_index": 0
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 4?",
+          "options": [
+            "How Democracies Choose Leaders",
+            "Governments That Concentrate Power Tightly",
+            "The History of Constitutional Monarchies",
+            "Why Countries Change Their Governments"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain the difference between an absolute monarchy and a constitutional monarchy.",
+          "lines": 2,
+          "sample_answer": "In an absolute monarchy, the monarch holds nearly complete power, while in a constitutional monarchy, the monarch's power is limited and elected officials handle most governing."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, some countries have changed their form of government in response to major events or public demands.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as something a government does?",
+          "options": [
+            "Makes rules and laws",
+            "Enforces rules and laws",
+            "Determines how citizens participate in decisions",
+            "Controls the weather within its borders"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "Which type of government described in the passage seems most fair to you, and why?",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer names a government type from the passage and explains the reasoning using a specific detail."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following does the passage say can cause a country's government to change over time? (Select ALL that apply.)",
+          "options": [
+            "Major historical events",
+            "Public demands for change",
+            "Shifts in military or economic power",
+            "A change in the country's flag color"
+          ],
+          "correct_indices": [0, 1, 2]
+        }
+      ]
+    },
+    {
+      "title": "Why Societies Need Laws and Rules",
+      "passage": [
+        "Every society, no matter how large or small, develops rules to guide how people interact with one another, protect individuals, and keep order within a community. These rules can range from informal customs, like waiting in line, to formal, written laws enforced by courts and government officials, with serious consequences for anyone who breaks them.",
+        "Laws serve several important purposes within a society, including protecting people's safety, property, and basic rights, while also creating a shared understanding of what behavior is acceptable. Without agreed-upon laws, resolving disagreements between people would depend entirely on individual strength or personal opinion, rather than a fair, consistent system that applies to everyone.",
+        "In most modern societies, laws are created, interpreted, and enforced by three separate parts of government working together. One part creates new laws, another applies and enforces those laws in daily situations, and a third interprets what the laws mean when disagreements or unclear situations arise, particularly in court cases where judges must decide how a law applies to a specific case.",
+        "Laws are not fixed forever; they often change over time as a society's values, technology, and challenges evolve. New laws are sometimes created to address problems that did not exist decades earlier, such as rules about internet privacy, while older laws that no longer reflect a society's values may be changed or removed entirely through a formal legal process.",
+        "Beyond formal laws, informal social norms, unwritten expectations about polite or appropriate behavior, also help societies function smoothly. While breaking a social norm, like cutting in line, might not lead to legal punishment, it often results in social disapproval, showing that both written laws and unwritten expectations work together to help hold a community together."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "Societies have no need for rules or laws of any kind.",
+            "Laws and social norms both play important roles in helping societies function fairly and stay organized.",
+            "Laws never change once they are created.",
+            "Only courts have any role in creating laws."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 5, what does the phrase \"social norms\" most likely mean, based on how it is described in the passage?",
+          "lines": 2,
+          "sample_answer": "Social norms are unwritten expectations about polite or appropriate behavior that people generally follow, even without a formal law requiring it."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, breaking a social norm always results in legal punishment.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT described in the passage as a purpose of laws in a society?",
+          "options": [
+            "Protecting people's safety and property",
+            "Creating a shared understanding of acceptable behavior",
+            "Protecting people's basic rights",
+            "Guaranteeing that every disagreement ends in a tie"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are described in the passage as the three parts of government involved in laws? (Select ALL that apply.)",
+          "options": [
+            "The part that creates new laws",
+            "The part that enforces laws in daily situations",
+            "The part that interprets what laws mean in disagreements",
+            "The part that only enforces laws in other countries"
+          ],
+          "correct_indices": [0, 1, 2]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why might a new law be created that did not exist decades earlier?",
+          "options": [
+            "New laws are only created to remove old, unnecessary customs.",
+            "Society's values, technology, and challenges evolve, creating new problems that need addressing, such as internet privacy.",
+            "Laws never need to change once they are written.",
+            "Governments create new laws purely at random."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 3?",
+          "options": [
+            "How Laws Are Created, Applied, and Interpreted",
+            "The Difference Between Laws and Customs",
+            "Why Laws Change Over Time",
+            "Informal Social Norms Explained"
+          ],
+          "correct_index": 0
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain the difference between a formal law and an informal social norm, using an example from the passage.",
+          "lines": 2,
+          "sample_answer": "A formal law is written and enforced by courts with serious consequences, while a social norm, like waiting in line, is unwritten and enforced through social disapproval."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, without agreed-upon laws, resolving disagreements would depend entirely on individual strength or opinion.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as an example of a social norm or informal rule?",
+          "options": [
+            "Waiting in line",
+            "Following polite behavior expectations",
+            "Avoiding cutting in line",
+            "Paying income taxes each year"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "Can you think of a social norm you follow that is not an actual law? Describe it and explain why people generally follow it.",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer names a real social norm and connects it to the passage's idea of avoiding social disapproval."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following does the passage say can happen to laws over time? (Select ALL that apply.)",
+          "options": [
+            "New laws can be created to address new problems.",
+            "Old laws can be changed through a formal legal process.",
+            "Old laws can be removed entirely.",
+            "Laws are permanently frozen and can never be altered."
+          ],
+          "correct_indices": [0, 1, 2]
+        }
+      ]
+    },
+    {
+      "title": "Trade, Money, and Economic Systems",
+      "passage": [
+        "An economic system is the way a society organizes the production, distribution, and use of goods and services, answering basic questions like what to produce, how to produce it, and who gets to use the final products. Every society throughout history, from small farming villages to massive modern nations, has needed some kind of economic system to function.",
+        "Long before money existed, many early societies relied on a system called bartering, directly trading one good or service for another without using any kind of currency. Bartering worked reasonably well in small communities, but it created challenges when two people wanted to trade but neither had exactly what the other needed, a problem economists call the \"double coincidence of wants.\"",
+        "The invention of money helped solve this problem by giving people a widely accepted way to exchange value without needing to trade goods directly. Early forms of money included items like shells, salt, and precious metals, valued because they were rare, durable, and widely recognized, eventually evolving into the coins and paper currency, and now digital payments, that many societies use today.",
+        "Modern economic systems generally fall somewhere between two basic approaches. In a market-based system, individuals and businesses make most decisions about what to produce and sell based on supply and demand, with limited government involvement. In a more centrally planned system, the government plays a much larger role in deciding what gets produced and how resources are distributed among the population.",
+        "In reality, most modern countries use a mixed economic system, combining elements of both approaches rather than relying entirely on one or the other. Governments in mixed economies often allow businesses to operate relatively freely while still setting certain rules, providing some public services, and stepping in during economic emergencies to help stabilize the overall system."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "Economic systems have never changed throughout human history.",
+            "Societies have developed different economic systems over time, from bartering to money to modern mixed economies.",
+            "Bartering is still the primary way most modern countries trade goods.",
+            "Money has never played any role in how societies organize trade."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 2, what does the word \"bartering\" most likely mean, based on how it is described in the passage?",
+          "lines": 2,
+          "sample_answer": "Bartering means directly trading one good or service for another without using money as currency."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, bartering always worked perfectly with no challenges at all.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as an early form of money?",
+          "options": [
+            "Shells",
+            "Salt",
+            "Precious metals",
+            "Digital cryptocurrency"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about a market-based economic system, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "Individuals and businesses make most production decisions.",
+            "Decisions are based on supply and demand.",
+            "Government involvement is limited.",
+            "The government controls all production decisions."
+          ],
+          "correct_indices": [0, 1, 2]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why did the invention of money help solve problems created by bartering?",
+          "options": [
+            "Money eliminated the need for any trade at all.",
+            "Money gave people a widely accepted way to exchange value without needing to trade goods directly.",
+            "Money made bartering illegal in most societies.",
+            "Money could only be used by governments, not individuals."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 5?",
+          "options": [
+            "The History of Bartering",
+            "How Most Countries Use Mixed Economic Systems",
+            "The Invention of Coins and Paper Money",
+            "Market-Based Systems Explained"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain what a \"mixed economic system\" is, based on the passage.",
+          "lines": 2,
+          "sample_answer": "A mixed economic system combines elements of both market-based and centrally planned systems, allowing businesses to operate freely while the government still sets rules and provides services."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, in a centrally planned economic system, the government plays a much larger role in deciding what gets produced.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT described in the passage as a question an economic system must answer?",
+          "options": [
+            "What to produce",
+            "How to produce it",
+            "Who gets to use the final products",
+            "What language people should speak"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "Would you rather live in a society that uses bartering or one that uses money? Explain your reasoning using a detail from the passage.",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer references a detail from the passage, such as the double coincidence of wants problem with bartering."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following does the passage say governments in mixed economies often do? (Select ALL that apply.)",
+          "options": [
+            "Allow businesses to operate relatively freely",
+            "Set certain rules",
+            "Provide some public services",
+            "Ban all forms of private business entirely"
+          ],
+          "correct_indices": [0, 1, 2]
+        }
+      ]
+    }
+  ]
+}

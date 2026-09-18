@@ -1,0 +1,473 @@
+{
+  "subject": "Topic 1: Continents and Their Wildlife",
+  "topics": [
+    {
+      "title": "Wildlife of the African Savanna",
+      "passage": [
+        "Africa's savannas are wide, grassy plains dotted with scattered trees, and they are home to some of the most famous animals on Earth. Elephants, lions, giraffes, and zebras all share this open landscape, along with millions of wildebeest that gather in massive herds. The mix of grass, occasional rain, and warm weather year-round makes the savanna an ideal home for large plant-eating animals, which in turn attract the predators that hunt them.",
+        "Every year, more than a million wildebeest travel across the Serengeti in East Africa in search of fresh grass and water, joined by zebras and gazelles along the way. This journey, called the Great Migration, follows the pattern of the wet and dry seasons. Traveling in such enormous herds offers the animals some protection, since predators like lions and hyenas find it harder to target one individual within a huge, moving crowd.",
+        "Lions are the savanna's top predator and live in family groups called prides, usually made up of related females, their cubs, and a smaller number of males. Female lions do most of the hunting, often working together to surround and catch prey such as zebras or antelope. Because hunting is difficult and does not always succeed, lions may rest for up to twenty hours a day to conserve energy between hunts.",
+        "Giraffes, the tallest land animals on Earth, have long necks that let them reach leaves high in acacia trees that other animals cannot get to, reducing competition for food. Their height also helps them spot approaching predators from a distance across the flat grassland. Despite their size, giraffes can run in short bursts and deliver a powerful kick, which is usually enough to keep even a hungry lion away.",
+        "Human activity has changed much of the savanna landscape through farming, cities, and roads, which has reduced the space available for wild animals to migrate and find food. Many African countries have created large national parks and reserves, such as the Serengeti and the Maasai Mara, specifically to protect these ecosystems. Conservation programs work to balance the needs of local communities with the survival of savanna wildlife for future generations."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "African savannas contain no predators, only plant-eating animals.",
+            "The African savanna supports a wide variety of large animals, from grazing herds to top predators, in a fragile but protected ecosystem.",
+            "Giraffes are the only animals that live on the African savanna.",
+            "The Great Migration happens only once every hundred years."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 2, what does the word \"migration\" most likely mean, based on how it is used in the passage?",
+          "lines": 2,
+          "sample_answer": "Migration means a large, seasonal journey animals make, usually in search of food or water, such as the wildebeest traveling across the Serengeti."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, traveling in large herds makes it easier for predators to target a single wildebeest.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT a reason given in the passage for why lions rest so much?",
+          "options": [
+            "Hunting is difficult and does not always succeed.",
+            "Resting helps them conserve energy between hunts.",
+            "Lions are naturally slower-moving animals than giraffes.",
+            "They may rest for up to twenty hours a day."
+          ],
+          "correct_index": 2
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are reasons a giraffe's height is useful, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "It lets them reach leaves other animals cannot access.",
+            "It helps them spot predators from far away.",
+            "It allows them to swim across rivers safely.",
+            "It reduces competition for food with shorter animals."
+          ],
+          "correct_indices": [0, 1, 3]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why do lions often hunt in groups rather than alone?",
+          "options": [
+            "Group hunting makes it easier to surround and catch fast prey.",
+            "Lions cannot see well enough to hunt alone.",
+            "Only female lions are allowed to eat the prey.",
+            "Group hunting uses less energy than resting."
+          ],
+          "correct_index": 0
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 5?",
+          "options": [
+            "The Diet of Lions and Giraffes",
+            "Protecting the Savanna's Future",
+            "The Great Wildebeest Migration",
+            "How Giraffes Avoid Predators"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain why national parks like the Serengeti were created. Use a detail from Paragraph 5.",
+          "lines": 2,
+          "sample_answer": "They were created to protect savanna ecosystems and wildlife migration routes from being lost to farming, cities, and roads."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, female lions do most of the hunting for the pride.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of these animals is NOT mentioned in the passage as part of the Great Migration?",
+          "options": [
+            "Wildebeest",
+            "Zebras",
+            "Gazelles",
+            "Elephants"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "What is one challenge facing savanna wildlife today, according to the passage, and what are people doing about it?",
+          "lines": 2,
+          "sample_answer": "Human activity like farming and roads has reduced space for wildlife, so countries have created national parks and reserves to protect the animals."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following statements about the Great Migration are TRUE, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "It involves more than a million wildebeest.",
+            "It follows the pattern of wet and dry seasons.",
+            "It only happens in zoos, not in the wild.",
+            "Zebras and gazelles join the wildebeest on the journey."
+          ],
+          "correct_indices": [0, 1, 3]
+        }
+      ]
+    },
+    {
+      "title": "The Amazon Rainforest: Life in South America",
+      "passage": [
+        "The Amazon Rainforest stretches across much of South America, covering parts of Brazil, Peru, Colombia, and several other countries. It is the largest rainforest on Earth and contains an incredible variety of life, from tiny insects to massive jaguars. Scientists believe the Amazon may be home to roughly ten percent of all known species on the planet, even though it covers only a small fraction of Earth's land surface.",
+        "One reason the Amazon supports so much life is its layered structure. The tallest trees form an upper layer called the emergent layer, below which sits a thick canopy of overlapping treetops that blocks most sunlight from reaching the ground. Beneath the canopy is a darker understory, and finally the forest floor, where fallen leaves decompose quickly in the warm, humid air. Each layer provides a different habitat, so many species can live in the same area without directly competing for space.",
+        "The jaguar is the largest cat in the Americas and a top predator of the Amazon. Unlike many big cats, jaguars are strong swimmers and often hunt near rivers, catching fish, turtles, and even caimans, a relative of the alligator. Their powerful jaws can bite through the tough shells of turtles and the skulls of prey, a bite force stronger than that of lions or tigers relative to body size.",
+        "The Amazon River, which flows through the rainforest, is home to the pink river dolphin, one of the few freshwater dolphin species in the world. These dolphins use sound, called echolocation, to navigate the muddy river water, where visibility is often very poor. Poison dart frogs, some of the most colorful animals in the rainforest, also make their home here; their bright colors warn predators that their skin contains toxins, a defense strategy called warning coloration.",
+        "Despite its size, the Amazon faces serious threats from deforestation, as trees are cleared for farming, cattle ranching, and logging. Losing large areas of rainforest does not just affect the plants and animals that live there; scientists say the Amazon also plays an important role in producing oxygen and absorbing carbon dioxide for the entire planet. International organizations and local governments continue to work on ways to slow deforestation and protect this unique ecosystem."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "The Amazon Rainforest is a small forest with very few animal species.",
+            "The Amazon Rainforest is an enormous, layered ecosystem that supports incredible biodiversity but faces threats from deforestation.",
+            "Jaguars are the only interesting animal that lives in the Amazon.",
+            "The Amazon River has no fish or dolphins living in it."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 4, what does the phrase \"warning coloration\" most likely mean, based on how poison dart frogs use it?",
+          "lines": 2,
+          "sample_answer": "Warning coloration means bright colors that signal danger to predators, warning them that an animal is toxic or harmful to eat."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, the Amazon's canopy layer allows plenty of sunlight to reach the forest floor.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT described in the passage as part of the Amazon's layered structure?",
+          "options": [
+            "The emergent layer of tallest trees",
+            "A thick canopy of overlapping treetops",
+            "An underground layer of tunnels dug by animals",
+            "The forest floor where leaves decompose"
+          ],
+          "correct_index": 2
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about jaguars, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "They are strong swimmers.",
+            "They only eat plants and fruit.",
+            "They can hunt caimans and turtles.",
+            "Their bite is very powerful relative to their body size."
+          ],
+          "correct_indices": [0, 2, 3]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why can so many different species live in the Amazon without competing directly for space?",
+          "options": [
+            "Most animals in the Amazon live underground.",
+            "The forest's different layers each provide their own separate habitat.",
+            "There are very few animals living in the Amazon at all.",
+            "All Amazon animals eat exactly the same food."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 5?",
+          "options": [
+            "The Colorful Poison Dart Frog",
+            "Threats to the Amazon's Future",
+            "How Pink Dolphins Navigate Rivers",
+            "The Layers of the Rainforest"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain why scientists say protecting the Amazon matters for the whole planet, not just the animals living there.",
+          "lines": 2,
+          "sample_answer": "The Amazon helps produce oxygen and absorb carbon dioxide, which affects the whole planet's air, not just the local ecosystem."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, the pink river dolphin uses echolocation to navigate muddy river water.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of these is NOT listed in the passage as a cause of deforestation in the Amazon?",
+          "options": [
+            "Farming",
+            "Cattle ranching",
+            "Logging",
+            "Volcanic eruptions"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "Which Amazon animal from the passage do you find most interesting, and why? Use a detail from the text.",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer names an animal (jaguar, pink dolphin, or poison dart frog) and explains using a specific detail from the passage."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which countries does the passage say the Amazon Rainforest covers parts of? (Select ALL that apply.)",
+          "options": [
+            "Brazil",
+            "Peru",
+            "Colombia",
+            "Australia"
+          ],
+          "correct_indices": [0, 1, 2]
+        }
+      ]
+    },
+    {
+      "title": "Australia's Unusual Marsupials",
+      "passage": [
+        "Australia is home to a group of animals called marsupials, which are mammals that carry and nurse their young in a pouch. Kangaroos, koalas, wombats, and Tasmanian devils are all marsupials, and many of them exist nowhere else on Earth. Because Australia has been separated from other continents by ocean for millions of years, its animals evolved in isolation, developing traits found in few other places in the world.",
+        "Kangaroos are perhaps Australia's most recognizable animal, known for hopping on their powerful hind legs instead of walking on all four. A newborn kangaroo, called a joey, is tiny and undeveloped at birth, sometimes no bigger than a jellybean, and must crawl into its mother's pouch to continue growing and nursing for several months. Kangaroos can hop at speeds over thirty-five miles per hour and use their large tails for balance.",
+        "Koalas spend most of their lives in eucalyptus trees, eating almost nothing but eucalyptus leaves, which are tough, low in nutrients, and mildly toxic to most other animals. To handle this difficult diet, koalas sleep up to twenty hours a day to conserve energy, since eucalyptus provides very little fuel for activity. Their strong sense of smell also helps them choose the least toxic leaves from a tree before eating.",
+        "The Tasmanian devil, found mainly on the island of Tasmania, is the largest surviving carnivorous marsupial in the world. Despite its name, it is roughly the size of a small dog, but it has an extremely powerful bite for its size and a loud, startling screech used to warn off rivals during feeding. Tasmanian devils mostly scavenge dead animals rather than hunting live prey, playing an important role in cleaning up the ecosystem.",
+        "Many of Australia's marsupials face serious threats today, including habitat loss from land development and diseases such as a contagious facial tumor disease that has sharply reduced Tasmanian devil populations. Wildlife groups have set up breeding programs and protected reserves to help vulnerable species recover. Because these animals are found almost nowhere else, their survival depends heavily on continued conservation efforts within Australia itself."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "Australia has no unique animals compared to other continents.",
+            "Australia's long isolation allowed unique marsupials like kangaroos, koalas, and Tasmanian devils to evolve, though many now need protection.",
+            "Kangaroos are found on every continent in large numbers.",
+            "Koalas are dangerous predators that hunt other marsupials."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 1, what does the word \"isolation\" most likely mean, based on how Australia's separation from other continents is described?",
+          "lines": 2,
+          "sample_answer": "Isolation means being separated or cut off from other places, which is why Australia's animals developed differently from animals elsewhere."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, a newborn kangaroo is fully developed and ready to hop right after birth.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT a reason given in the passage for why koalas sleep so much?",
+          "options": [
+            "Eucalyptus leaves provide very little energy.",
+            "Their diet is tough and low in nutrients.",
+            "Koalas are naturally afraid of daylight.",
+            "Sleeping helps them conserve energy."
+          ],
+          "correct_index": 2
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about the Tasmanian devil, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "It is the largest surviving carnivorous marsupial.",
+            "It is roughly the size of a small dog.",
+            "It mostly hunts large live prey such as kangaroos.",
+            "It uses a loud screech to warn off rivals."
+          ],
+          "correct_indices": [0, 1, 3]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why can koalas eat a food that is toxic to most other animals?",
+          "options": [
+            "Koalas do not actually eat eucalyptus leaves at all.",
+            "Koalas have adapted a strong sense of smell to choose less toxic leaves and a body suited to a low-energy diet.",
+            "Koalas cook their food before eating it.",
+            "Eucalyptus leaves are not toxic to any animal."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 5?",
+          "options": [
+            "How Kangaroos Hop and Balance",
+            "Threats and Conservation for Australia's Marsupials",
+            "The Diet of the Koala",
+            "Why Australia Has No Predators"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain what a marsupial is and give one example from the passage.",
+          "lines": 2,
+          "sample_answer": "A marsupial is a mammal that carries and nurses its young in a pouch; examples from the passage include kangaroos, koalas, and Tasmanian devils."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, a disease has sharply reduced Tasmanian devil populations.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of these animals is NOT mentioned in the passage as an Australian marsupial?",
+          "options": [
+            "Kangaroo",
+            "Koala",
+            "Wombat",
+            "Panda"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "Which Australian marsupial from the passage would you most like to learn more about, and why?",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer names one marsupial and gives a reason connected to a detail from the passage."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following threats to marsupials are mentioned in the passage? (Select ALL that apply.)",
+          "options": [
+            "Habitat loss from land development",
+            "A contagious facial tumor disease",
+            "Extreme cold weather",
+            "None \u2014 marsupials face no threats"
+          ],
+          "correct_indices": [0, 1]
+        }
+      ]
+    },
+    {
+      "title": "Survivors of the Arctic and Antarctic",
+      "passage": [
+        "The Arctic, at the top of the world, and Antarctica, at the bottom, are two of the coldest and harshest places on Earth, yet both are home to animals specially adapted to survive extreme cold. Although people sometimes picture polar bears and penguins living together, this is a common mistake: polar bears live only in the Arctic, while penguins live mostly in Antarctica and the Southern Hemisphere, and the two species never naturally meet in the wild.",
+        "Polar bears are the largest land predators in the Arctic, built for a life spent mostly hunting on sea ice. A thick layer of fat called blubber, combined with dense fur, keeps them warm in temperatures far below freezing. Polar bears primarily hunt seals, waiting patiently near breathing holes in the ice for a seal to surface, sometimes waiting motionless for hours at a time before striking.",
+        "In Antarctica, emperor penguins face some of the harshest breeding conditions of any bird on Earth. During the brutal Antarctic winter, male emperor penguins balance a single egg on their feet for about two months, keeping it warm under a fold of skin while enduring freezing winds and going without food the entire time. Meanwhile, females travel to the ocean to feed, returning just as the chicks are ready to hatch.",
+        "Both polar regions support surprising amounts of ocean life beneath the ice. Arctic waters are home to narwhals, sometimes called the \"unicorns of the sea\" because of the long, spiraled tusk males grow from a tooth. In the Southern Ocean around Antarctica, krill, small shrimp-like creatures, exist in massive numbers and form the base of the food chain, feeding everything from fish to penguins to enormous blue whales.",
+        "Climate change poses a major threat to both polar regions, as rising temperatures cause sea ice to melt earlier in the year and form later, shrinking the hunting grounds polar bears depend on and changing the ocean conditions krill need to thrive. Scientists closely monitor these changes because a shrinking food supply at the base of the food chain, like krill, can eventually affect nearly every other species living in the region."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "Polar bears and penguins live together and hunt as a team.",
+            "The Arctic and Antarctic each support specially adapted animals, though both face growing threats from climate change.",
+            "No animals can survive in either polar region.",
+            "Krill are the largest animals in the Southern Ocean."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 2, what does the word \"blubber\" most likely mean, based on how it helps polar bears?",
+          "lines": 2,
+          "sample_answer": "Blubber is a thick layer of fat that helps keep polar bears warm in extremely cold temperatures."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, polar bears and penguins naturally live together in the wild.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT true about emperor penguins, according to the passage?",
+          "options": [
+            "Males balance a single egg on their feet for about two months.",
+            "Males go without food while caring for the egg.",
+            "Females stay with the egg the entire winter instead of the males.",
+            "Females return to feed the chicks around hatching time."
+          ],
+          "correct_index": 2
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about krill, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "They exist in massive numbers in the Southern Ocean.",
+            "They form the base of the Antarctic food chain.",
+            "They are the largest predators in Antarctica.",
+            "They are eaten by fish, penguins, and whales."
+          ],
+          "correct_indices": [0, 1, 3]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why do polar bears wait near breathing holes in the ice?",
+          "options": [
+            "They are waiting for other polar bears to arrive.",
+            "They are waiting for a seal to surface so they can hunt it.",
+            "They are trying to keep the ice from melting.",
+            "They are resting before swimming south."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 5?",
+          "options": [
+            "How Narwhals Use Their Tusks",
+            "Climate Change's Threat to Polar Wildlife",
+            "The Diet of the Polar Bear",
+            "Emperor Penguins and Their Eggs"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain why a shrinking krill population could affect many other Antarctic animals.",
+          "lines": 2,
+          "sample_answer": "Krill are at the base of the food chain, so if their numbers shrink, the animals that eat them \u2014 and the animals that eat those animals \u2014 could also struggle to find food."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, narwhals are sometimes called the \"unicorns of the sea\" because of their long, spiraled tusk.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of these animals is NOT mentioned in the passage as living in a polar region?",
+          "options": [
+            "Polar bear",
+            "Emperor penguin",
+            "Narwhal",
+            "Giraffe"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "Which adaptation described in the passage do you think is most impressive \u2014 the polar bear's blubber, the penguin's egg-balancing, or another example? Explain why.",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer names a specific adaptation and explains why it helps the animal survive extreme cold using a detail from the passage."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following does the passage say climate change is affecting? (Select ALL that apply.)",
+          "options": [
+            "How much sea ice forms and melts each year",
+            "The ocean conditions krill need to thrive",
+            "The color of penguin feathers",
+            "The hunting grounds polar bears depend on"
+          ],
+          "correct_indices": [0, 1, 3]
+        }
+      ]
+    }
+  ]
+}

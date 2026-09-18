@@ -1,0 +1,473 @@
+{
+  "subject": "Topic 10: Computational Science, AI, and the Future",
+  "topics": [
+    {
+      "title": "The First Computers",
+      "passage": [
+        "The earliest electronic computers, built in the 1940s, were massive machines that filled entire rooms, weighed many tons, and required teams of people just to operate them. Unlike the sleek, quiet devices we use today, these early computers used thousands of large glass tubes called vacuum tubes to process information, generated significant heat, and needed constant maintenance to keep functioning properly.",
+        "Despite their enormous size, these early computers were far less powerful than even a simple modern calculator. Programming them was an extremely difficult, time-consuming process, often involving physically rewiring circuits or feeding in punched cards, stiff pieces of paper with holes representing data, rather than typing commands on a keyboard as people do today.",
+        "A major turning point came in the late 1940s and 1950s with the invention of the transistor, a small electronic device that could control the flow of electricity far more efficiently than bulky vacuum tubes. Transistors were smaller, more reliable, produced less heat, and used far less power, allowing engineers to build computers that were smaller, faster, and less expensive than earlier models.",
+        "Computers continued shrinking dramatically over the following decades as engineers learned to fit increasing numbers of transistors onto tiny chips called integrated circuits, sometimes called microchips. This trend allowed computing power that once required an entire room to eventually fit onto a chip smaller than a fingernail, a change that made computers practical for offices, schools, and eventually individual homes.",
+        "By the late 1970s and early 1980s, personal computers small and affordable enough for regular households began appearing on the market, a dramatic shift from the room-sized machines of just a few decades earlier. This rapid miniaturization and increase in computing power set the stage for nearly every technological advancement that followed, from the internet to smartphones to modern artificial intelligence."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "Computers have always been small, fast, and affordable throughout history.",
+            "Computers evolved from massive, room-sized machines into small, powerful devices through key inventions like transistors and microchips.",
+            "The transistor made computers larger and less efficient.",
+            "Personal computers existed before the first electronic computers were built."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 4, what does the phrase \"integrated circuits\" most likely mean, based on how they are described in the passage?",
+          "lines": 2,
+          "sample_answer": "Integrated circuits, or microchips, are tiny chips that hold large numbers of transistors, allowing computing power to fit into a very small space."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, early electronic computers were more powerful than a simple modern calculator.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT described in the passage as a way early computers were programmed?",
+          "options": [
+            "Physically rewiring circuits",
+            "Feeding in punched cards",
+            "Typing commands on a keyboard",
+            "Both rewiring circuits and using punched cards"
+          ],
+          "correct_index": 2
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about transistors, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "They were smaller than vacuum tubes.",
+            "They were more reliable than vacuum tubes.",
+            "They produced less heat than vacuum tubes.",
+            "They made computers larger and more expensive."
+          ],
+          "correct_indices": [0, 1, 2]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why were early computers difficult to use compared to computers today?",
+          "options": [
+            "Programming them required physically rewiring circuits or using punched cards rather than typing commands.",
+            "Early computers were smaller and simpler than today's computers.",
+            "Early computers required no maintenance at all.",
+            "Early computers used keyboards identical to modern ones."
+          ],
+          "correct_index": 0
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 5?",
+          "options": [
+            "The Invention of the Transistor",
+            "The Rise of Personal Computers",
+            "How Vacuum Tubes Worked",
+            "Punched Cards Explained"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain how the invention of the transistor changed the size and power of computers.",
+          "lines": 2,
+          "sample_answer": "Transistors were smaller, more efficient, and produced less heat than vacuum tubes, allowing engineers to build smaller, faster, and cheaper computers."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, personal computers began appearing for regular households in the late 1970s and early 1980s.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as a feature of the earliest electronic computers?",
+          "options": [
+            "They filled entire rooms.",
+            "They used vacuum tubes.",
+            "They weighed many tons.",
+            "They connected wirelessly to the internet."
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "What part of the history of computers described in the passage surprises you the most, and why?",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer names a specific detail, such as room-sized computers or punched cards, and explains why it stands out."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following does the passage describe as steps in the miniaturization of computers? (Select ALL that apply.)",
+          "options": [
+            "The invention of the transistor",
+            "The development of integrated circuits",
+            "The rise of personal computers",
+            "The invention of the printing press"
+          ],
+          "correct_indices": [0, 1, 2]
+        }
+      ]
+    },
+    {
+      "title": "The Internet's Early Beginnings",
+      "passage": [
+        "Long before people used the internet to browse websites or send messages instantly around the world, the earliest version of this technology began as a research project in the late 1960s, designed to connect a small number of computers at universities and research institutions across the United States. This early network was primarily built to allow researchers to share information and computing resources more efficiently.",
+        "One key idea behind this early network was breaking information into small pieces called packets before sending them, rather than transmitting an entire message all at once. Each packet could travel independently across the network, sometimes along different paths, before being reassembled correctly at its destination, making the network more reliable since it could still function even if part of it experienced a problem.",
+        "Throughout the 1970s and 1980s, this network gradually grew as more universities, government agencies, and eventually private companies connected their own computer systems, creating an increasingly large and interconnected system of networks. This period also saw the development of email, one of the earliest and most widely used features of the growing network, letting people send written messages to each other electronically.",
+        "A major turning point came in the early 1990s with the invention of the World Wide Web, a system that let people create and link pages of text, images, and other content using simple, clickable links called hyperlinks. This innovation made the internet far easier and more intuitive for ordinary people to use, since browsing linked pages felt far more natural than the more technical methods required before.",
+        "Once web browsers, software that let people view and navigate these web pages, became widely available in the mid-1990s, internet use expanded rapidly beyond universities and research institutions into homes, schools, and businesses around the world. This dramatic expansion transformed the internet from a specialized research tool into an essential part of daily life for billions of people today."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "The internet was created fully formed in the 1990s with no earlier history.",
+            "The internet began as a research project connecting a small number of computers and gradually grew into the essential global tool it is today.",
+            "The World Wide Web and the internet are exactly the same thing with no differences.",
+            "Email was invented before the internet itself existed."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 2, what does the word \"packets\" most likely mean, based on how they are described in the passage?",
+          "lines": 2,
+          "sample_answer": "Packets are small pieces of information that are broken apart, sent independently across a network, and reassembled at their destination."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, the earliest version of the internet was originally designed for ordinary households to use.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT described in the passage as a benefit of breaking information into packets?",
+          "options": [
+            "Each packet can travel independently.",
+            "The network can still function if part of it has a problem.",
+            "Packets can travel along different paths.",
+            "Packets guarantee that no information is ever needed after sending."
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about the World Wide Web, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "It was invented in the early 1990s.",
+            "It let people link pages using hyperlinks.",
+            "It made the internet easier for ordinary people to use.",
+            "It existed before the internet itself was created."
+          ],
+          "correct_indices": [0, 1, 2]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why did internet use expand so rapidly once web browsers became widely available?",
+          "options": [
+            "Web browsers let people easily view and navigate web pages, making the internet far more accessible.",
+            "Web browsers made the internet more difficult to use than before.",
+            "Web browsers had nothing to do with how people accessed the internet.",
+            "Universities stopped using the internet once browsers appeared."
+          ],
+          "correct_index": 0
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 3?",
+          "options": [
+            "Breaking Information into Packets",
+            "The Growth of Networks and the Rise of Email",
+            "The Invention of the World Wide Web",
+            "How Web Browsers Work"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain how the invention of the World Wide Web changed how people used the internet.",
+          "lines": 2,
+          "sample_answer": "It let people create and link pages using hyperlinks, making browsing feel more natural and easier for ordinary people than earlier technical methods."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, email was one of the earliest and most widely used features of the growing network.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as an early user of the growing computer network?",
+          "options": [
+            "Universities",
+            "Government agencies",
+            "Private companies",
+            "Individual smartphone users"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "What do you think was the most important step in the internet's early development, based on the passage? Explain why.",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer names a specific development, such as packet switching or the World Wide Web, and explains its importance."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following does the passage describe as part of the internet's growth over time? (Select ALL that apply.)",
+          "options": [
+            "More universities and agencies connecting their systems",
+            "The development of email",
+            "The invention of the World Wide Web",
+            "The invention of the first telephone"
+          ],
+          "correct_indices": [0, 1, 2]
+        }
+      ]
+    },
+    {
+      "title": "Artificial Intelligence: How Machines Learn",
+      "passage": [
+        "Artificial intelligence, often shortened to AI, refers to computer systems designed to perform tasks that typically require human intelligence, such as recognizing images, understanding language, or making decisions based on complex information. Although AI might seem like a very recent invention, researchers have actually been studying and developing these ideas since the middle of the 20th century.",
+        "One especially important approach within AI is called machine learning, a method where computer programs improve their performance on a task by analyzing large amounts of data rather than being explicitly programmed with specific rules for every situation. For example, instead of manually programming every possible way to recognize a cat in a photo, a machine learning system can study thousands of labeled example photos and gradually learn to identify patterns on its own.",
+        "A particularly powerful type of machine learning, called deep learning, uses structures loosely inspired by the human brain, called neural networks, arranged in multiple connected layers that process information in increasingly complex ways. Deep learning has driven many of the significant AI breakthroughs of recent years, including major improvements in language translation, image recognition, and generating original text and images.",
+        "Training these advanced AI systems typically requires enormous amounts of data and significant computing power, since the system needs many examples to learn accurate and useful patterns rather than making mistakes based on too little information. This need for massive amounts of data and processing capability is one major reason AI capabilities have advanced so dramatically in recent years, as both available data and computing power have grown enormously.",
+        "AI systems today are used in a wide range of fields, including medicine, where they help analyze medical images, transportation, where they support the development of self-driving vehicles, and everyday technology like voice assistants and recommendation systems. As AI capabilities continue to advance, researchers, businesses, and policymakers continue discussing important questions about how to develop and use this powerful technology responsibly."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "Artificial intelligence was invented within just the past few years with no earlier research.",
+            "Artificial intelligence, especially through machine learning and deep learning, allows computers to perform complex tasks by learning from large amounts of data.",
+            "Machine learning requires no data at all to function.",
+            "AI is only used in a single narrow field with no broader applications."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 2, what does the phrase \"machine learning\" most likely mean, based on how it is described in the passage?",
+          "lines": 2,
+          "sample_answer": "Machine learning is a method where computer programs improve at a task by analyzing large amounts of data, rather than following explicitly programmed rules."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, researchers have only been studying artificial intelligence for the past few years.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT described in the passage as an application of AI today?",
+          "options": [
+            "Analyzing medical images",
+            "Supporting self-driving vehicles",
+            "Voice assistants and recommendation systems",
+            "Predicting earthquakes with complete certainty"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about deep learning, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "It uses structures loosely inspired by the human brain called neural networks.",
+            "It has driven improvements in language translation and image recognition.",
+            "It arranges information processing in multiple connected layers.",
+            "It requires no data or computing power at all."
+          ],
+          "correct_indices": [0, 1, 2]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why has AI capability advanced so dramatically in recent years?",
+          "options": [
+            "Both available data and computing power have grown enormously.",
+            "AI systems no longer require any data to function.",
+            "Researchers stopped studying AI for several decades.",
+            "Computing power has actually decreased over time."
+          ],
+          "correct_index": 0
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 5?",
+          "options": [
+            "How Neural Networks Are Structured",
+            "AI's Use Across Different Fields",
+            "The History of Machine Learning",
+            "Why Training AI Requires Large Amounts of Data"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain the difference between how a traditional program and a machine learning system might learn to recognize a cat in a photo.",
+          "lines": 2,
+          "sample_answer": "A traditional program would need explicit rules programmed in, while a machine learning system studies many labeled examples and learns patterns on its own."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, training advanced AI systems typically requires enormous amounts of data and computing power.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as a reason AI systems need large amounts of data?",
+          "options": [
+            "To learn accurate and useful patterns",
+            "To avoid making mistakes based on too little information",
+            "Because more data generally improves learning",
+            "Because AI systems are legally required to collect data"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "What is one question you think researchers and policymakers should consider as AI technology continues to advance, based on the passage?",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer connects to the passage's mention of using AI responsibly, such as questions about fairness or safety."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following does the passage mention as recent AI breakthroughs driven by deep learning? (Select ALL that apply.)",
+          "options": [
+            "Language translation",
+            "Image recognition",
+            "Generating original text and images",
+            "Predicting the weather with total accuracy"
+          ],
+          "correct_indices": [0, 1, 2]
+        }
+      ]
+    },
+    {
+      "title": "Robots and the Future of Technology",
+      "passage": [
+        "Robots, machines capable of carrying out physical tasks automatically or with some level of independent decision-making, have moved far beyond the simple factory machines of decades past into far more advanced and versatile forms found in homes, hospitals, and even outer space. Modern robots increasingly combine mechanical engineering with artificial intelligence, allowing many of them to sense their surroundings and adjust their actions accordingly.",
+        "In factories, robots have long been used to perform repetitive tasks with speed and precision, such as assembling cars or packaging products, often working faster and more consistently than human workers could on the exact same repetitive task. Today's factory robots increasingly work directly alongside human employees, handling physically demanding or repetitive portions of a task while people focus on more complex decision-making.",
+        "Beyond factories, robots have found their way into surprising new roles, including surgical robots that assist doctors during delicate medical procedures with remarkable precision, and exploration robots that travel to environments too dangerous or difficult for humans to reach, such as the surface of Mars or the deep ocean floor. These specialized robots extend human capability into places and situations that would otherwise be extremely difficult or dangerous.",
+        "Robots designed for the home, such as automated vacuum cleaners, represent a more everyday application of this technology, using sensors to navigate around furniture and obstacles while cleaning a home with minimal input from their owners. As sensors and artificial intelligence continue improving, home and personal robots are expected to take on an increasingly wide range of everyday helpful tasks in the coming years.",
+        "Looking toward the future, researchers continue working on robots capable of more complex, flexible decision-making in unpredictable environments, along with improved ways for robots and humans to communicate and work together safely and effectively. While it remains difficult to predict exactly how robotic technology will develop, most experts agree that robots will likely play an increasingly significant role in daily life and work in the decades ahead."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "Robots are used only in factories and nowhere else.",
+            "Robots have expanded from simple factory machines into diverse, advanced roles across many fields, with an expected growing role in the future.",
+            "Robots have no connection to artificial intelligence.",
+            "Robots are expected to disappear entirely in the coming years."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 1, what does the phrase \"independent decision-making\" most likely mean, based on how it describes some modern robots?",
+          "lines": 2,
+          "sample_answer": "Independent decision-making means a robot can make choices about its actions on its own, rather than only following a fixed set of instructions."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, today's factory robots increasingly work directly alongside human employees.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT described in the passage as a role for robots beyond factories?",
+          "options": [
+            "Assisting doctors during surgical procedures",
+            "Exploring environments too dangerous for humans",
+            "Cleaning homes as automated vacuum cleaners",
+            "Serving as elected government officials"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are described in the passage as places or situations exploration robots are used? (Select ALL that apply.)",
+          "options": [
+            "The surface of Mars",
+            "The deep ocean floor",
+            "Environments too dangerous for humans",
+            "Only inside factories"
+          ],
+          "correct_indices": [0, 1, 2]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why are surgical robots useful to doctors?",
+          "options": [
+            "They assist with delicate medical procedures with remarkable precision.",
+            "They completely replace doctors during every surgery.",
+            "They have no connection to medicine or surgery.",
+            "They are only used for cleaning hospital rooms."
+          ],
+          "correct_index": 0
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 4?",
+          "options": [
+            "Surgical and Exploration Robots",
+            "Home Robots and Everyday Technology",
+            "The History of Factory Robots",
+            "Future Robot Communication"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain how automated vacuum cleaners represent an everyday application of robotic technology.",
+          "lines": 2,
+          "sample_answer": "They use sensors to navigate around furniture and obstacles, cleaning a home automatically with minimal input from the owner."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, most experts agree that robots will likely play an increasingly significant role in daily life in the future.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as a focus of future robotics research?",
+          "options": [
+            "More complex, flexible decision-making",
+            "Improved communication between robots and humans",
+            "Working safely and effectively with people",
+            "Eliminating the need for any human workers ever"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "What role for robots described in the passage do you think will become most common in everyday life in the future? Explain your reasoning.",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer names a specific role from the passage, such as home robots or medical robots, and gives supporting reasoning."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following does the passage describe as current or emerging uses of robots? (Select ALL that apply.)",
+          "options": [
+            "Factory assembly and packaging",
+            "Assisting during surgery",
+            "Exploring dangerous environments",
+            "Voting in elections"
+          ],
+          "correct_indices": [0, 1, 2]
+        }
+      ]
+    }
+  ]
+}

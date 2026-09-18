@@ -1,0 +1,296 @@
+{
+  "topics": [
+    {
+      "title": "Ancient Egypt: Gift of the Nile",
+      "passage": [
+        "Ancient Egypt grew up along the banks of the Nile River, in the northeastern corner of Africa. Each year, the Nile flooded its banks and left behind a thick layer of dark, rich soil called silt. Farmers depended on this yearly flood because the silt made the land perfect for growing wheat, barley, and flax. Without the Nile's floods, most of Egypt would have been desert, and the civilization that arose there might never have developed at all. Ancient Egyptians even had a saying that their country was &ldquo;the gift of the Nile.&rdquo;",
+        "Egyptian society was organized like a pyramid, with a small number of powerful people at the top and a huge number of workers at the bottom. At the very top stood the pharaoh, the king of Egypt, who was believed to be a living god and the connection between the people and the gods of the sky, earth, and underworld. Below the pharaoh were priests, nobles, and government officials who helped run the country, collect taxes, and organize massive building projects. Most Egyptians, however, were farmers, laborers, or craftspeople who spent their lives working the land or building monuments for their rulers.",
+        "Perhaps no Egyptian achievement is more famous than the pyramids, enormous stone tombs built to protect the bodies of dead pharaohs. The largest, the Great Pyramid of Giza, was built with over two million limestone blocks, some weighing as much as a small car, without the help of any modern machines. Egyptians believed that a person's spirit needed a preserved body to survive in the afterlife, so they developed a process called mummification. Skilled workers removed a body's organs, dried it out with a special salt called natron, and wrapped it carefully in linen strips, a process that could take up to seventy days to complete.",
+        "The ancient Egyptians also developed one of the world's earliest writing systems, called hieroglyphics, which used pictures and symbols to represent words and sounds. Scribes, who trained for years to read and write this complex system, recorded everything from religious prayers to tax records on a paper-like material made from a plant called papyrus. Egyptian doctors used their knowledge of the human body, gained partly through mummification, to treat wounds and set broken bones, while Egyptian mathematicians used geometry to survey farmland and calculate the exact angles needed to build the pyramids.",
+        "Egyptian civilization lasted for roughly three thousand years, an extraordinarily long time compared to most civilizations in history. Its stability came partly from the protection of deserts on either side of the Nile, which made large-scale invasions difficult, and partly from a strong belief system that gave people a shared sense of purpose. Even after Egypt was eventually conquered by other empires, its art, architecture, and ideas continued to influence the ancient world, and its monuments still amaze visitors from around the globe today."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "Egypt was located entirely in the desert with no rivers nearby.",
+            "Ancient Egyptian civilization thrived for thousands of years because of the Nile River, its social and religious systems, and its many achievements.",
+            "The pharaoh built the pyramids by himself without any help.",
+            "Egyptian scribes were the only people allowed to live near the Nile."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 1, what does the word \"silt\" most likely mean? Use clues from the passage to explain your answer.",
+          "lines": 2,
+          "sample_answer": "Silt is the rich, dark soil left behind by the Nile's floods that made the land good for farming."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, the pharaoh was considered both a political ruler and a religious figure connected to the gods.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following was NOT described in the passage as part of Egyptian society?",
+          "options": [
+            "Priests who helped run religious life",
+            "Farmers who worked the land",
+            "Government officials who collected taxes",
+            "A council of professional soldiers who chose the next pharaoh"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following were achievements of the ancient Egyptians described in the passage? (Select ALL that apply.)",
+          "options": [
+            "Developing hieroglyphic writing",
+            "Inventing the wheel for transportation",
+            "Developing the process of mummification",
+            "Building the Great Wall",
+            "Using geometry to plan building projects"
+          ],
+          "correct_indices": [0, 2, 4]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why does the author suggest that Egyptian civilization might never have developed without the Nile?",
+          "options": [
+            "The Nile was the only source of drinking water in all of Africa.",
+            "The Nile's yearly floods created fertile soil that made farming possible in an otherwise desert region.",
+            "The Nile protected Egypt from being invaded by other empires.",
+            "The Nile was used to transport the limestone blocks for the pyramids."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 3?",
+          "options": [
+            "Egypt's Government and Social Classes",
+            "Pyramids and the Preservation of the Dead",
+            "Farming Along the Riverbanks",
+            "Hieroglyphics and the Work of Scribes"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain why ancient Egyptians believed mummification was necessary. Use at least one detail from Paragraph 3.",
+          "lines": 2,
+          "sample_answer": "Egyptians believed a person's spirit needed a preserved body to survive in the afterlife, so they preserved the body through mummification instead of letting it decay."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, the Great Pyramid of Giza was built with the help of modern machines such as cranes and trucks.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of these statements about Egyptian writing and knowledge is NOT true, according to the passage?",
+          "options": [
+            "Hieroglyphics used pictures and symbols to represent words and sounds.",
+            "Scribes trained for years before they could read and write hieroglyphics.",
+            "Only the pharaoh was ever allowed to learn how to read and write.",
+            "Egyptian mathematicians used geometry to help build the pyramids."
+          ],
+          "correct_index": 2
+        },
+        {
+          "type": "multi_choice",
+          "question": "According to Paragraph 5, which of the following helped Egyptian civilization last for about three thousand years? (Select ALL that apply.)",
+          "options": [
+            "Deserts on either side of the Nile made large-scale invasions difficult.",
+            "A shared belief system gave people a common sense of purpose.",
+            "Egypt had no contact at all with other civilizations.",
+            "Constant warfare between Egyptian city-states united the people."
+          ],
+          "correct_indices": [0, 1]
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 5, the author calls three thousand years \"an extraordinarily long time.\" What does this phrase suggest about how the author views the length of Egyptian civilization compared to others? Explain your answer.",
+          "lines": 2,
+          "sample_answer": "It suggests the author is impressed \u2014 that three thousand years is unusually long compared to how long most civilizations tend to last."
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, what was most likely one direct result of the Nile's yearly flooding?",
+          "options": [
+            "Egypt frequently suffered from famine and food shortages.",
+            "Farmers were able to grow crops in land that would otherwise have been desert.",
+            "The Egyptians were forced to move the pyramids every year.",
+            "Egyptians stopped using the Nile for farming and relied only on rain."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, Egyptian scribes learned to read and write hieroglyphics quickly, in just a few weeks.",
+          "correct": false
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 2, what does the word \"craftspeople\" most likely mean? Use context clues from the passage to explain your answer.",
+          "lines": 2,
+          "sample_answer": "Craftspeople are skilled workers who make things by hand, such as tools, pottery, or jewelry, as part of the labor class described in the passage."
+        },
+        {
+          "type": "write_in",
+          "question": "The passage says Egypt's monuments \"still amaze visitors from around the globe today.\" Based on what you read, what is one thing about ancient Egypt that you find most impressive or surprising? Explain why.",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer names a specific detail from the passage (e.g., building the pyramids without modern machines) and explains why it is impressive."
+        }
+      ]
+    },
+    {
+      "title": "The Maya Civilization: Cities in the Jungle",
+      "passage": [
+        "The Maya civilization developed in a region of Mesoamerica that today includes parts of Mexico, Guatemala, Belize, and Honduras. Unlike some ancient civilizations that were ruled by a single all-powerful government, the Maya lived in dozens of independent city-states, each with its own king, army, and territory. These city-states sometimes traded with each other and sometimes went to war, but they shared a common language family, religion, and way of life. Maya civilization began developing more than three thousand years ago and reached its most impressive achievements between roughly 250 and 900 CE, a period historians call the Classic Maya period.",
+        "The Maya were remarkable astronomers who studied the sky without telescopes, using careful, patient observation instead. Maya priests tracked the movements of the sun, moon, and planet Venus with astonishing accuracy, and they used this knowledge to create complex calendars. One of these calendars, called the Long Count, could track dates across thousands of years, while another calendar guided the timing of religious festivals and farming activities. Maya astronomers could even predict solar and lunar eclipses years in advance, a feat that still impresses scientists today.",
+        "Maya mathematicians were among the first people in the world to use the concept of zero as a placeholder in their number system, an idea that some other cultures never developed on their own. The Maya also created one of the most sophisticated writing systems in the ancient Americas, made up of hundreds of glyphs, or symbols, that could represent whole words or individual sounds. Skilled scribes carved these glyphs into large stone monuments called stelae, recording the histories of kings, important battles, and religious ceremonies for future generations to read.",
+        "Maya cities were built around towering stone pyramids topped with temples, where priests performed religious ceremonies high above the surrounding jungle. Remarkably, the Maya accomplished all of this without the use of metal tools, wheeled vehicles, or large animals to help carry heavy loads. Workers cut and moved massive limestone blocks using stone tools, ropes, and sheer human effort. Many Maya cities also included at least one court for playing a ceremonial ball game, a sport with religious meaning that sometimes ended with a ritual sacrifice for the losing team.",
+        "Beginning around 900 CE, many great Maya cities in the southern lowlands were mysteriously abandoned, and the region's population dropped sharply within just a few generations. Historians do not agree on a single cause, but many believe that a combination of severe drought, warfare between city-states, overpopulation, and the overuse of farmland and forests all played a role. Interestingly, some Maya cities further north, such as Chichen Itza, continued to thrive for centuries afterward. The Maya people themselves never disappeared, and millions of their descendants still live in Mexico and Central America today, where many continue to speak Mayan languages and practice traditions passed down for generations."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "The Maya were a single kingdom ruled by one all-powerful king.",
+            "The Maya built remarkable cities and made major achievements in astronomy, math, and writing, though historians still debate why their southern cities declined.",
+            "The Maya disappeared completely after 900 CE and left no descendants.",
+            "The Maya never had any conflict or warfare between their cities."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 1, what does the phrase \"city-states\" most likely mean? Explain using clues from the passage.",
+          "lines": 2,
+          "sample_answer": "City-states are independent cities that each have their own ruler, army, and territory, rather than all being controlled by one central government."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, the Maya civilization was ruled by a single king who controlled all Maya territory.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following was NOT something Maya astronomers were able to do, according to the passage?",
+          "options": [
+            "Track the movements of the sun, moon, and Venus",
+            "Create complex, highly accurate calendars",
+            "Predict solar and lunar eclipses years in advance",
+            "Build powerful telescopes to observe distant stars"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following were Maya achievements described in the passage? (Select ALL that apply.)",
+          "options": [
+            "Using the concept of zero in mathematics",
+            "Inventing the wheel for transportation",
+            "Creating a hieroglyphic writing system of glyphs",
+            "Carving stelae to record the history of kings",
+            "Building the pyramids of Giza"
+          ],
+          "correct_indices": [0, 2, 3]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why might historians consider Maya achievements in astronomy especially impressive?",
+          "options": [
+            "The Maya used modern telescopes to study the stars in great detail.",
+            "The Maya achieved great accuracy through careful observation alone, without telescopes or modern tools.",
+            "The Maya copied their calendar system from a neighboring civilization.",
+            "The Maya only studied the sun and ignored the moon and planets."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 4?",
+          "options": [
+            "The Mystery of the Maya Decline",
+            "Building Maya Cities Without Modern Tools",
+            "The Maya Calendar System",
+            "Maya Trade Between City-States"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain how the Maya were able to build massive stone pyramids without metal tools or wheeled vehicles. Use at least one detail from Paragraph 4.",
+          "lines": 2,
+          "sample_answer": "Workers used stone tools, ropes, and human effort to cut and move the heavy limestone blocks, since they did not have metal tools, wheels, or large animals to help."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, historians all agree on exactly one cause for why the southern Maya cities were abandoned.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of these is NOT mentioned in the passage as a possible reason for the decline of the southern Maya cities?",
+          "options": [
+            "Severe drought",
+            "Warfare between city-states",
+            "A major earthquake that destroyed the cities",
+            "Overuse of farmland and forests"
+          ],
+          "correct_index": 2
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following statements about Maya descendants and northern cities are TRUE, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "Chichen Itza continued to thrive after the southern cities declined.",
+            "The Maya people completely disappeared after 900 CE.",
+            "Millions of Maya descendants live in Mexico and Central America today.",
+            "Many Maya descendants still speak Mayan languages."
+          ],
+          "correct_indices": [0, 2, 3]
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 3, what does the word \"sophisticated\" most likely mean, based on how it describes the Maya writing system? Explain your reasoning.",
+          "lines": 2,
+          "sample_answer": "Sophisticated likely means complex or advanced \u2014 the passage describes hundreds of glyphs that could represent whole words or sounds, showing it was a highly developed system."
+        },
+        {
+          "type": "single_choice",
+          "question": "What was most likely one effect of the Maya not having large animals or wheeled vehicles to help move heavy materials?",
+          "options": [
+            "Maya cities were built much faster than cities in other ancient civilizations.",
+            "Building projects likely required much more human labor and time to complete.",
+            "The Maya were unable to build any large stone structures at all.",
+            "The Maya stopped building cities and lived only in small villages."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, the Maya ceremonial ball game had no religious meaning and was played purely for entertainment.",
+          "correct": false
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 5, what does the phrase \"mysteriously abandoned\" suggest about how historians understand the decline of the Maya cities? Explain in your own words.",
+          "lines": 2,
+          "sample_answer": "It suggests that historians are not fully sure why the cities were left empty \u2014 there is no single, clear, agreed-upon explanation."
+        },
+        {
+          "type": "write_in",
+          "question": "Which Maya achievement described in the passage do you find most impressive, and why? Use at least one detail from the passage to support your answer.",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer names a specific achievement (astronomy, the concept of zero, writing, or architecture) and explains why it stands out, using a detail from the text."
+        }
+      ]
+    }
+  ]
+}

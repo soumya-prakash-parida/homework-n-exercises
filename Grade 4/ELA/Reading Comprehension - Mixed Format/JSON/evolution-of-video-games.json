@@ -1,0 +1,473 @@
+{
+  "subject": "Topic 4: Evolution of Video Games",
+  "topics": [
+    {
+      "title": "The Arcade Era: Video Games Begin",
+      "passage": [
+        "In the early 1970s, video games moved from research laboratories into public spaces for the first time, appearing in arcades, restaurants, and bars as simple coin-operated machines. One of the earliest hits, a table-tennis-style game with two paddles and a bouncing square, became so popular that some locations reported the machines breaking down from being played nonstop, jammed full of coins.",
+        "These early arcade games used simple black-and-white graphics because the technology of the time could not yet display detailed color images or complex characters. Despite these limits, simple gameplay ideas, like avoiding obstacles or shooting incoming targets, proved incredibly fun and easy for anyone to learn within seconds of walking up to a machine, which helped video games spread quickly to new audiences.",
+        "By the late 1970s and early 1980s, arcade games became far more advanced, introducing colorful characters, simple storylines, and now-iconic games about eating dots in a maze or defending Earth from alien invaders. Arcades became popular gathering spots, especially for teenagers, who competed for high scores displayed on the machine, turning video games into both entertainment and a source of local bragging rights.",
+        "Arcade games worked differently from games today because players paid for each attempt using coins, so games were designed to be challenging enough that most players would eventually lose and need to insert another coin to continue. This design choice shaped how early games were built, often making levels progressively harder rather than offering a long, connected story, since the main goal was to keep players engaged one coin at a time.",
+        "Although home video game consoles eventually took over as the most common way people played games, the arcade era laid the foundation for the entire video game industry. Many gameplay ideas invented during this period, such as scoring systems, levels, and boss characters, are still used in video games made today, decades after the first coin-operated machines appeared in public spaces."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "Video games have always been played only at home.",
+            "The arcade era introduced video games to the public and established gameplay ideas still used in games today.",
+            "Arcade games were always in full color from the very beginning.",
+            "Arcades never became popular gathering spots."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 4, what does the phrase \"coin-operated\" most likely mean, based on how arcade games are described in the passage?",
+          "lines": 2,
+          "sample_answer": "Coin-operated means a machine that requires inserting a coin to work or to keep playing, which is how arcade games charged players."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, early arcade games used detailed, full-color graphics from the very start.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT a reason given in the passage for why arcade games were designed to be challenging?",
+          "options": [
+            "Players paid for each attempt using coins.",
+            "Games were designed to keep players engaged one coin at a time.",
+            "Levels were made progressively harder rather than telling a long story.",
+            "Game designers wanted players to quit as quickly as possible."
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following gameplay ideas does the passage say were invented during the arcade era and are still used today? (Select ALL that apply.)",
+          "options": [
+            "Scoring systems",
+            "Levels",
+            "Boss characters",
+            "Wireless internet connections"
+          ],
+          "correct_indices": [0, 1, 2]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why did high scores matter so much to arcade players?",
+          "options": [
+            "High scores had no meaning to players at the time.",
+            "High scores were displayed on the machine and became a source of bragging rights among players.",
+            "Players received real money for high scores.",
+            "High scores were the only way to insert more coins."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 3?",
+          "options": [
+            "The First Coin-Operated Games",
+            "How Home Consoles Replaced Arcades",
+            "Arcades Become Popular Gathering Spots",
+            "Why Games Are Designed to Be Hard"
+          ],
+          "correct_index": 2
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain why early arcade games were designed to be challenging rather than easy to finish.",
+          "lines": 2,
+          "sample_answer": "Since players paid coin by coin, games were made hard enough that players would lose and need to pay again to keep playing."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, the arcade era laid the foundation for ideas still used in video games today.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as a place early arcade games appeared?",
+          "options": [
+            "Arcades",
+            "Restaurants",
+            "Bars",
+            "Airports"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "What do you think would be different about playing video games today if arcades had never existed? Use an idea from the passage.",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer connects to ideas from the passage, such as scoring systems or levels that came from the arcade era."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about the earliest arcade games, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "They used simple black-and-white graphics.",
+            "They were easy for anyone to learn within seconds.",
+            "They immediately included long, connected storylines.",
+            "They appeared in the early 1970s."
+          ],
+          "correct_indices": [0, 1, 3]
+        }
+      ]
+    },
+    {
+      "title": "Video Games Come Home",
+      "passage": [
+        "In the late 1970s and 1980s, video games began moving out of arcades and into people's living rooms with the rise of home video game consoles, devices that connected to a television and let people play games without leaving the house. This shift meant families no longer needed to visit an arcade or spend coins to keep playing, since games could be purchased once and played as many times as a person wanted.",
+        "Home consoles used cartridges, plastic cases containing the game's code, which players inserted into the console to load a specific game. This system made it easy to switch between different games quickly, though a struggling market in the early 1980s, sometimes called the video game crash, caused several companies to fail after too many low-quality games flooded store shelves and shoppers lost confidence in the industry.",
+        "The video game industry recovered in the mid-1980s, largely thanks to a new console that focused on higher quality games and stricter standards for what companies could release. This console introduced now-famous characters and franchises that remain popular decades later, helping rebuild trust with both stores and players and proving that video games could bounce back from a serious industry downturn.",
+        "Throughout the following decades, home consoles kept improving, adding better graphics, sound, and eventually the ability to save game progress, so players no longer had to complete an entire game in one sitting. Multiplayer gaming also grew, letting friends and family compete or cooperate on the same screen using multiple controllers, turning many living rooms into small competitive arenas.",
+        "Today's consoles connect to the internet, allowing players to compete against people around the world instead of just those in the same room, download new games instantly, and receive updates that add new content long after a game's original release. This connected approach to gaming would have seemed like science fiction to the earliest home console players in the late 1970s."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "Home video game consoles never became popular.",
+            "Home consoles moved gaming into living rooms, survived an industry crash, and evolved into today's connected systems.",
+            "Cartridges are still used in every video game console today.",
+            "Multiplayer gaming was invented before home consoles existed."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 2, what does the phrase \"video game crash\" most likely mean, based on how it is described in the passage?",
+          "lines": 2,
+          "sample_answer": "The video game crash was a period when the industry struggled badly, as too many low-quality games caused companies to fail and shoppers to lose trust."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, home consoles required players to pay coins for every attempt, just like arcade games.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT described in the passage as an improvement made to home consoles over time?",
+          "options": [
+            "Better graphics and sound",
+            "The ability to save game progress",
+            "Multiplayer gaming with multiple controllers",
+            "The complete removal of all televisions from gaming"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about the video game crash, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "It happened in the early 1980s.",
+            "Too many low-quality games flooded store shelves.",
+            "Shoppers lost confidence in the industry.",
+            "It happened after modern internet-connected consoles were released."
+          ],
+          "correct_indices": [0, 1, 2]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, how did the industry recover after the video game crash?",
+          "options": [
+            "A new console focused on higher quality games and stricter standards helped rebuild trust.",
+            "All video game consoles were banned for several years.",
+            "Companies stopped making any new games entirely.",
+            "Arcades completely replaced home consoles again."
+          ],
+          "correct_index": 0
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 5?",
+          "options": [
+            "The Rise of Multiplayer Gaming",
+            "Today's Internet-Connected Consoles",
+            "How Cartridges Worked",
+            "The Industry Recovers in the 1980s"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain how today's internet-connected consoles are different from the earliest home consoles, according to the passage.",
+          "lines": 2,
+          "sample_answer": "Today's consoles let players compete with people worldwide, download games instantly, and receive updates, none of which the earliest consoles could do."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, home consoles used cartridges to load specific games.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as a feature of modern gaming consoles?",
+          "options": [
+            "Internet connectivity",
+            "Downloadable games",
+            "Ongoing game updates",
+            "Built-in coin slots for payment"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "What is one change in home gaming described in the passage that you think made the biggest difference for players? Explain why.",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer names a specific change, like saving progress or online play, and explains its impact using the passage."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following changed as home consoles evolved, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "Graphics quality",
+            "The ability to save progress",
+            "Multiplayer options",
+            "The size of the sun"
+          ],
+          "correct_indices": [0, 1, 2]
+        }
+      ]
+    },
+    {
+      "title": "Entering the Third Dimension",
+      "passage": [
+        "During the 1990s, video games underwent one of their biggest transformations yet, moving from flat, two-dimensional graphics to fully three-dimensional worlds that players could explore from multiple angles. Earlier games showed characters moving left and right or up and down on a flat plane, but 3D games allowed characters to walk around objects, look up and down, and explore spaces that felt far more realistic than anything possible before.",
+        "This shift required major advances in computer processing power, since rendering three-dimensional graphics in real time demanded far more calculations than simple 2D images. Console makers competed fiercely to release more powerful hardware capable of handling these complex graphics, leading to rapid improvements roughly every few years as new console generations were released to the public.",
+        "Alongside better graphics, this era introduced new genres and gameplay styles that took full advantage of 3D space, including games where players explored large open worlds at their own pace instead of following a fixed path. Storytelling in games also became more advanced, with longer, more complex plots, voice-acted characters, and cutscenes, short movie-like segments that helped tell a game's story between sections of gameplay.",
+        "The move to 3D also changed how game developers worked, since building a three-dimensional world required much larger teams of artists, programmers, and designers than earlier, simpler games had needed. Game development budgets grew significantly during this time, and the video game industry began to resemble the movie industry in terms of the size and cost of major projects.",
+        "By the early 2000s, 3D graphics had become the standard expectation for most major games, and the improvements have continued ever since, with each new generation of consoles pushing visuals closer to photorealistic detail. This era's advances set the stage for the massive, immersive game worlds that many players enjoy exploring today."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "Video games never changed after the arcade era.",
+            "The shift to 3D graphics in the 1990s transformed gameplay, storytelling, and how games were developed.",
+            "3D graphics made video games simpler to create than before.",
+            "Two-dimensional games are still the industry standard today."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 3, what does the word \"cutscenes\" most likely mean, based on how it is described in the passage?",
+          "lines": 2,
+          "sample_answer": "Cutscenes are short, movie-like segments in a video game used to help tell the story between sections of actual gameplay."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, 3D graphics required less computer processing power than 2D graphics.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT described in the passage as something the shift to 3D introduced?",
+          "options": [
+            "Large open worlds players could explore at their own pace",
+            "Voice-acted characters",
+            "More complex storytelling with cutscenes",
+            "The complete end of all two-dimensional games"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following changed as games moved to 3D, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "Graphics became more realistic and complex.",
+            "Development teams and budgets grew larger.",
+            "Storytelling became more advanced.",
+            "Games stopped being sold in stores entirely."
+          ],
+          "correct_indices": [0, 1, 2]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why did video game development teams grow larger during the shift to 3D?",
+          "options": [
+            "Building a three-dimensional world required more artists, programmers, and designers than simpler games.",
+            "Companies wanted to hire more people for no particular reason.",
+            "3D games required fewer people to make than 2D games.",
+            "Development teams actually became smaller during this era."
+          ],
+          "correct_index": 0
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 2?",
+          "options": [
+            "New Genres in 3D Gaming",
+            "The Push for More Powerful Hardware",
+            "How Game Budgets Changed",
+            "Voice Acting and Cutscenes"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain how the video game industry began to resemble the movie industry during this era.",
+          "lines": 2,
+          "sample_answer": "Games began requiring large teams and big budgets similar to movies, as 3D worlds and complex storytelling made development more like film production."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, by the early 2000s, 3D graphics had become the standard expectation for most major games.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as a reason 3D games felt more realistic?",
+          "options": [
+            "Players could walk around objects.",
+            "Players could look up and down in the game world.",
+            "Games could be explored from multiple angles.",
+            "Games were played only using paper instructions."
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "What do you think was the most important change described in this passage \u2014 better graphics, new gameplay styles, or improved storytelling? Explain your choice.",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer names one change from the passage and explains why it mattered most, using a specific detail."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about console makers during this era, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "They competed to release more powerful hardware.",
+            "New console generations were released roughly every few years.",
+            "They stopped making new consoles entirely.",
+            "They worked to handle increasingly complex graphics."
+          ],
+          "correct_indices": [0, 1, 3]
+        }
+      ]
+    },
+    {
+      "title": "Gaming Goes Mobile and Global",
+      "passage": [
+        "In the 2010s, the rise of smartphones brought video games to an entirely new audience, letting people play games on devices they already carried everywhere in their pockets. Mobile games were often simpler and quicker to play than console games, designed for short sessions during a commute or a break, rather than requiring hours of uninterrupted time in front of a television.",
+        "Because smartphone app stores made it easy for almost anyone to publish a game, mobile gaming opened the door to small, independent developers who could not afford to make expensive console games. Some of these simple, low-cost mobile games became massive worldwide hits, reaching hundreds of millions of players and proving that a game did not need advanced 3D graphics to become extremely popular.",
+        "At the same time, online gaming grew rapidly as internet connections became faster and more reliable, allowing players to compete against or team up with people anywhere in the world in real time. Games designed specifically for large numbers of players competing at once became especially popular, turning video games into a genuinely global, shared activity rather than something played alone or with people in the same room.",
+        "This growth in online, competitive gaming helped give rise to esports, organized video game competitions where skilled players compete for prize money in front of live audiences, both in person and through online video streams. Some esports tournaments now fill entire stadiums and attract millions of online viewers, treating top players similarly to professional athletes in traditional sports.",
+        "Today, video games exist across an enormous range of devices, from smartphones to powerful consoles and computers, and are played by people of nearly every age around the world. Looking ahead, developers continue exploring new technology, such as virtual reality headsets that place players directly inside a game's world, suggesting that video games will keep evolving in ways that are difficult to fully predict."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "Mobile and online gaming expanded video games to new audiences and gave rise to global competitive esports.",
+            "Video games became less popular after smartphones were invented.",
+            "Only expensive console games have ever been successful.",
+            "Esports involve no real competition or skill."
+          ],
+          "correct_index": 0
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 4, what does the word \"esports\" most likely mean, based on how it is described in the passage?",
+          "lines": 2,
+          "sample_answer": "Esports are organized video game competitions where skilled players compete for prize money in front of live or online audiences."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, mobile games always require advanced 3D graphics to become popular.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT a reason given in the passage for why mobile gaming grew so quickly?",
+          "options": [
+            "App stores made it easy for almost anyone to publish a game.",
+            "Mobile games were often quick and simple to play.",
+            "Smartphones were devices people already carried everywhere.",
+            "Mobile games required expensive specialized hardware to play."
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about esports, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "Skilled players compete for prize money.",
+            "Some tournaments fill entire stadiums.",
+            "They attract millions of online viewers.",
+            "They only exist in a single country."
+          ],
+          "correct_indices": [0, 1, 2]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why did small, independent developers benefit from the rise of mobile gaming?",
+          "options": [
+            "App stores made it easy for them to publish games without needing large budgets.",
+            "Mobile games were banned from all app stores.",
+            "Independent developers were not allowed to make mobile games.",
+            "Mobile gaming eliminated the need for any developers at all."
+          ],
+          "correct_index": 0
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 3?",
+          "options": [
+            "The Rise of Independent Developers",
+            "Online Gaming Connects Players Worldwide",
+            "How Esports Tournaments Work",
+            "Virtual Reality and the Future of Gaming"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain how faster internet connections changed the way people play video games, according to the passage.",
+          "lines": 2,
+          "sample_answer": "Faster internet let players compete or team up with people anywhere in the world in real time, making gaming a shared, global activity."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, developers are exploring virtual reality technology as part of gaming's future.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as a device people use to play video games today?",
+          "options": [
+            "Smartphones",
+            "Consoles",
+            "Computers",
+            "Landline telephones"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "What do you think video games might look like in the future, based on the trends described in the passage?",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer connects to a trend mentioned in the passage, such as virtual reality, and describes a reasonable prediction."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following does the passage describe as ways video games have expanded to new audiences or formats? (Select ALL that apply.)",
+          "options": [
+            "Mobile gaming on smartphones",
+            "Online multiplayer gaming",
+            "Esports competitions",
+            "A complete return to arcade-only gaming"
+          ],
+          "correct_indices": [0, 1, 2]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "subject": "Topic 5: Astronomy and Astronomical Events",
+  "topics": [
+    {
+      "title": "Our Solar System's Family of Planets",
+      "passage": [
+        "Our solar system consists of the sun and everything that orbits around it, including eight planets, dozens of moons, and countless smaller objects like asteroids and comets. The sun sits at the center, containing more than ninety-nine percent of all the mass in the entire solar system, with its powerful gravity holding every planet in a steady orbit around it.",
+        "The four planets closest to the sun, Mercury, Venus, Earth, and Mars, are called terrestrial planets because they have solid, rocky surfaces similar in some ways to Earth's own ground. These planets are relatively small and dense compared to the planets farther out, and all four have gone through dramatic geological changes over billions of years, including volcanic activity and, in Earth's case, the movement of tectonic plates.",
+        "Beyond Mars lies a very different group of planets. Jupiter, Saturn, Uranus, and Neptune are called gas giants because they are made mostly of gas and lack a solid surface a person could stand on. Jupiter, the largest planet in the solar system, is so massive that more than one thousand Earths could fit inside it, while Saturn is famous for its spectacular rings made of countless chunks of ice and rock.",
+        "Between the rocky inner planets and the gas giants lies the asteroid belt, a region containing millions of rocky objects ranging in size from tiny pebbles to objects hundreds of miles wide. Scientists believe these asteroids are leftover material from the early formation of the solar system, material that never came together to form a full planet, giving researchers valuable clues about conditions billions of years ago.",
+        "Beyond Neptune lies an even more distant region called the Kuiper Belt, home to icy objects including the dwarf planet Pluto. Studying the solar system's most distant regions helps scientists understand how planets, moons, and smaller objects formed billions of years ago, and ongoing missions continue to send back new data that occasionally challenges what scientists thought they already knew."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "The solar system contains only the sun and Earth.",
+            "The solar system contains a diverse family of rocky and gas planets, along with asteroids and distant icy objects, all orbiting the sun.",
+            "All planets in the solar system have solid, rocky surfaces.",
+            "Jupiter is the smallest planet in the solar system."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 2, what does the word \"terrestrial\" most likely mean, based on how it describes Mercury, Venus, Earth, and Mars?",
+          "lines": 2,
+          "sample_answer": "Terrestrial likely means having a solid, rocky surface similar to Earth's ground, as opposed to being made mostly of gas."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, Jupiter, Saturn, Uranus, and Neptune have solid surfaces a person could stand on.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT described in the passage as part of the solar system?",
+          "options": [
+            "Eight planets",
+            "Dozens of moons",
+            "Asteroids and comets",
+            "A second sun orbiting the first"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are classified as gas giants in the passage? (Select ALL that apply.)",
+          "options": [
+            "Jupiter",
+            "Saturn",
+            "Mars",
+            "Neptune"
+          ],
+          "correct_indices": [0, 1, 3]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why do scientists study the asteroid belt?",
+          "options": [
+            "Asteroids provide clues about conditions during the early formation of the solar system.",
+            "Asteroids are actually small, undiscovered planets.",
+            "The asteroid belt has nothing to do with the solar system's history.",
+            "Asteroids are the largest objects in the entire solar system."
+          ],
+          "correct_index": 0
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 5?",
+          "options": [
+            "The Rocky Inner Planets",
+            "Saturn's Famous Rings",
+            "The Kuiper Belt and Distant Objects",
+            "How the Sun Formed"
+          ],
+          "correct_index": 2
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain the main difference between terrestrial planets and gas giants, based on the passage.",
+          "lines": 2,
+          "sample_answer": "Terrestrial planets have solid, rocky surfaces, while gas giants are made mostly of gas and have no solid surface to stand on."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, Pluto is located in the Kuiper Belt.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as a terrestrial planet?",
+          "options": [
+            "Mercury",
+            "Venus",
+            "Earth",
+            "Saturn"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "Which planet or object described in the passage would you most like to learn more about, and why?",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer names a planet or object and gives a reason connected to a detail from the passage."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about the sun, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "It sits at the center of the solar system.",
+            "It contains more than ninety-nine percent of the solar system's mass.",
+            "Its gravity holds the planets in orbit.",
+            "It orbits around Earth."
+          ],
+          "correct_indices": [0, 1, 2]
+        }
+      ]
+    },
+    {
+      "title": "When Day Turns to Night: Solar and Lunar Eclipses",
+      "passage": [
+        "An eclipse happens when one space object passes into the shadow of another, temporarily blocking light in a dramatic way visible from Earth. The two main types, solar eclipses and lunar eclipses, involve the same three objects, the sun, Earth, and the moon, but occur in different arrangements and produce very different sights in the sky.",
+        "A solar eclipse happens when the moon passes directly between the sun and Earth, blocking some or all of the sun's light from reaching a specific area on Earth's surface. During a total solar eclipse, the sky can darken dramatically in the middle of the day, and the sun's outer atmosphere, called the corona, becomes visible as a glowing ring around the darkened sun, a sight many describe as awe-inspiring.",
+        "A lunar eclipse happens the opposite way, when Earth passes directly between the sun and the moon, causing Earth's shadow to fall across the moon's surface. During a total lunar eclipse, the moon often takes on a reddish color rather than disappearing completely, because sunlight bending through Earth's atmosphere scatters most colors but lets red light pass through and reach the moon, an effect that has earned the nickname \"blood moon.\"",
+        "Eclipses do not happen every month, even though the moon orbits Earth roughly every twenty-nine days, because the moon's orbit is slightly tilted compared to Earth's orbit around the sun. This means the sun, Earth, and moon only line up precisely enough for an eclipse a few times each year, making eclipses special events rather than a monthly occurrence.",
+        "Because a total solar eclipse is only visible from a narrow path on Earth's surface, while a lunar eclipse can be seen by anyone on the nighttime side of Earth at the same time, lunar eclipses are actually visible to far more people than solar eclipses. Scientists and eclipse enthusiasts often travel great distances to stand within the narrow path needed to witness a total solar eclipse in person."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "Solar and lunar eclipses happen every single day.",
+            "Solar and lunar eclipses occur when the sun, Earth, and moon line up in specific ways, each producing distinct effects visible from Earth.",
+            "Eclipses have nothing to do with the positions of the sun, Earth, and moon.",
+            "Lunar eclipses are visible from fewer places than solar eclipses."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 2, what does the word \"corona\" most likely mean, based on how it is described in the passage?",
+          "lines": 2,
+          "sample_answer": "The corona is the sun's outer atmosphere, which becomes visible as a glowing ring around the sun during a total solar eclipse."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, a solar eclipse happens when Earth passes between the sun and the moon.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT explained in the passage as a reason a lunar eclipse turns the moon reddish?",
+          "options": [
+            "Sunlight bends through Earth's atmosphere.",
+            "Most colors of light are scattered away.",
+            "Red light passes through and reaches the moon.",
+            "The moon's own surface naturally glows red."
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about solar eclipses, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "The moon passes between the sun and Earth.",
+            "The sky can darken dramatically during a total solar eclipse.",
+            "The sun's corona can become visible.",
+            "They are visible to everyone on Earth at the same time."
+          ],
+          "correct_indices": [0, 1, 2]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why don't eclipses happen every single month?",
+          "options": [
+            "The moon only orbits Earth a few times each year.",
+            "The moon's orbit is slightly tilted, so the sun, Earth, and moon only line up precisely a few times a year.",
+            "Eclipses are banned by astronomers most months.",
+            "The sun moves too quickly for an eclipse to occur regularly."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 5?",
+          "options": [
+            "How Often Eclipses Occur",
+            "Why the Moon Turns Red",
+            "Comparing Who Can See Each Type of Eclipse",
+            "The Sun's Glowing Corona"
+          ],
+          "correct_index": 2
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain why a total solar eclipse is only visible from a narrow path on Earth, while a lunar eclipse can be seen more widely.",
+          "lines": 2,
+          "sample_answer": "The moon's shadow during a solar eclipse only covers a narrow area on Earth, but Earth's shadow during a lunar eclipse covers the whole nighttime side."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, a total lunar eclipse can give the moon a reddish color, sometimes called a \"blood moon.\"",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT one of the three main objects involved in eclipses, according to the passage?",
+          "options": [
+            "The sun",
+            "Earth",
+            "The moon",
+            "Mars"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "Would you rather witness a total solar eclipse or a total lunar eclipse in person? Explain your choice using a detail from the passage.",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer references a specific detail, such as the corona during a solar eclipse or the reddish moon during a lunar eclipse."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following does the passage say people do to witness a total solar eclipse? (Select ALL that apply.)",
+          "options": [
+            "Travel great distances to reach the narrow visible path",
+            "Wait for the moon to darken completely and disappear",
+            "Position themselves within the path of the eclipse",
+            "Rely on scientists and eclipse enthusiasts making the trip"
+          ],
+          "correct_indices": [0, 2, 3]
+        }
+      ]
+    },
+    {
+      "title": "Stars and the Patterns We See",
+      "passage": [
+        "On a clear night far from city lights, the sky can reveal thousands of stars, each one an enormous ball of burning gas producing its own light and heat, much like our sun. Stars appear as tiny points of light because they are almost unimaginably far away, with even the closest star beyond our sun located trillions of miles from Earth, a distance so large that scientists measure it using light-years instead of miles.",
+        "For thousands of years, people around the world have looked up at the night sky and noticed patterns formed by groups of stars, connecting them in their imaginations into shapes called constellations. Different cultures often saw different pictures in the same stars, creating their own stories and names, though today astronomers use an official, agreed-upon set of eighty-eight constellations to help organize and describe the sky.",
+        "Constellations served practical purposes long before modern navigation tools existed. Sailors used recognizable star patterns to figure out direction while at sea, and farmers used the appearance or disappearance of certain constellations throughout the year to know when to plant or harvest crops, since the visible stars change gradually as Earth orbits the sun.",
+        "Not all stars in the night sky are the same age, size, or color. Some stars burn hot and blue, living relatively short but intense lives, while others glow a cooler red and can burn steadily for tens of billions of years. Stars are born inside massive clouds of gas and dust called nebulae, and depending on their size, they eventually die in very different ways, sometimes shrinking quietly and sometimes exploding in a dramatic burst called a supernova.",
+        "Today, scientists use powerful telescopes, some located on Earth and others orbiting in space, to study stars in far more detail than the naked eye ever could. Studying starlight helps scientists learn a star's temperature, composition, and distance from Earth, contributing to a broader understanding of how stars, and eventually entire galaxies, form and change over time."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "Stars are all identical in size, color, and age.",
+            "Stars are distant, varied objects that humans have long organized into constellations and continue to study using modern telescopes.",
+            "Constellations were invented only within the last fifty years.",
+            "Sailors and farmers never used the stars for any practical purpose."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 4, what does the word \"nebulae\" most likely mean, based on how it is described in the passage?",
+          "lines": 2,
+          "sample_answer": "Nebulae are massive clouds of gas and dust in space where stars are born."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, every culture throughout history saw the exact same pictures in the same groups of stars.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT described in the passage as a practical use of constellations?",
+          "options": [
+            "Helping sailors figure out direction at sea",
+            "Helping farmers know when to plant or harvest crops",
+            "Predicting the weather several months in advance",
+            "Organizing the night sky into recognizable patterns"
+          ],
+          "correct_index": 2
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about stars, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "Some stars burn hot and blue with shorter, intense lives.",
+            "Some stars glow cooler red and can last tens of billions of years.",
+            "All stars are exactly the same distance from Earth.",
+            "Stars are born inside clouds of gas and dust."
+          ],
+          "correct_indices": [0, 1, 3]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why do scientists measure star distances in light-years instead of miles?",
+          "options": [
+            "Light-years are easier to calculate than miles for short distances.",
+            "The distances involved are so enormous that light-years provide a more practical unit of measurement.",
+            "Stars do not have any measurable distance from Earth.",
+            "Miles cannot be used to measure any distance in space."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 5?",
+          "options": [
+            "How Stars Are Born and Die",
+            "Studying Stars With Modern Telescopes",
+            "Why Sailors Used the Stars",
+            "The Eighty-Eight Official Constellations"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain why different cultures created different constellations from the same groups of stars.",
+          "lines": 2,
+          "sample_answer": "Different cultures imagined different shapes and stories in the same star patterns, creating their own names and meanings for the constellations."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, some stars die in a dramatic explosion called a supernova.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as something studying starlight helps scientists learn?",
+          "options": [
+            "A star's temperature",
+            "A star's composition",
+            "A star's distance from Earth",
+            "A star's exact birthday on the calendar"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "If you could look through a powerful telescope tonight, what would you most want to learn about the stars, based on the passage?",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer connects to an idea from the passage, such as how stars form, their colors, or their distances."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following does the passage mention as tools scientists use to study stars? (Select ALL that apply.)",
+          "options": [
+            "Telescopes on Earth",
+            "Telescopes orbiting in space",
+            "Ancient sailing maps",
+            "Studying starlight"
+          ],
+          "correct_indices": [0, 1, 3]
+        }
+      ]
+    },
+    {
+      "title": "Comets and Meteor Showers",
+      "passage": [
+        "Comets are chunks of ice, dust, and rock that travel through the solar system on long, looping orbits around the sun, often taking many years or even centuries to complete a single trip. As a comet gets closer to the sun, heat causes some of its icy surface to turn directly into gas, releasing dust and gas that form a glowing cloud around the comet's core and often a long, bright tail that can stretch for millions of miles.",
+        "A comet's tail always points away from the sun, no matter which direction the comet is traveling, because it is pushed by solar wind and light pressure from the sun rather than trailing behind the comet like smoke behind a car. This means that when a comet is moving away from the sun, its tail actually leads in front of it rather than following behind, which often surprises people learning about comets for the first time.",
+        "Meteor showers are closely connected to comets, since they often happen when Earth passes through a trail of dust and debris left behind by a comet's previous visits to the inner solar system. When these tiny particles, most no larger than a grain of sand, enter Earth's atmosphere at high speed, friction causes them to burn up, creating the streaks of light commonly called shooting stars.",
+        "Because Earth passes through the same debris trails at roughly the same time every year, meteor showers are predictable annual events that skywatchers can plan for in advance. During a strong meteor shower, observers in a dark location with a clear sky might see dozens of meteors per hour, though light pollution from cities can make even a strong shower difficult to see clearly.",
+        "Occasionally, a piece of debris large enough to survive the trip through Earth's atmosphere reaches the ground, and scientists call the remaining object a meteorite. Studying meteorites gives scientists valuable information about the materials that existed when the solar system first formed billions of years ago, since some meteorites are older than any rock found naturally on Earth's surface."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "Comets and meteor showers are unrelated phenomena with no connection to each other.",
+            "Comets leave behind debris trails that create predictable meteor showers, and studying related meteorites reveals clues about the early solar system.",
+            "Meteor showers happen randomly with no yearly pattern at all.",
+            "Comets only appear once and are never seen again."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 5, what does the word \"meteorite\" most likely mean, based on how it is described in the passage?",
+          "lines": 2,
+          "sample_answer": "A meteorite is a piece of debris from space that survives the trip through Earth's atmosphere and lands on the ground."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, a comet's tail always trails behind it in the direction it came from, like smoke behind a car.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT explained in the passage as a reason meteor showers are predictable?",
+          "options": [
+            "Earth passes through the same debris trails at roughly the same time each year.",
+            "The debris trails are left behind by comets' previous visits.",
+            "Skywatchers can plan for meteor showers in advance.",
+            "Meteor showers are controlled by scientists on a fixed schedule."
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about meteor showers, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "They often happen when Earth passes through comet debris trails.",
+            "The particles involved are usually no larger than a grain of sand.",
+            "They create streaks of light called shooting stars.",
+            "They can only ever be seen from one single country on Earth."
+          ],
+          "correct_indices": [0, 1, 2]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why does a comet's tail form as it gets closer to the sun?",
+          "options": [
+            "Heat causes some of the comet's icy surface to turn into gas, releasing dust and gas that form the tail.",
+            "The comet's tail is present at all times regardless of distance from the sun.",
+            "The sun pulls ice directly off the comet's surface using gravity alone.",
+            "Comets do not actually have any icy material in them."
+          ],
+          "correct_index": 0
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 5?",
+          "options": [
+            "How Comet Tails Form",
+            "What Meteorites Reveal About the Solar System",
+            "Why Meteor Showers Happen Every Year",
+            "The Difference Between Comets and Asteroids"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain why some meteorites are valuable to scientists studying the early solar system.",
+          "lines": 2,
+          "sample_answer": "Some meteorites are older than any rock on Earth's surface, giving scientists clues about the materials present when the solar system first formed."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, light pollution from cities can make it harder to see even a strong meteor shower.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as something a comet is made of?",
+          "options": [
+            "Ice",
+            "Dust",
+            "Rock",
+            "Metal alloys created artificially"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "Would you like to watch a meteor shower in person? Explain your answer using a detail from the passage.",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer references a detail from the passage, such as seeing dozens of meteors per hour in a dark location."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following does the passage say pushes a comet's tail away from the sun? (Select ALL that apply.)",
+          "options": [
+            "Solar wind",
+            "Light pressure from the sun",
+            "Earth's gravity",
+            "The comet's own engine"
+          ],
+          "correct_indices": [0, 1]
+        }
+      ]
+    }
+  ]
+}

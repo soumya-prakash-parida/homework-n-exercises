@@ -1,0 +1,473 @@
+{
+  "subject": "Topic 9: Major Scientific Discoveries",
+  "topics": [
+    {
+      "title": "Newton and the Force of Gravity",
+      "passage": [
+        "In the late 1600s, an English scientist named Isaac Newton developed groundbreaking ideas about a force that pulls objects toward one another, a force he called gravity. According to a famous story, Newton began thinking seriously about gravity after watching an apple fall from a tree, wondering why the apple always fell straight down instead of sideways or upward.",
+        "Newton's key insight was that the same force pulling the apple toward the ground also pulls the Moon toward Earth, keeping it in orbit instead of flying off into space. Before Newton, many people assumed that objects in the sky, like the Moon and planets, followed completely different rules than objects on Earth, so connecting these two ideas into one universal force was a major shift in scientific thinking.",
+        "Newton described gravity mathematically, showing that the strength of the gravitational pull between two objects depends on both their mass, or the amount of matter they contain, and the distance between them. Heavier objects pull more strongly, and objects that are closer together pull more strongly than objects farther apart, a relationship that let scientists calculate the motion of planets and moons with remarkable accuracy.",
+        "Newton's law of gravity remained the best explanation scientists had for over two hundred years, successfully predicting the motion of planets, comets, and even the existence of a previously undiscovered planet based purely on unexplained wobbles in another planet's orbit. Engineers still use Newton's equations today for many everyday purposes, such as calculating the paths of rockets and satellites, even though scientists later refined the theory further.",
+        "In the early 20th century, Albert Einstein introduced an even more advanced theory that explained gravity in new ways, particularly for extreme situations like objects moving at very high speeds or existing near extremely massive objects. However, for most ordinary situations here on Earth and even most spaceflight calculations, Newton's original description of gravity remains accurate enough to use, showing how enduring his discovery truly was."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "Isaac Newton discovered gravity had no effect on objects at all.",
+            "Isaac Newton developed a mathematical understanding of gravity that connected the motion of objects on Earth and in space, and remains useful today.",
+            "Gravity was completely unknown until Albert Einstein discovered it.",
+            "Newton's ideas about gravity were proven completely wrong."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 3, what does the word \"mass\" most likely mean, based on how it is described in the passage?",
+          "lines": 2,
+          "sample_answer": "Mass means the amount of matter an object contains, which affects how strongly gravity pulls on it."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, before Newton, people believed objects in the sky followed the exact same rules as objects on Earth.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT described in the passage as a factor affecting gravitational pull?",
+          "options": [
+            "The mass of the objects involved",
+            "The distance between the objects",
+            "The color of the objects",
+            "Whether the objects are closer together or farther apart"
+          ],
+          "correct_index": 2
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about Newton's law of gravity, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "It successfully predicted the motion of planets and comets.",
+            "It helped predict the existence of an undiscovered planet.",
+            "It remains useful for many everyday calculations today.",
+            "It was proven completely useless after Einstein's work."
+          ],
+          "correct_indices": [0, 1, 2]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why was Newton's connection between the apple and the Moon considered a major shift in thinking?",
+          "options": [
+            "It showed that the same force applies to objects on Earth and objects in space, which people had not previously connected.",
+            "It proved that apples and the Moon are made of the exact same material.",
+            "It showed that gravity does not actually exist.",
+            "It had nothing to do with how objects move."
+          ],
+          "correct_index": 0
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 5?",
+          "options": [
+            "Newton's Mathematical Description of Gravity",
+            "Einstein's Advanced Theory of Gravity",
+            "The Story of the Falling Apple",
+            "Predicting the Existence of New Planets"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain why Newton's equations are still used today even though Einstein developed a more advanced theory.",
+          "lines": 2,
+          "sample_answer": "Newton's equations remain accurate enough for most ordinary situations and even most spaceflight calculations, even though Einstein's theory explains extreme cases better."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, Albert Einstein introduced an advanced theory of gravity in the early 20th century.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as something engineers use Newton's equations for today?",
+          "options": [
+            "Calculating the paths of rockets",
+            "Calculating the paths of satellites",
+            "Designing everyday household furniture",
+            "Both rockets and satellites are mentioned"
+          ],
+          "correct_index": 2
+        },
+        {
+          "type": "write_in",
+          "question": "What is one thing you find interesting about how Newton developed his ideas about gravity, based on the passage?",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer references a detail from the passage, such as the apple story or the mathematical relationship."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following does the passage describe as things Newton's gravity theory helped explain? (Select ALL that apply.)",
+          "options": [
+            "The motion of the Moon around Earth",
+            "The motion of planets",
+            "The existence of an undiscovered planet",
+            "The colors visible in a rainbow"
+          ],
+          "correct_indices": [0, 1, 2]
+        }
+      ]
+    },
+    {
+      "title": "Pasteur and the Discovery of Germs",
+      "passage": [
+        "In the mid-1800s, a French scientist named Louis Pasteur made a discovery that would transform medicine and public health forever: many diseases are caused by tiny living organisms called germs, too small to see without a microscope. Before this discovery, many people believed diseases were caused by bad air, magic, or an imbalance within the body, ideas that had persisted for centuries without solid scientific evidence.",
+        "Pasteur conducted careful experiments showing that microorganisms did not simply appear out of nowhere in decaying material, as many scientists at the time believed, but instead came from other microorganisms already present in the environment. This idea, sometimes called germ theory, provided a scientific explanation for how diseases could spread from person to person or through contaminated food and water.",
+        "One of Pasteur's most famous practical applications of his research was a heating process, now called pasteurization, that kills harmful bacteria in liquids like milk and juice without significantly changing their taste. This process, still used today in food and beverage production around the world, dramatically reduced the spread of certain foodborne illnesses that had previously sickened or killed many people.",
+        "Pasteur's germ theory also had a massive impact on medical practices, particularly regarding cleanliness during surgery and childbirth. Once doctors understood that invisible germs could cause infections, many hospitals began requiring doctors to wash their hands and sterilize medical instruments between patients, practices that seem obvious today but were not widely followed before this scientific understanding became accepted.",
+        "Pasteur's work also led directly to the development of vaccines, treatments that help the body build protection against specific diseases before a person becomes seriously ill. His research laid the foundation for modern microbiology, the scientific study of microorganisms, and his discoveries are still credited with saving countless lives by transforming how doctors understand, prevent, and treat infectious disease."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "Louis Pasteur proved that diseases are caused by bad air.",
+            "Louis Pasteur discovered that germs cause disease, a finding that transformed medicine, food safety, and hospital practices.",
+            "Pasteurization has nothing to do with killing harmful bacteria.",
+            "Doctors have always washed their hands between patients throughout history."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 2, what does the phrase \"germ theory\" most likely mean, based on how it is described in the passage?",
+          "lines": 2,
+          "sample_answer": "Germ theory is the scientific idea that diseases are caused by microorganisms that spread from other microorganisms, rather than appearing from nowhere."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, before Pasteur's discovery, many people believed diseases were caused by bad air or an imbalance within the body.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT described in the passage as a result of Pasteur's germ theory?",
+          "options": [
+            "Increased hand washing and sterilization in hospitals",
+            "The development of vaccines",
+            "The invention of pasteurization",
+            "The complete elimination of all human illness"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about pasteurization, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "It is a heating process that kills harmful bacteria.",
+            "It is used in liquids like milk and juice.",
+            "It significantly changes the taste of food.",
+            "It is still used in food and beverage production today."
+          ],
+          "correct_indices": [0, 1, 3]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why did Pasteur's discovery change hospital practices around cleanliness?",
+          "options": [
+            "Doctors realized invisible germs could cause infections, so they began washing hands and sterilizing instruments.",
+            "Pasteur's discovery had nothing to do with hospitals or medicine.",
+            "Hospitals had always required strict cleanliness before Pasteur's work.",
+            "Pasteur proved that cleanliness had no effect on infections."
+          ],
+          "correct_index": 0
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 5?",
+          "options": [
+            "The Invention of Pasteurization",
+            "Pasteur's Legacy in Vaccines and Microbiology",
+            "How Germs Spread Through Food",
+            "Cleanliness in Hospitals Before Pasteur"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain how Pasteur's experiments challenged the beliefs scientists held before his discovery.",
+          "lines": 2,
+          "sample_answer": "Pasteur showed that microorganisms came from other microorganisms already present, rather than appearing out of nowhere in decaying material, as many scientists previously believed."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, Pasteur's work led directly to the development of vaccines.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as an idea people held about disease before Pasteur's discovery?",
+          "options": [
+            "Bad air caused disease",
+            "Magic caused disease",
+            "An imbalance within the body caused disease",
+            "Tiny microorganisms called germs caused disease"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "Why do you think Pasteur's discovery of germs is considered one of the most important scientific discoveries in history?",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer connects to the passage's point about saving lives through improved hygiene, food safety, and vaccines."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following fields does the passage say were transformed by Pasteur's work? (Select ALL that apply.)",
+          "options": [
+            "Food safety",
+            "Hospital cleanliness practices",
+            "Vaccine development",
+            "Space exploration"
+          ],
+          "correct_indices": [0, 1, 2]
+        }
+      ]
+    },
+    {
+      "title": "Darwin and the Theory of Evolution",
+      "passage": [
+        "In 1859, a British naturalist named Charles Darwin published a book that introduced one of the most influential scientific ideas in history: the theory of evolution by natural selection. This theory proposed that species of living things gradually change over long periods of time, with new species developing from earlier ones through a slow, ongoing process shaped by their environment.",
+        "Darwin developed his ideas partly through years of careful observation during a long sea voyage, where he studied plants and animals on remote islands, noticing that similar species on different islands had developed slightly different features suited to their specific local environment. These observations led him to wonder how and why such differences might have developed over time.",
+        "The core of Darwin's theory is natural selection, the idea that individuals within a species naturally vary slightly from one another, and that some of these small differences make certain individuals more likely to survive and reproduce in their particular environment. Over many generations, helpful traits become more common within a population, while less helpful traits gradually become rarer, slowly changing the species over long stretches of time.",
+        "Darwin's theory was controversial when it was first published, since it challenged widely held religious and scientific beliefs about how living things came to exist in their present forms. Despite significant early resistance and debate, extensive evidence gathered over the following decades, including fossils, genetics, and direct observations of evolution occurring in fast-reproducing organisms, has strongly supported Darwin's core ideas.",
+        "Today, the theory of evolution serves as a foundational concept across nearly all fields of biology, helping scientists understand everything from how antibiotic-resistant bacteria develop to how different species are related to one another through shared ancestry. Darwin's work fundamentally changed how scientists understand the history and diversity of life on Earth."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "Charles Darwin proved that species never change over time.",
+            "Charles Darwin introduced the theory of evolution by natural selection, a foundational and well-supported idea in modern biology.",
+            "Darwin's theory has been completely disproven by modern science.",
+            "Darwin's ideas were immediately and universally accepted with no controversy."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 3, what does the phrase \"natural selection\" most likely mean, based on how it is described in the passage?",
+          "lines": 2,
+          "sample_answer": "Natural selection is the process by which traits that help individuals survive and reproduce become more common in a population over time."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, Darwin's theory was immediately and universally accepted with no controversy.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT described in the passage as evidence supporting Darwin's theory over time?",
+          "options": [
+            "Fossils",
+            "Genetics",
+            "Direct observations of evolution in fast-reproducing organisms",
+            "A single unanimous vote by all world governments"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about Darwin's observations during his sea voyage, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "He studied plants and animals on remote islands.",
+            "He noticed similar species had different features on different islands.",
+            "His observations led him to wonder how such differences developed.",
+            "He conducted all his research in a laboratory, never traveling anywhere."
+          ],
+          "correct_indices": [0, 1, 2]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why was Darwin's theory considered controversial when first published?",
+          "options": [
+            "It challenged widely held religious and scientific beliefs about how living things came to exist.",
+            "It had no connection to any existing beliefs at the time.",
+            "Everyone agreed with it immediately without any debate.",
+            "It was based entirely on guesses with no observations at all."
+          ],
+          "correct_index": 0
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 5?",
+          "options": [
+            "Darwin's Sea Voyage Observations",
+            "Evolution as a Foundation of Modern Biology",
+            "The Controversy Surrounding Darwin's Theory",
+            "How Natural Selection Works"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain how natural selection causes a species to change over many generations.",
+          "lines": 2,
+          "sample_answer": "Individuals with traits that help them survive and reproduce pass those traits on more often, so helpful traits become more common over many generations."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, the theory of evolution helps scientists understand how antibiotic-resistant bacteria develop.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as something Darwin's theory helps scientists understand today?",
+          "options": [
+            "How antibiotic-resistant bacteria develop",
+            "How species are related through shared ancestry",
+            "The diversity of life on Earth",
+            "The exact date the universe began"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "Why do you think Darwin's observations of island species were so important to developing his theory?",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer connects to the passage's point about noticing different features among similar species on different islands."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are part of Darwin's core theory, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "Individuals within a species naturally vary from one another.",
+            "Helpful traits become more common over generations.",
+            "Species gradually change over long periods of time.",
+            "All species stay exactly the same forever, without any change."
+          ],
+          "correct_indices": [0, 1, 2]
+        }
+      ]
+    },
+    {
+      "title": "Discovering the Structure of DNA",
+      "passage": [
+        "In 1953, two scientists named James Watson and Francis Crick announced a discovery that would transform biology forever: the three-dimensional structure of DNA, the molecule that carries genetic instructions inside nearly every living cell. Understanding this structure helped explain how genetic information is stored, copied, and passed from parents to their offspring.",
+        "Watson and Crick determined that DNA is shaped like a twisted ladder, a structure scientists call a double helix, made up of two long strands connected by pairs of smaller molecules called bases. This elegant shape immediately suggested how DNA could be copied accurately, since the two strands could separate and each one could serve as a template for building a new matching strand.",
+        "Their discovery relied heavily on the work of other scientists, particularly a researcher named Rosalind Franklin, whose detailed X-ray images of DNA provided crucial evidence about its helical shape. For many years, Franklin's essential contribution to the discovery received far less public recognition than it deserved, and today many textbooks and historians work to ensure her role is properly acknowledged.",
+        "Understanding DNA's structure opened the door to entirely new fields of science, including genetic engineering, the ability to directly modify an organism's genetic material, and eventually led to advances like genetic testing for inherited diseases and the ability to identify individuals through DNA evidence in criminal investigations. Few discoveries have had such a wide-reaching impact across so many different scientific and practical fields.",
+        "Building on Watson and Crick's foundational discovery, later scientists eventually mapped the complete human genome in 2003, an achievement that would have been impossible without first understanding DNA's basic structure. Today, DNA research continues to advance rapidly, contributing to new medical treatments, agricultural improvements, and a deeper scientific understanding of how all living things are related to one another."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "DNA has no connection to how genetic information is passed between generations.",
+            "Discovering DNA's double helix structure transformed biology and opened the door to numerous scientific and practical advances.",
+            "DNA was discovered by only one scientist working entirely alone.",
+            "The structure of DNA remains completely unknown to scientists today."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 2, what does the phrase \"double helix\" most likely mean, based on how DNA's structure is described in the passage?",
+          "lines": 2,
+          "sample_answer": "A double helix is a twisted ladder shape made of two long connected strands, which is the structure of DNA."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, Rosalind Franklin's contribution to the discovery of DNA's structure was widely and fully recognized at the time.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT described in the passage as a field that opened up because of understanding DNA's structure?",
+          "options": [
+            "Genetic engineering",
+            "Genetic testing for inherited diseases",
+            "Identifying individuals through DNA evidence",
+            "The invention of the first telescope"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about DNA's structure, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "It is shaped like a twisted ladder.",
+            "It has two long strands connected by pairs of bases.",
+            "Its shape suggests how DNA can be copied accurately.",
+            "It has no connection to how traits are inherited."
+          ],
+          "correct_indices": [0, 1, 2]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why was Rosalind Franklin's work important to the discovery of DNA's structure?",
+          "options": [
+            "Her detailed X-ray images provided crucial evidence about DNA's helical shape.",
+            "She had no involvement in the discovery at all.",
+            "She discovered DNA's structure entirely by herself with no input from others.",
+            "Her work was unrelated to genetics or biology."
+          ],
+          "correct_index": 0
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 5?",
+          "options": [
+            "Rosalind Franklin's Contribution",
+            "Building on the Discovery: The Human Genome",
+            "How DNA Copies Itself",
+            "New Fields Opened by DNA Research"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain why the passage says Rosalind Franklin's role deserves more recognition today.",
+          "lines": 2,
+          "sample_answer": "Her X-ray images provided crucial evidence for the discovery, but she received far less public credit than she deserved for many years."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, the complete human genome was mapped in 2003.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as a modern application of DNA research?",
+          "options": [
+            "New medical treatments",
+            "Agricultural improvements",
+            "Understanding how living things are related",
+            "Predicting the weather months in advance"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "Which application of DNA research described in the passage do you think is most important, and why?",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer names a specific application from the passage, such as genetic testing or DNA evidence, and explains its importance."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following does the passage say DNA research has contributed to? (Select ALL that apply.)",
+          "options": [
+            "New medical treatments",
+            "Agricultural improvements",
+            "Mapping the human genome",
+            "The invention of the internet"
+          ],
+          "correct_indices": [0, 1, 2]
+        }
+      ]
+    }
+  ]
+}

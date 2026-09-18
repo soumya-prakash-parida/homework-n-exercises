@@ -1,0 +1,473 @@
+{
+  "subject": "Topic 8: Dinosaurs and Ancient Animals",
+  "topics": [
+    {
+      "title": "Tyrannosaurus Rex: King of the Predators",
+      "passage": [
+        "Tyrannosaurus rex, often shortened to T. rex, is one of the most famous meat-eating dinosaurs ever discovered, living roughly sixty-six to sixty-eight million years ago near the very end of the age of dinosaurs. Fossils of T. rex have been found mainly in western North America, and scientists have pieced together a detailed picture of this massive predator through decades of careful excavation and study.",
+        "An adult T. rex could grow up to about forty feet long and weigh as much as nine tons, roughly the weight of a large modern truck. Despite its enormous size, T. rex had surprisingly small arms compared to the rest of its body, each ending in just two clawed fingers, and scientists still debate exactly what these small arms were used for, since they seem too short to reach the animal's own mouth.",
+        "T. rex had one of the most powerful bites ever measured among land animals, with some scientists estimating its bite force could exceed several tons of pressure, strong enough to crush bone. Fossilized bite marks found on the bones of other dinosaurs, along with broken and healed teeth found in T. rex fossils, provide direct evidence that this animal regularly bit through solid bone while feeding.",
+        "For many years, scientists debated whether T. rex was primarily a hunter that killed its own prey or a scavenger that mainly ate animals that were already dead. Most paleontologists today believe T. rex likely did both, hunting live prey when the opportunity arose while also taking advantage of scavenging opportunities, much like many modern predators do.",
+        "Despite popular depictions in movies showing T. rex as an extremely fast runner, most scientific estimates suggest it moved at a more moderate speed, likely somewhere between ten and twenty-five miles per hour, since its massive body size made extremely fast running physically risky. Studying T. rex continues to reveal new details about how this powerful predator lived, hunted, and moved millions of years ago."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "T. rex was a small, harmless dinosaur with no notable features.",
+            "T. rex was a massive, powerful predator with a crushing bite, whose exact hunting behavior and physical abilities scientists continue to study.",
+            "T. rex fossils have only ever been found in Africa.",
+            "T. rex definitely could not bite through bone."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 4, what does the word \"scavenger\" most likely mean, based on how it is used in the passage?",
+          "lines": 2,
+          "sample_answer": "A scavenger is an animal that mainly eats animals that are already dead, rather than hunting and killing its own prey."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, scientists are completely certain about what T. rex's small arms were used for.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT described in the passage as evidence of T. rex's powerful bite?",
+          "options": [
+            "Fossilized bite marks on other dinosaurs' bones",
+            "Broken and healed teeth found in T. rex fossils",
+            "Scientific bite force estimates exceeding several tons",
+            "Video recordings of T. rex feeding in the wild"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about T. rex's physical size, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "It could grow up to about forty feet long.",
+            "It could weigh as much as nine tons.",
+            "Its arms were surprisingly small compared to its body.",
+            "It was smaller than most modern house cats."
+          ],
+          "correct_indices": [0, 1, 2]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why do most paleontologists today believe T. rex both hunted and scavenged?",
+          "options": [
+            "Evidence suggests it likely did both, similar to many modern predators.",
+            "T. rex fossils prove it never ate any meat at all.",
+            "Scientists have found no evidence of T. rex eating any food.",
+            "T. rex could only scavenge and never hunted live prey."
+          ],
+          "correct_index": 0
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 5?",
+          "options": [
+            "T. rex's Powerful Bite Force",
+            "How Fast Could T. rex Actually Move?",
+            "Where T. rex Fossils Are Found",
+            "T. rex's Small Arms Explained"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain why scientists think T. rex likely moved at a moderate speed rather than running extremely fast.",
+          "lines": 2,
+          "sample_answer": "Its massive body size made extremely fast running physically risky, so most estimates suggest a moderate speed of ten to twenty-five miles per hour."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, T. rex lived near the very end of the age of dinosaurs.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as a place where T. rex fossils have mainly been found?",
+          "options": [
+            "Western North America",
+            "Sites studied through decades of excavation",
+            "Areas explored by paleontologists",
+            "The bottom of the Pacific Ocean"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "write_in",
+          "question": "What part of T. rex's biology described in the passage do you find most surprising, and why?",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer names a specific detail, such as the small arms or the bite force, and explains why it stands out."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following does the passage mention as evidence scientists use to study T. rex? (Select ALL that apply.)",
+          "options": [
+            "Fossilized bite marks",
+            "Broken and healed teeth",
+            "Bite force estimates",
+            "Photographs taken by early explorers"
+          ],
+          "correct_indices": [0, 1, 2]
+        }
+      ]
+    },
+    {
+      "title": "The Long-Necked Giants: Sauropods",
+      "passage": [
+        "Sauropods were a group of plant-eating dinosaurs known for their extremely long necks, long tails, and massive overall body size, making them some of the largest land animals to ever exist on Earth. Species like Brachiosaurus and Diplodocus could grow well over seventy feet long, with some estimates suggesting the largest sauropods may have weighed as much as ten adult elephants combined.",
+        "A sauropod's long neck likely served an important purpose beyond simply looking impressive. Scientists believe the length allowed these massive animals to reach leaves high in trees or spread across a wide feeding area without needing to move their enormous, heavy bodies very often, an efficient way to gather enough food to fuel such a large frame throughout the day.",
+        "Feeding such an enormous body required eating constantly, and scientists estimate some of the largest sauropods may have needed to consume hundreds of pounds of plant material every single day just to survive. Rather than chewing food thoroughly like many modern plant-eating mammals, sauropods likely swallowed plant material in large chunks, sometimes swallowing stones, called gastroliths, that helped grind up tough plant matter inside their stomachs.",
+        "Despite their massive size, sauropod bones were surprisingly light for their overall dimensions, containing large air-filled pockets similar in some ways to the hollow bones found in modern birds. This lightweight bone structure likely helped support the animal's enormous frame without becoming impossibly heavy, an adaptation that made walking and moving somewhat easier than solid, heavy bones would have allowed.",
+        "Sauropods likely traveled in herds for at least part of their lives, based on evidence from fossilized trackways showing multiple sauropods of similar sizes moving together in the same direction. Traveling together may have offered young sauropods some protection from predators, since a massive adult sauropod would have been an intimidating and difficult target for most predators of the time to attack successfully."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "Sauropods were small, meat-eating dinosaurs with short necks.",
+            "Sauropods were enormous, long-necked plant-eaters with special adaptations, including lightweight bones, that helped them survive their massive size.",
+            "Sauropods never ate any plants at all.",
+            "Sauropod bones were extremely heavy and solid throughout."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 3, what does the word \"gastroliths\" most likely mean, based on how they are described in the passage?",
+          "lines": 2,
+          "sample_answer": "Gastroliths are swallowed stones that helped grind up tough plant matter inside a sauropod's stomach."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, sauropods chewed their food thoroughly before swallowing, similar to many modern plant-eating mammals.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT described in the passage as a reason a sauropod's long neck was useful?",
+          "options": [
+            "It allowed them to reach leaves high in trees.",
+            "It let them feed across a wide area without moving their bodies much.",
+            "It helped them swim faster in water.",
+            "It provided an efficient way to gather enough food."
+          ],
+          "correct_index": 2
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about sauropod bones, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "They contained large air-filled pockets.",
+            "They were surprisingly light for their size.",
+            "They were similar in some ways to modern bird bones.",
+            "They were completely solid with no air pockets at all."
+          ],
+          "correct_indices": [0, 1, 2]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why might sauropods have traveled in herds?",
+          "options": [
+            "Traveling together may have offered young sauropods protection from predators.",
+            "Herds allowed sauropods to fly greater distances.",
+            "Sauropods never actually traveled together, according to fossil evidence.",
+            "Herds helped sauropods avoid eating any plants."
+          ],
+          "correct_index": 0
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 3?",
+          "options": [
+            "How Sauropods Fed Their Massive Bodies",
+            "The Purpose of the Long Neck",
+            "Evidence of Sauropod Herds",
+            "Lightweight Bones Explained"
+          ],
+          "correct_index": 0
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain how fossilized trackways provide evidence that sauropods traveled in herds.",
+          "lines": 2,
+          "sample_answer": "Trackways show multiple sauropods of similar sizes moving together in the same direction, suggesting they traveled as a group."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, some of the largest sauropods may have weighed as much as ten adult elephants combined.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as a sauropod species?",
+          "options": [
+            "Brachiosaurus",
+            "Diplodocus",
+            "Tyrannosaurus",
+            "Both are sauropod species mentioned in the passage"
+          ],
+          "correct_index": 2
+        },
+        {
+          "type": "write_in",
+          "question": "What adaptation described in the passage do you think was most important for a sauropod's survival? Explain why.",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer names a specific adaptation, such as the long neck or lightweight bones, and explains its importance."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following does the passage describe as evidence used to study sauropods? (Select ALL that apply.)",
+          "options": [
+            "Fossilized trackways",
+            "Studies of bone structure",
+            "Estimates of daily food consumption",
+            "Direct video footage of live sauropods"
+          ],
+          "correct_indices": [0, 1, 2]
+        }
+      ]
+    },
+    {
+      "title": "Woolly Mammoths and the Ice Age",
+      "passage": [
+        "During the last Ice Age, a period when large parts of Earth were covered in thick sheets of ice, a variety of large mammals roamed cold, grassy landscapes across North America, Europe, and Asia. Among the most famous of these Ice Age animals was the woolly mammoth, a massive relative of modern elephants covered in thick, shaggy fur that helped it survive in extremely cold environments.",
+        "Woolly mammoths were well adapted to freezing temperatures in several ways beyond their thick fur. They had a layer of fat beneath their skin for insulation, small ears and short tails to reduce heat loss, and long, curved tusks that scientists believe were used for digging through snow to reach plants buried underneath, as well as for defense against predators.",
+        "Unlike many prehistoric animals known only from fossilized bones, scientists have discovered several remarkably preserved woolly mammoth remains frozen in ice and frozen ground in places like Siberia, some with skin, fur, and even stomach contents still intact after thousands of years. These frozen specimens have given scientists an unusually detailed look at exactly what mammoths ate and how their bodies were built.",
+        "Woolly mammoths lived alongside early humans, who hunted them for meat, fur, and bones, which were sometimes used to build shelters in areas where wood was scarce. Cave paintings created by early humans in various parts of the world depict mammoths, suggesting these massive animals held cultural or practical importance to the people who lived alongside them.",
+        "Woolly mammoths went extinct roughly four thousand years ago, with a small, isolated population surviving until then on a remote Arctic island long after mainland populations had disappeared. Scientists believe a combination of climate change, as the Ice Age ended and habitats shrank, along with hunting pressure from humans, likely contributed to the eventual extinction of this remarkable Ice Age species."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "Woolly mammoths were small, warm-climate animals with no special adaptations.",
+            "Woolly mammoths were well-adapted Ice Age animals that lived alongside early humans before eventually going extinct.",
+            "Woolly mammoths are still alive today in large numbers.",
+            "No fossilized or frozen remains of mammoths have ever been found."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 2, what does the word \"insulation\" most likely mean, based on how the mammoth's fat layer is described?",
+          "lines": 2,
+          "sample_answer": "Insulation means something that helps keep heat in and cold out, like the fat layer that helped mammoths stay warm."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, woolly mammoths went extinct before early humans ever encountered them.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT described in the passage as an adaptation that helped mammoths survive the cold?",
+          "options": [
+            "Thick, shaggy fur",
+            "A layer of fat beneath their skin",
+            "Small ears and short tails",
+            "Large, heat-releasing wings"
+          ],
+          "correct_index": 3
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about frozen mammoth remains, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "Some have been found with skin and fur still intact.",
+            "Some have preserved stomach contents.",
+            "They have been found in places like Siberia.",
+            "None have ever been discovered anywhere on Earth."
+          ],
+          "correct_indices": [0, 1, 2]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, what likely contributed to the extinction of woolly mammoths?",
+          "options": [
+            "A combination of climate change and hunting pressure from humans.",
+            "Mammoths were never hunted by humans at all.",
+            "The Ice Age never actually ended.",
+            "Mammoths had no predators or environmental challenges of any kind."
+          ],
+          "correct_index": 0
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 4?",
+          "options": [
+            "How Mammoths Stayed Warm",
+            "Mammoths and Early Human Life",
+            "Frozen Remains in Siberia",
+            "The Extinction of the Mammoth"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain how early humans used woolly mammoths, based on the passage.",
+          "lines": 2,
+          "sample_answer": "Early humans hunted mammoths for meat and fur, and sometimes used their bones to build shelters where wood was scarce."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, a small population of mammoths survived on a remote Arctic island after mainland populations disappeared.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as a purpose of a mammoth's tusks?",
+          "options": [
+            "Digging through snow to reach plants",
+            "Defense against predators",
+            "Flying short distances",
+            "Both digging and defense, according to the passage"
+          ],
+          "correct_index": 2
+        },
+        {
+          "type": "write_in",
+          "question": "What do you find most interesting about how scientists study woolly mammoths, based on the passage?",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer references a detail from the passage, such as frozen remains or cave paintings."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following does the passage mention as evidence of mammoths' connection to early humans? (Select ALL that apply.)",
+          "options": [
+            "Cave paintings depicting mammoths",
+            "Bones used to build shelters",
+            "Mammoths hunted for meat and fur",
+            "Modern zoo exhibits featuring live mammoths"
+          ],
+          "correct_indices": [0, 1, 2]
+        }
+      ]
+    },
+    {
+      "title": "Rulers of the Ancient Skies and Seas",
+      "passage": [
+        "While dinosaurs ruled the land during the Mesozoic Era, two very different groups of reptiles dominated the skies and oceans during the same period. Pterosaurs became the first vertebrate animals, meaning animals with a backbone, capable of powered flight, while marine reptiles like plesiosaurs and ichthyosaurs became skilled swimmers that thrived throughout the world's ancient oceans.",
+        "Pterosaurs had large, membrane-covered wings supported by an extremely elongated fourth finger, a very different wing structure from the feathered wings of modern birds. Pterosaur sizes ranged dramatically, from species roughly the size of a small bird to Quetzalcoatlus, one of the largest flying animals ever known, with a wingspan estimated at over thirty feet, roughly the length of a small airplane's wing.",
+        "Contrary to common assumptions, pterosaurs were not actually dinosaurs, even though they lived during the same time period and are often shown together in movies and books. Dinosaurs are defined by specific skeletal features related to how their legs connected to their hips, features that pterosaurs did not share, making them a separate, related group of reptiles rather than a type of dinosaur themselves.",
+        "In the oceans, plesiosaurs developed long necks and four large, paddle-like flippers that they used to swim, while ichthyosaurs evolved a body shape remarkably similar to modern dolphins, despite the two groups being only distantly related. This similarity is a striking example of a process scientists call convergent evolution, where unrelated animals independently develop similar features because they face similar environmental challenges.",
+        "Like the dinosaurs, both pterosaurs and the large marine reptiles went extinct at the end of the Mesozoic Era, roughly sixty-six million years ago, in the same mass extinction event most scientists connect to a massive asteroid impact. Studying these ancient flying and swimming reptiles helps scientists understand how life adapted to different environments long before the appearance of many animal groups alive today."
+      ],
+      "questions": [
+        {
+          "type": "single_choice",
+          "question": "What is the main idea of this passage?",
+          "options": [
+            "Only dinosaurs existed during the Mesozoic Era, with no other reptiles present.",
+            "Pterosaurs and marine reptiles were distinct groups that dominated the skies and oceans alongside the dinosaurs before going extinct together.",
+            "Pterosaurs are a type of dinosaur that could fly.",
+            "Ichthyosaurs and dolphins are closely related species."
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "word_meaning",
+          "question": "In Paragraph 4, what does the phrase \"convergent evolution\" most likely mean, based on how it is described in the passage?",
+          "lines": 2,
+          "sample_answer": "Convergent evolution means unrelated animals independently developing similar features because they face similar environmental challenges."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, pterosaurs are actually classified as a type of dinosaur.",
+          "correct": false
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT described in the passage as a feature of pterosaur wings?",
+          "options": [
+            "Large, membrane-covered wings",
+            "Support from an elongated fourth finger",
+            "Feathers similar to modern birds",
+            "Wing structure very different from bird wings"
+          ],
+          "correct_index": 2
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following are true about ichthyosaurs, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "They evolved a body shape similar to modern dolphins.",
+            "They were only distantly related to dolphins.",
+            "Their similarity to dolphins is an example of convergent evolution.",
+            "They had wings and could fly."
+          ],
+          "correct_indices": [0, 1, 2]
+        },
+        {
+          "type": "single_choice",
+          "question": "Based on the passage, why are pterosaurs considered a separate group from dinosaurs?",
+          "options": [
+            "They did not share the specific skeletal features that define dinosaurs.",
+            "Pterosaurs lived millions of years before any dinosaurs existed.",
+            "Pterosaurs and dinosaurs are actually the exact same animal group.",
+            "Pterosaurs could not fly, unlike dinosaurs."
+          ],
+          "correct_index": 0
+        },
+        {
+          "type": "pick_header",
+          "question": "Which title best fits Paragraph 2?",
+          "options": [
+            "The Extinction of Ancient Reptiles",
+            "Pterosaur Wings and Sizes",
+            "Plesiosaurs in the Ocean",
+            "Why Pterosaurs Are Not Dinosaurs"
+          ],
+          "correct_index": 1
+        },
+        {
+          "type": "write_in",
+          "question": "In your own words, explain what convergent evolution is, using the example of ichthyosaurs and dolphins from the passage.",
+          "lines": 2,
+          "sample_answer": "Convergent evolution is when unrelated animals develop similar features due to similar challenges; ichthyosaurs and dolphins developed similar body shapes despite not being closely related."
+        },
+        {
+          "type": "true_false",
+          "question": "According to the passage, Quetzalcoatlus had a wingspan estimated at over thirty feet.",
+          "correct": true
+        },
+        {
+          "type": "pick_incorrect",
+          "question": "Which of the following is NOT mentioned in the passage as a marine reptile?",
+          "options": [
+            "Plesiosaur",
+            "Ichthyosaur",
+            "Quetzalcoatlus",
+            "Both are marine reptiles mentioned in the passage"
+          ],
+          "correct_index": 2
+        },
+        {
+          "type": "write_in",
+          "question": "Which ancient reptile described in the passage \u2014 a pterosaur, plesiosaur, or ichthyosaur \u2014 would you most like to study, and why?",
+          "lines": 2,
+          "sample_answer": "Answers will vary. A strong answer names one animal group from the passage and explains the choice using a specific detail."
+        },
+        {
+          "type": "multi_choice",
+          "question": "Which of the following went extinct at the end of the Mesozoic Era, according to the passage? (Select ALL that apply.)",
+          "options": [
+            "Dinosaurs",
+            "Pterosaurs",
+            "Large marine reptiles",
+            "Modern dolphins"
+          ],
+          "correct_indices": [0, 1, 2]
+        }
+      ]
+    }
+  ]
+}
