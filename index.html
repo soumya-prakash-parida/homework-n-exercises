@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Homework and Exercises</title>
+<meta name="description" content="Printable practice worksheets with answer keys. Open a PDF to read it on screen, or download it to print.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --desk: #E4EAF4;
+  --paper: #F8FAFE;
+  --rule: #D3E1F3;
+  --ink: #16213E;
+  --graphite: #566075;
+  --margin: #D94661;
+  --highlight: #FFE066;
+  --gutter: 76px;
+  --gap: 28px;
+  --numgap: 14px;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--desk);
+  color: var(--ink);
+  font: 17px/1.55 "Atkinson Hyperlegible", system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+.sheet {
+  position: relative;
+  max-width: 900px;
+  margin: 32px auto;
+  padding: 56px 40px 40px calc(var(--gutter) + var(--gap));
+  background: var(--paper);
+  box-shadow: 0 14px 40px -22px rgba(22, 33, 62, 0.35);
+}
+.sheet::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: var(--gutter);
+  width: 2px;
+  background: var(--margin);
+  opacity: 0.75;
+}
+h1 {
+  margin: 0 0 12px;
+  font-size: clamp(2.1rem, 5.5vw, 3.1rem);
+  line-height: 1.08;
+  letter-spacing: -0.01em;
+}
+.lede { margin: 0 0 8px; max-width: 54ch; color: var(--graphite); }
+h2.grade { margin: 44px 0 0; font-size: 1.9rem; line-height: 1.2; }
+h3.subject { margin: 2px 0 0; font-size: 1.1rem; color: var(--graphite); }
+.format { margin-top: 30px; }
+.format-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 16px;
+  padding-bottom: 6px;
+  border-bottom: 2px solid var(--ink);
+}
+.format-head h4 { margin: 0; font-size: 1.15rem; }
+.count { color: var(--graphite); font-size: 0.9rem; white-space: nowrap; }
+h5.keys { margin: 26px 0 0; padding-bottom: 6px; font-size: 1rem; color: var(--graphite); border-bottom: 2px solid var(--ink); }
+.rows { margin: 0; padding: 0; list-style: none; }
+.row {
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 8px 20px;
+  padding: 14px 0;
+  border-bottom: 1px solid var(--rule);
+}
+.num {
+  position: absolute;
+  top: 14px;
+  right: calc(100% + var(--gap) + var(--numgap));
+  font-weight: 700;
+  color: var(--graphite);
+  font-variant-numeric: tabular-nums;
+}
+.title {
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: var(--ink);
+  text-decoration: underline;
+  text-decoration-color: var(--rule);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+}
+.title:hover { text-decoration-color: var(--margin); }
+.inside { margin: 4px 0 0; color: var(--graphite); font-size: 0.9rem; line-height: 1.5; }
+.inside span + span::before { content: "/"; margin: 0 0.55em; color: var(--margin); }
+.actions { display: flex; align-items: center; gap: 16px; white-space: nowrap; }
+.meta { color: var(--graphite); font-size: 0.9rem; }
+.get {
+  padding: 6px 16px;
+  border: 2px solid var(--ink);
+  border-radius: 6px;
+  color: var(--ink);
+  font-weight: 700;
+  text-decoration: none;
+}
+.get:hover { background: var(--highlight); }
+a:focus-visible { outline: 3px solid var(--ink); outline-offset: 3px; border-radius: 4px; }
+.get:focus-visible { background: var(--highlight); }
+.foot { margin-top: 48px; padding-top: 16px; border-top: 1px solid var(--rule); color: var(--graphite); font-size: 0.9rem; }
+.foot a { color: var(--ink); }
+.sr {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+@media (max-width: 640px) {
+  :root { --gutter: 40px; --gap: 14px; --numgap: 8px; }
+  body { font-size: 16px; }
+  .sheet { margin: 0; padding: 36px 16px 32px calc(var(--gutter) + var(--gap)); box-shadow: none; }
+  .row { grid-template-columns: minmax(0, 1fr); }
+  .actions { justify-content: space-between; }
+}
+</style>
+</head>
+<body>
+<main class="sheet">
+<h1>Homework and Exercises</h1>
+<p class="lede">Printable practice sheets for home study. Open a worksheet to read it on screen, or choose Download to save the PDF and print it.</p>
+<h2 class="grade">Grade 4</h2>
+<h3 class="subject">ELA</h3>
+<section class="format"><div class="format-head"><h4>Reading Comprehension: Mixed Format</h4><span class="count">11 worksheets</span></div>
+<ul class="rows"><li class="row"><span class="num"><span class="sr">Topic </span>1</span><div class="main"><a class="title" href="Grade%204/ELA/Reading%20Comprehension%20-%20Mixed%20Format/PDF/continents-and-wildlife.pdf">Continents and Their Wildlife</a><p class="inside">Passages: <span>Wildlife of the African Savanna</span><span>The Amazon Rainforest: Life in South America</span><span>Australia&#x27;s Unusual Marsupials</span><span>Survivors of the Arctic and Antarctic</span></p></div><div class="actions"><span class="meta">15 pages, 27 KB</span><a class="get" href="Grade%204/ELA/Reading%20Comprehension%20-%20Mixed%20Format/PDF/continents-and-wildlife.pdf" download>Download<span class="sr"> Continents and Their Wildlife (PDF)</span></a></div></li><li class="row"><span class="num"><span class="sr">Topic </span>2</span><div class="main"><a class="title" href="Grade%204/ELA/Reading%20Comprehension%20-%20Mixed%20Format/PDF/early-21st-century-events.pdf">Events from the Early 21st Century</a><p class="inside">Passages: <span>Mapping the Human Genome</span><span>The Smartphone Revolution</span><span>The Rise of Social Media</span><span>New Horizons: A Journey to Pluto</span></p></div><div class="actions"><span class="meta">15 pages, 26 KB</span><a class="get" href="Grade%204/ELA/Reading%20Comprehension%20-%20Mixed%20Format/PDF/early-21st-century-events.pdf" download>Download<span class="sr"> Events from the Early 21st Century (PDF)</span></a></div></li><li class="row"><span class="num"><span class="sr">Topic </span>3</span><div class="main"><a class="title" href="Grade%204/ELA/Reading%20Comprehension%20-%20Mixed%20Format/PDF/earths-natural-phenomena.pdf">Earth&#x27;s Natural Phenomena</a><p class="inside">Passages: <span>Volcanoes: Windows into Earth&#x27;s Interior</span><span>Earthquakes: When the Ground Shakes</span><span>The Northern and Southern Lights</span><span>Tornadoes: Nature&#x27;s Most Violent Storms</span></p></div><div class="actions"><span class="meta">15 pages, 26 KB</span><a class="get" href="Grade%204/ELA/Reading%20Comprehension%20-%20Mixed%20Format/PDF/earths-natural-phenomena.pdf" download>Download<span class="sr"> Earth&#x27;s Natural Phenomena (PDF)</span></a></div></li><li class="row"><span class="num"><span class="sr">Topic </span>4</span><div class="main"><a class="title" href="Grade%204/ELA/Reading%20Comprehension%20-%20Mixed%20Format/PDF/evolution-of-video-games.pdf">Evolution of Video Games</a><p class="inside">Passages: <span>The Arcade Era: Video Games Begin</span><span>Video Games Come Home</span><span>Entering the Third Dimension</span><span>Gaming Goes Mobile and Global</span></p></div><div class="actions"><span class="meta">15 pages, 26 KB</span><a class="get" href="Grade%204/ELA/Reading%20Comprehension%20-%20Mixed%20Format/PDF/evolution-of-video-games.pdf" download>Download<span class="sr"> Evolution of Video Games (PDF)</span></a></div></li><li class="row"><span class="num"><span class="sr">Topic </span>5</span><div class="main"><a class="title" href="Grade%204/ELA/Reading%20Comprehension%20-%20Mixed%20Format/PDF/astronomy-and-events.pdf">Astronomy and Astronomical Events</a><p class="inside">Passages: <span>Our Solar System&#x27;s Family of Planets</span><span>When Day Turns to Night: Solar and Lunar Eclipses</span><span>Stars and the Patterns We See</span><span>Comets and Meteor Showers</span></p></div><div class="actions"><span class="meta">15 pages, 26 KB</span><a class="get" href="Grade%204/ELA/Reading%20Comprehension%20-%20Mixed%20Format/PDF/astronomy-and-events.pdf" download>Download<span class="sr"> Astronomy and Astronomical Events (PDF)</span></a></div></li><li class="row"><span class="num"><span class="sr">Topic </span>6</span><div class="main"><a class="title" href="Grade%204/ELA/Reading%20Comprehension%20-%20Mixed%20Format/PDF/societal-structure.pdf">Societal Structure</a><p class="inside">Passages: <span>How Societies Organize Their People</span><span>Types of Government Around the World</span><span>Why Societies Need Laws and Rules</span><span>Trade, Money, and Economic Systems</span></p></div><div class="actions"><span class="meta">15 pages, 26 KB</span><a class="get" href="Grade%204/ELA/Reading%20Comprehension%20-%20Mixed%20Format/PDF/societal-structure.pdf" download>Download<span class="sr"> Societal Structure (PDF)</span></a></div></li><li class="row"><span class="num"><span class="sr">Topic </span>7</span><div class="main"><a class="title" href="Grade%204/ELA/Reading%20Comprehension%20-%20Mixed%20Format/PDF/modern-world-history-1900s.pdf">Modern World History — the 1900s</a><p class="inside">Passages: <span>The Roaring Twenties</span><span>The Civil Rights Movement</span><span>The Space Race</span><span>The Fall of the Berlin Wall</span></p></div><div class="actions"><span class="meta">15 pages, 27 KB</span><a class="get" href="Grade%204/ELA/Reading%20Comprehension%20-%20Mixed%20Format/PDF/modern-world-history-1900s.pdf" download>Download<span class="sr"> Modern World History — the 1900s (PDF)</span></a></div></li><li class="row"><span class="num"><span class="sr">Topic </span>8</span><div class="main"><a class="title" href="Grade%204/ELA/Reading%20Comprehension%20-%20Mixed%20Format/PDF/dinosaurs-and-ancient-animals.pdf">Dinosaurs and Ancient Animals</a><p class="inside">Passages: <span>Tyrannosaurus Rex: King of the Predators</span><span>The Long-Necked Giants: Sauropods</span><span>Woolly Mammoths and the Ice Age</span><span>Rulers of the Ancient Skies and Seas</span></p></div><div class="actions"><span class="meta">15 pages, 26 KB</span><a class="get" href="Grade%204/ELA/Reading%20Comprehension%20-%20Mixed%20Format/PDF/dinosaurs-and-ancient-animals.pdf" download>Download<span class="sr"> Dinosaurs and Ancient Animals (PDF)</span></a></div></li><li class="row"><span class="num"><span class="sr">Topic </span>9</span><div class="main"><a class="title" href="Grade%204/ELA/Reading%20Comprehension%20-%20Mixed%20Format/PDF/major-scientific-discoveries.pdf">Major Scientific Discoveries</a><p class="inside">Passages: <span>Newton and the Force of Gravity</span><span>Pasteur and the Discovery of Germs</span><span>Darwin and the Theory of Evolution</span><span>Discovering the Structure of DNA</span></p></div><div class="actions"><span class="meta">15 pages, 27 KB</span><a class="get" href="Grade%204/ELA/Reading%20Comprehension%20-%20Mixed%20Format/PDF/major-scientific-discoveries.pdf" download>Download<span class="sr"> Major Scientific Discoveries (PDF)</span></a></div></li><li class="row"><span class="num"><span class="sr">Topic </span>10</span><div class="main"><a class="title" href="Grade%204/ELA/Reading%20Comprehension%20-%20Mixed%20Format/PDF/computational-science-ai-future.pdf">Computational Science, AI, and the Future</a><p class="inside">Passages: <span>The First Computers</span><span>The Internet&#x27;s Early Beginnings</span><span>Artificial Intelligence: How Machines Learn</span><span>Robots and the Future of Technology</span></p></div><div class="actions"><span class="meta">15 pages, 27 KB</span><a class="get" href="Grade%204/ELA/Reading%20Comprehension%20-%20Mixed%20Format/PDF/computational-science-ai-future.pdf" download>Download<span class="sr"> Computational Science, AI, and the Future (PDF)</span></a></div></li><li class="row"><div class="main"><a class="title" href="Grade%204/ELA/Reading%20Comprehension%20-%20Mixed%20Format/PDF/past-civilizations.pdf">Past Civilizations</a><p class="inside">Passages: <span>Ancient Egypt: Gift of the Nile</span><span>The Maya Civilization: Cities in the Jungle</span></p></div><div class="actions"><span class="meta">10 pages, 21 KB</span><a class="get" href="Grade%204/ELA/Reading%20Comprehension%20-%20Mixed%20Format/PDF/past-civilizations.pdf" download>Download<span class="sr"> Past Civilizations (PDF)</span></a></div></li></ul>
+<h5 class="keys">Answer keys</h5>
+<ul class="rows"><li class="row"><div class="main"><a class="title" href="Grade%204/ELA/Reading%20Comprehension%20-%20Mixed%20Format/PDF/combined-answer-key_continents-through-ai.pdf">Combined Answer Key: Continents through AI</a></div><div class="actions"><span class="meta">40 pages, 46 KB</span><a class="get" href="Grade%204/ELA/Reading%20Comprehension%20-%20Mixed%20Format/PDF/combined-answer-key_continents-through-ai.pdf" download>Download<span class="sr"> Combined Answer Key: Continents through AI (PDF)</span></a></div></li></ul>
+</section>
+<section class="format"><div class="format-head"><h4>Reading Comprehension: Single Choice</h4><span class="count">1 worksheet</span></div>
+<ul class="rows"><li class="row"><div class="main"><a class="title" href="Grade%204/ELA/Reading%20Comprehension%20-%20Single%20Choice/PDF/20th-century-american-history.pdf">20th Century American History</a><p class="inside">Passages: <span>The Wright Brothers Take Flight</span><span>Hard Times: The Great Depression</span><span>One Giant Leap: The Moon Landing</span></p></div><div class="actions"><span class="meta">7 pages, 14 KB</span><a class="get" href="Grade%204/ELA/Reading%20Comprehension%20-%20Single%20Choice/PDF/20th-century-american-history.pdf" download>Download<span class="sr"> 20th Century American History (PDF)</span></a></div></li></ul>
+</section>
+<p class="foot">Last updated October 15, 2026. 13 PDFs on this page. <a href="https://github.com/soumya-prakash-parida/homework-n-exercises">Source files on GitHub</a>.</p>
+</main>
+</body>
+</html>
